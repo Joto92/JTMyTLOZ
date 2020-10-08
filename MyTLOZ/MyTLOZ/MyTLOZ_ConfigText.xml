@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<!-- HYRULE | ZELDA -->
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_HYRULE_NAME" Language="en_US" Text="Kingdom of Hyrule"/>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_HYRULE_DESCRIPTION" Language="en_US" Text="Kingdom of Hyrule"/>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_HYRULE_ADJECTIVE" Language="en_US" Text="Hyrulean"/>
+		<Row Tag="LOC_LEADER_ZELDA_NAME" Language="en_US" Text="Zelda"/>
+		<Row Tag="LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME" Language="en_US" Text="Royal Family of Hyrule"/>
+		<Row Tag="LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION" Language="en_US">
+			<Text>One extra Wildcard policy slot in any government. +5% [ICON_Culture] Culture per city-state you are the Suzerain of. +1 [ICON_Culture] Culture and +1 [ICON_Science] Science from international [ICON_TradeRoute] Trade Routes.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_HOPE_OF_HER_PEOPLE_NAME" Language="en_US" Text="Hope of Her People"/>
+		<Row Tag="LOC_TRAIT_HOPE_OF_HER_PEOPLE_DESCRIPTION" Language="en_US">
+			<Text>Automatically receive the final Great Prophet when the next-to-last one is claimed (if you have not earned a Great Prophet already). Combat units have a bonus of +5 [ICON_Strength] Combat Strength against players following other Religions. Opposing civilizations receive double the war weariness for fighting against Zelda.</Text>
+		</Row>
+		<!-- DEKU KING -->
+		<Row Tag="LOC_CIVILIZATION_DEKU_KINGDOM_NAME" Language="en_US" Text="Deku Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_DEKU_KINGDOM_DESCRIPTION" Language="en_US" Text="Deku Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_DEKU_KINGDOM_ADJECTIVE" Language="en_US" Text="Deku"/>
+		<Row Tag="LOC_LEADER_DEKU_KING_NAME" Language="en_US" Text="Deku King"/>
+		<Row Tag="LOC_TRAIT_WOODEN_DOLLS_NAME" Language="en_US" Text="Wooden Dolls"/>
+		<Row Tag="LOC_TRAIT_WOODEN_DOLLS_DESCRIPTION" Language="en_US">
+			<Text>Rainforest tiles provide +1 adjacency bonus for Campus, Commercial Hub, Holy Site, and Theater Square districts. Rainforest tiles provide +1 [ICON_Housing] Housing for Neighborhoods built adjacent to them. All units gains additional +5 [ICON_Strength] when fighting in Forest or Jungle. Units heal faster in forest or jungles.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DEKU_ROYAL_FAMILY_NAME" Language="en_US" Text="Deku Royal Family"/>
+		<Row Tag="LOC_TRAIT_DEKU_ROYAL_FAMILY_DESCRIPTION" Language="en_US">
+			<Text>All units are cannot be seen in the woods or jungle unless they are adjacent to it. +1 Gold[ICON_Gold] in the Commercial Hubs next to Forests. All units can move through Woods and Rainforest without [ICON_Movement] Movement penalty.</Text>
+		</Row>
+		<!-- IKANA -->
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IKANA_NAME" Language="en_US" Text="Kingdom of Ikana"/>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IKANA_DESCRIPTION" Language="en_US" Text="Kingdom of Ikana"/>
+		<Row Tag="LOC_CIVILIZATION_KINGDOM_IKANA_ADJECTIVE" Language="en_US" Text="Ikana"/>
+		<Row Tag="LOC_LEADER_IGOS_IKANA_NAME" Language="en_US" Text="Igos du Ikana"/>
+		<Row Tag="LOC_TRAIT_IKANA_ROYAL_FAMILY_NAME" Language="en_US" Text="Ikana Royal Family"/>
+		<Row Tag="LOC_TRAIT_IKANA_ROYAL_FAMILY_DESCRIPTION" Language="en_US">
+			<Text>All districts receive an additional standard adjacency bonus for being adjacent to another district. Each city can build one more district than usual (exceeding the normal limit based on [ICON_Citizen] Population).</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ELEGY_EMPTINESS_NAME" Language="en_US" Text="Elegy of Emptiness"/>
+		<Row Tag="LOC_TRAIT_ELEGY_EMPTINESS_DESCRIPTION" Language="en_US">
+			<Text>All cities start with an additional City Center building. (Starts with a Monument building in the Ancient era). All their units do not suffer combat penalties when damaged. Accumulate 60% less war weariness than usual.</Text>
+		</Row>
+		<!-- GANON -->
+		<Row Tag="LOC_CIVILIZATION_DEMON_KINGS_NAME" Language="en_US" Text="Demon Kings"/>
+		<Row Tag="LOC_CIVILIZATION_DEMON_KINGS_DESCRIPTION" Language="en_US" Text="Demon Kings"/>
+		<Row Tag="LOC_CIVILIZATION_DEMON_KINGS_ADJECTIVE" Language="en_US" Text="Monsters"/>
+		<Row Tag="LOC_LEADER_GANON_NAME" Language="en_US" Text="Ganon"/>
+		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_NAME" Language="en_US" Text="King of Darkness"/>
+		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION" Language="en_US">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Gains an extra Morannon Orc when trained one. Accumulate 60% less war weariness than usual. </Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_DARK_BEAST_NAME" Language="en_US" Text="Dark Beast"/>
+		<Row Tag="LOC_TRAIT_DARK_BEAST_DESCRIPTION" Language="en_US">
+			<Text>Additional Military policy slot. Combat victories provide [ICON_Faith] Faith and [ICON_Gold] Gold equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<!-- ZORA_KINGDOM -->
+		<Row Tag="LOC_CIVILIZATION_ZORA_KINGDOM_NAME" Language="en_US" Text="Zora Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_ZORA_KINGDOM_DESCRIPTION" Language="en_US" Text="Zora Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_ZORA_KINGDOM_ADJECTIVE" Language="en_US" Text="Zora"/>
+		<Row Tag="LOC_LEADER_DOREPHAN_NAME" Language="en_US" Text="King Dorephan"/>
+		<Row Tag="LOC_TRAIT_SEA_ZORA_NAME" Language="en_US" Text="Sea Zora"/>
+		<Row Tag="LOC_TRAIT_SEA_ZORA_DESCRIPTION" Language="en_US">
+			<Text>+30% [ICON_Production] Production towards districts and wonders if placed next to a River. Allows coastal raiding for all naval melee units. Units gain the ability to enter Ocean tiles after researching the Shipbuilding technology. Naval melee units heal in neutral territory. Units ignore additional [ICON_Movement] Movement costs from embarking and disembarking.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_KING_OFTHE_ZORA_NAME" Language="en_US" Text="King of the Zora"/>
+		<Row Tag="LOC_TRAIT_KING_OFTHE_ZORA_DESCRIPTION" Language="en_US">
+			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
+		</Row>
+		<!-- GORON | DARUK -->
+		<Row Tag="LOC_CIVILIZATION_THE_GORON_NAME" Language="en_US" Text="Zora Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_THE_GORON_DESCRIPTION" Language="en_US" Text="Zora Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_THE_GORON_ADJECTIVE" Language="en_US" Text="Goron"/>
+		<Row Tag="LOC_LEADER_DARUK_NAME" Language="en_US" Text="Daruk"/>
+		<Row Tag="LOC_TRAIT_ROCK_EATERS_NAME" Language="en_US" Text="Rock Eaters"/>
+		<Row Tag="LOC_TRAIT_ROCK_EATERS_DESCRIPTION" Language="en_US">
+			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines gives +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GORON_CHAMPION_NAME" Language="en_US" Text="Goron Champion"/>
+		<Row Tag="LOC_TRAIT_GORON_CHAMPION_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee units. All cities you found or conquer start with a Trading Post.</Text>
+		</Row>
+		<!-- GERUDO | RIJU -->
+		<Row Tag="LOC_CIVILIZATION_GERUDO_NAME" Language="en_US" Text="Gerudo"/>
+		<Row Tag="LOC_CIVILIZATION_GERUDO_DESCRIPTION" Language="en_US" Text="Gerudo"/>
+		<Row Tag="LOC_CIVILIZATION_GERUDO_ADJECTIVE" Language="en_US" Text="Gerudo"/>
+		<Row Tag="LOC_LEADER_MAKEELA_RIJU_NAME" Language="en_US" Text="Makeela Riju"/>
+		<Row Tag="LOC_TRAIT_GERUDO_CHIEFTAINS_NAME" Language="en_US" Text="Gerudo Chieftains"/>
+		<Row Tag="LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gives 1 [ICON_Gold] Gold and 1 [ICON_Food] Food per adjacency to Desert or Desert Hills. +5 [ICON_Strength] Combat Strength in Desert. Extra territory upon founding cities. Oasis tiles provide +2 [ICON_Food] Food and +1 [ICON_Culture] to City Center.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_CHILD_CHIEF_NAME" Language="en_US" Text="Child Chief"/>
+		<Row Tag="LOC_TRAIT_CHILD_CHIEF_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to other civilizations provide +4 [ICON_Gold] Gold for Riju. Other civilizations' [ICON_TradeRoute] Trade Routes to Riju provide +2 [ICON_Food] Food for them and +2 [ICON_Gold] Gold and +2 [ICON_Food] Food for Riju.</Text>
+		</Row>
+		<!-- RHOAM_BOSPHORAMUS -->
+		<Row Tag="LOC_LEADER_RHOAM_BOSPHORAMUS_NAME" Language="en_US" Text="Rhoam Bosphoramus"/>
+		<Row Tag="LOC_TRAIT_LAST_KING_HYRULE_NAME" Language="en_US" Text="The Last King of Hyrule"/>
+		<Row Tag="LOC_TRAIT_LAST_KING_HYRULE_DESCRIPTION" Language="en_US">
+			<Text>All cities you found or conquer start with a Trading Post. If in [ICON_TradeRoute] Trade Route range of your [ICON_Capital] Capital, they also start with a road to it. Your [ICON_TradeRoute] Trade Routes earn +1 [ICON_Gold] Gold for passing through Trading Posts in your own cities.</Text>
+		</Row>
+		<!-- URBOSA -->
+		<Row Tag="LOC_LEADER_URBOSA_NAME" Language="en_US" Text="Urbosa"/>
+		<Row Tag="LOC_TRAIT_GERUDO_CHAMPION_NAME" Language="en_US" Text="Gerudo Champion"/>
+		<Row Tag="LOC_TRAIT_GERUDO_CHAMPION_DESCRIPTION" Language="en_US">
+			<Text>Luxury resources in his territory provide an [ICON_Amenities] Amenity to 2 extra cities. Military units receive +1 [ICON_Strength] Combat Strength for each different Luxury resource improved in Aztec lands.</Text>
+		</Row>
+		<!--UNITS-->
+		<Row Tag="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Language="en_US" Text="Knight of Hyrule"/>
+		<Row Tag="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" Language="en_US">
+			<Text>Hyrule unique heavy cavalry unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Language="en_US" Text="Sheikah Warriors"/>
+		<Row Tag="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" Language="en_US">
+			<Text>Hyrule unique recon unit replace the Ranger.  This unit heals every turn, even after moving or combat. +5 [ICON_Strength] Combat Strength in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_NUTLING_NAME" Language="en_US" Text="Nutling"/>
+		<Row Tag="LOC_UNIT_NUTLING_DESCRIPTION" Language="en_US">
+			<Text>Deku unique melee unit. +7 [ICON_Strength] Combat Strength when defending in Woods, Jungle, Hills, or Marsh. Doesn't require Iron.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MAD_SCRUB_NAME" Language="en_US" Text="Mad Scrub"/>
+		<Row Tag="LOC_UNIT_MAD_SCRUB_DESCRIPTION" Language="en_US">
+			<Text>Deku unique ranged unit, replaces the Archer. Less attack than normal but +1 additional attack if unit has not moved.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_TOTEM_DEKU_NAME" Language="en_US" Text="Totem Deku"/>
+		<Row Tag="LOC_UNIT_TOTEM_DEKU_DESCRIPTION" Language="en_US">
+			<Text>Deku unique ranged unit, replaces the Crossbowman. +5 [ICON_Strength] Combat Strength when in a district or fort.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GUARDLING_NAME" Language="en_US" Text="Guardling"/>
+		<Row Tag="LOC_UNIT_GUARDLING_DESCRIPTION" Language="en_US">
+			<Text>Deku unique anti-cav unit. +7 [ICON_Strength] Combat Strength when defending in Woods, Jungle, Hills, or Marsh.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_DEKU_ORHAT_NAME" Language="en_US" Text="Deku Orhat"/>
+		<Row Tag="LOC_UNIT_DEKU_ORHAT_DESCRIPTION" Language="en_US">
+			<Text>Deku unique light cavalry unit. Faster if it starts in open terrain, doesn't require the Horses resource.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GIANT_ORHAT_NAME" Language="en_US" Text="Giant Orhat"/>
+		<Row Tag="LOC_UNIT_GIANT_ORHAT_DESCRIPTION" Language="en_US">
+			<Text>Deku unique light cavalry unit. -5 [ICON_Strength] Combat Strength for all adjacent enemy units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GARO_ROBE_NAME" Language="en_US" Text="Garo Robe"/>
+		<Row Tag="LOC_UNIT_GARO_ROBE_DESCRIPTION" Language="en_US">
+			<Text>Garo unique recon unit replace the Ranger.  +5 [ICON_Strength] Combat Strength outside of own borders.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HOLLOW_KNIGHT_NAME" Language="en_US" Text="Hollow Knight"/>
+		<Row Tag="LOC_UNIT_HOLLOW_KNIGHT_DESCRIPTION" Language="en_US">
+			<Text>Ikana unique heavy cavalry unit. This unit heals every turn, even after moving or combat.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_MOBLIN_NAME" Language="en_US" Text="Moblin"/>
+		<Row Tag="LOC_UNIT_MOBLIN_DESCRIPTION" Language="en_US">
+			<Text>Monster unique anti-cavalry unit. +5 [ICON_Strength] Combat Strength against Melee units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BOKOBLIN_NAME" Language="en_US" Text="Bokoblin"/>
+		<Row Tag="LOC_UNIT_BOKOBLIN_DESCRIPTION" Language="en_US">
+			<Text>Monster unique melee unit. Reduced pillage cost.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BULBLIN_NAME" Language="en_US" Text="Bulblin"/>
+		<Row Tag="LOC_UNIT_BULBLIN_DESCRIPTION" Language="en_US">
+			<Text>Monster unique ranged unit.  +5 [ICON_Strength] Combat Strength against damaged units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BULLBOS_RIDER_NAME" Language="en_US" Text="Bullbos Rider"/>
+		<Row Tag="LOC_UNIT_BULLBOS_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Monster unique Medieval era light cavalry unit. +5 Combat Strength when fighting in Hills and can move over Hills faster.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_STALHORSE_RIDER_NAME" Language="en_US" Text="Stalhorse Rider"/>
+		<Row Tag="LOC_UNIT_STALHORSE_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Monster unique heavy cavalry unit. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_LIZALFOS_NAME" Language="en_US" Text="Lizalfos"/>
+		<Row Tag="LOC_UNIT_LIZALFOS_DESCRIPTION" Language="en_US">
+			<Text>Monster unique anti-cavalry unit. +7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ELECTRIC_LIZALFOS_NAME" Language="en_US" Text="Electric Lizalfos"/>
+		<Row Tag="LOC_UNIT_ELECTRIC_LIZALFOS_DESCRIPTION" Language="en_US">
+			<Text>Monster unique ranged unit. Yields 50% of defeated units' [ICON_Strength] Combat Strength as [ICON_Science] Science on combat victory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ZORA_SPEARS_NAME" Language="en_US" Text="Zora Spears"/>
+		<Row Tag="LOC_UNIT_ZORA_SPEARS_DESCRIPTION" Language="en_US">
+			<Text>Zora unique anti-cavalry unit. +5 [ICON_Strength] Combat Strength if there is at least one adjacent Zora Spear unit.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_RIVER_PATROL_NAME" Language="en_US" Text="River Patrol"/>
+		<Row Tag="LOC_UNIT_RIVER_PATROL_DESCRIPTION" Language="en_US">
+			<Text>Zora unique Medieval era light cavalry unit. Does not have any movement cross cost when crossing rivers.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_HYDROPHANT_LANCER_NAME" Language="en_US" Text="Hydrophant Lancer"/>
+		<Row Tag="LOC_UNIT_HYDROPHANT_LANCER_DESCRIPTION" Language="en_US">
+			<Text>Zora unique heavy cavalry unit. +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GORON_BOMBARDIERS_NAME" Language="en_US" Text="Goron Bombardiers"/>
+		<Row Tag="LOC_UNIT_GORON_BOMBARDIERS_DESCRIPTION" Language="en_US">
+			<Text>Goron unique ranged unit. +7 [ICON_Strength]Combat Strength when attacking, and -7 [ICON_Strength] Combat Strength when defending.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROCK_TOSSER_NAME" Language="en_US" Text="Rock Tosser"/>
+		<Row Tag="LOC_UNIT_ROCK_TOSSER_DESCRIPTION" Language="en_US">
+			<Text>Goron unique ranged unit, replaces the Archer. Less attack than normal but +1 additional attack if unit has not moved.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_BATTLE_BROTHER_NAME" Language="en_US" Text="Battle Brother"/>
+		<Row Tag="LOC_UNIT_BATTLE_BROTHER_DESCRIPTION" Language="en_US">
+			<Text>Goron unique melee unit, replaces the Swordsman. +7 [ICON_Strength] Combat Strength when defending vs. ranged attacks.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_FIRE_WARRIOR_NAME" Language="en_US" Text="Fire Warrior"/>
+		<Row Tag="LOC_UNIT_FIRE_WARRIOR_DESCRIPTION" Language="en_US">
+			<Text>Goron unique anti-cavalry unit, replaces the Pikemen. Does not suffer combat penalties when damaged.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_ROLLIN_GORON_NAME" Language="en_US" Text="Rollin Goron"/>
+		<Row Tag="LOC_UNIT_ROLLIN_GORON_DESCRIPTION" Language="en_US">
+			<Text>Goron unique light cavalry unit. Pushes defending enemy units back from their hex in any battle where they score more damage. Defenders that cannot retreat suffer additional damage.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SALAMANDER_WAGON_NAME" Language="en_US" Text="Salamander Wagon"/>
+		<Row Tag="LOC_UNIT_SALAMANDER_WAGON_DESCRIPTION" Language="en_US">
+			<Text>Goron unique heavy cavalry unit. Can heal adjacent units.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_SAND_SEAL_RIDER_NAME" Language="en_US" Text="Sand Seal Rider"/>
+		<Row Tag="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" Language="en_US">
+			<Text>Gerudo unique heavy cavalry unit. Faster if it starts in open terrain.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_GERUTO_PIRATES_NAME" Language="en_US" Text="Gerudo Pirates"/>
+		<Row Tag="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" Language="en_US">
+			<Text>Gerudo unique melee unit. Recieve +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_VEILED_GUARDS_NAME" Language="en_US" Text="Veiled Guards"/>
+		<Row Tag="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" Language="en_US">
+			<Text>Gerudo unique anti-cavalry unit. +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
+		</Row>
+		<Row Tag="LOC_UNIT_YIGA_WARRIORS_NAME" Language="en_US" Text="Garo Robe"/>
+		<Row Tag="LOC_UNIT_YIGA_WARRIORS_DESCRIPTION" Language="en_US">
+			<Text>Evil unique recon unit replace the Ranger. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
+		</Row>
+		<!--Improvements-->
+		<Row Tag="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Language="en_US" Text="Hylian Ranch"/>
+		<Row Tag="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" Language="en_US">
+			<Text>Hyrule unique improvement. Gives +1 [ICON_Culture] Culture and +1 [ICON_Food] Food and +1 Housing. If next to a Pasture, gives additional +1 [ICON_Culture] Culture, +1 [ICON_Food] Food and  +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_NAME" Language="en_US" Text="Stone Tower Temple"/>
+		<Row Tag="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_DESCRIPTION" Language="en_US">
+			<Text>Ikana unique improvement. Gives +2 [ICON_Faith] Faith. If next to a Holy Siteas, gives additional +2 [ICON_Faith] Faith, +2 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_NAME" Language="en_US" Text="Zora Water Temple"/>
+		<Row Tag="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_DESCRIPTION" Language="en_US">
+			<Text>Zora unique improvement. Gives +2 [ICON_Faith] Faith. Adjacency bonus for rivers of +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_IMPROVEMENT_GORON_HOT_SPRING_NAME" Language="en_US" Text="Goron Hot Spring"/>
+		<Row Tag="LOC_IMPROVEMENT_GORON_HOT_SPRING_DESCRIPTION" Language="en_US">
+			<Text>Goron unique improvement. Gives +2 [ICON_Culture] Culture. If next to a Mine or a Quarry, gives additional +1 [ICON_Culture] Culture, +1 [ICON_Faith] Faith.</Text>
+		</Row>
+		<!--Districts-->
+		<Row Tag="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_NAME" Language="en_US" Text="Egg Incubator House"/>
+		<Row Tag="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_DESCRIPTION" Language="en_US">
+			<Text>Zora unique District for city growth. Replaces the Aqueduct district.[NEWLINE][NEWLINE]It provides this city with a source of fresh water from an adjacent River, Lake, Oasis, or Mountain. Cities that do not yet have existing fresh water receive up to 6 [ICON_Housing] Housing. Cities that already have existing fresh water will instead get +2 [ICON_Housing] Housing. Must be built adjacent to the City Center. In either case, the Bath provides an additional bonus of +2 [ICON_Housing] Housing and +1 [ICON_Culture] Culture and +1 [ICON_Faith] Faith, additionaly +1 [ICON_Culture] Culture for River adjacency. Must be built adjacent to the City Center. Gives culture for each citizen.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Language="en_US" Text="Gerudo Bazaar"/>
+		<Row Tag="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" Language="en_US">
+			<Text>Gerudo unique District that replace the Comercial Hub district which provides a large amount of [ICON_Gold] Gold and [ICON_GreatMerchant] Great Merchant points. +1 [ICON_Gold] Gold and +1 [ICON_Culture] for Oasis adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_BUILDING_GODDESS_STATUE_NAME" Language="en_US" Text="Goddess Statue"/>
+		<Row Tag="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" Language="en_US">
+			<Text>Hyrule unique Bulding that replace the Monument. +3 [ICON_Culture] Culture and +1 [ICON_Faith] Faith.</Text>
+		</Row>
+	</LocalizedText>
+</GameData>

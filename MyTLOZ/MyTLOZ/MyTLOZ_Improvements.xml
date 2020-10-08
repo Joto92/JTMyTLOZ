@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="IMPROVEMENT_HYLIAN_RANCH" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_STONE_TOWER_TEMPLE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_ZORA_WATER_TEMPLE" Kind="KIND_IMPROVEMENT"/>
+		<Row Type="IMPROVEMENT_GORON_HOT_SPRING" Kind="KIND_IMPROVEMENT"/>
+	</Types>
+
+	<Improvements>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" PlunderType="PLUNDER_FOOD" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_FEUDALISM" SameAdjacentValid="false" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_HYLIAN_RANCH" Appeal="1" Housing="1" />
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" Name="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_DESCRIPTION" Icon="ICON_IMPROVEMENT_STONE_TOWER_TEMPLE" PlunderType="PLUNDER_FAITH" Buildable="true" DefenseModifier="6" GrantFortification="2" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_STONE_TOWER_TEMPLE"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" Name="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_DESCRIPTION" Icon="ICON_IMPROVEMENT_ZORA_WATER_TEMPLE" PlunderType="PLUNDER_FAITH" PlunderAmount="25" Buildable="true" PrereqTech="TECH_CONSTRUCTION" SameAdjacentValid="false" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_ZORA_WATER_TEMPLE" Appeal="1" RequiresRiver="true"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" Name="LOC_IMPROVEMENT_GORON_HOT_SPRING_NAME" Description="LOC_IMPROVEMENT_GORON_HOT_SPRING_DESCRIPTION" Icon="ICON_IMPROVEMENT_GORON_HOT_SPRING" PlunderType="PLUNDER_CULTURE" PlunderAmount="25" Buildable="true" PrereqCivic="CIVIC_DRAMA_POETRY" SameAdjacentValid="false" TraitType="TRAIT_CIVILIZATION_IMPROVEMENT_GORON_HOT_SPRING" Appeal="1"/>
+
+	</Improvements>
+
+	<Improvement_ValidTerrains>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" TerrainType="TERRAIN_SNOW_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_DESERT"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_TUNDRA"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_PLAINS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_GRASS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_SNOW"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_DESERT_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_TUNDRA_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_PLAINS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_GRASS_HILLS"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" TerrainType="TERRAIN_SNOW_HILLS"/>
+	</Improvement_ValidTerrains>
+
+	<Improvement_ValidBuildUnits>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" UnitType="UNIT_BUILDER"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" UnitType="UNIT_BUILDER"/>
+
+	</Improvement_ValidBuildUnits>
+
+	<Improvement_YieldChanges>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldType="YIELD_FOOD" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" YieldType="YIELD_CULTURE" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" YieldType="YIELD_FAITH" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_ZORA_WATER_TEMPLE" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldType="YIELD_CULTURE" YieldChange="2"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldType="YIELD_GOLD" YieldChange="0"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldType="YIELD_FAITH" YieldChange="0"/>
+
+	</Improvement_YieldChanges>
+
+	<Improvement_Adjacencies>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldChangeId="HylianRanch_Pasture_Gold"/>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldChangeId="HylianRanch_Pasture_Food"/>
+		<Row ImprovementType="IMPROVEMENT_HYLIAN_RANCH" YieldChangeId="HylianRanch_Pasture_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" YieldChangeId="StoneTowerTemple_Holy_Faith"/>
+		<Row ImprovementType="IMPROVEMENT_STONE_TOWER_TEMPLE" YieldChangeId="StoneTowerTemple_Holy_Culture"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldChangeId="GoronHotSpring_Mine_Gold"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldChangeId="GoronHotSpring_Mine_Faith"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldChangeId="GoronHotSpring_Quarry_Gold"/>
+		<Row ImprovementType="IMPROVEMENT_GORON_HOT_SPRING" YieldChangeId="GoronHotSpring_Quarry_Faith"/>
+	</Improvement_Adjacencies>
+
+	<Adjacency_YieldChanges>
+		<Row ID="HylianRanch_Pasture_Gold" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="2" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_PASTURE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="HylianRanch_Pasture_Food" Description="Placeholder" YieldType="YIELD_FOOD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_PASTURE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="HylianRanch_Pasture_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_PASTURE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="StoneTowerTemple_Holy_Faith" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_HOLY_SITE"/>
+		<Row ID="StoneTowerTemple_Holy_Culture" Description="Placeholder" YieldType="YIELD_CULTURE" YieldChange="2" TilesRequired="1" AdjacentDistrict="DISTRICT_HOLY_SITE"/>
+		<Row ID="GoronHotSpring_Mine_Gold" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_MINE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="GoronHotSpring_Mine_Faith" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_MINE" PrereqTech="TECH_MASONRY"/>
+		<Row ID="GoronHotSpring_Quarry_Gold" Description="Placeholder" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_QUARRY" PrereqTech="TECH_MASONRY"/>
+		<Row ID="GoronHotSpring_Quarry_Faith" Description="Placeholder" YieldType="YIELD_FAITH" YieldChange="1" TilesRequired="1" AdjacentImprovement="IMPROVEMENT_QUARRY" PrereqTech="TECH_MASONRY"/>
+	</Adjacency_YieldChanges>
+
+	<ImprovementModifiers>
+		<Row>
+			<ImprovementType>IMPROVEMENT_ZORA_WATER_TEMPLE</ImprovementType>
+			<ModifierId>ZORA_WATER_TEMPLE_RIVERADJACENCY_FAITH</ModifierId>
+		</Row>
+	</ImprovementModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>ZORA_WATER_TEMPLE_RIVERADJACENCY_FAITH</ModifierId>
+			<ModifierType>MODIFIER_SINGLE_PLOT_ADJUST_PLOT_YIELDS</ModifierType>
+			<SubjectRequirementSetId>PLOT_ADJACENT_TO_RIVER_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+	<ModifierArguments>
+		<Row>
+			<ModifierId>ZORA_WATER_TEMPLE_RIVERADJACENCY_FAITH</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>ZORA_WATER_TEMPLE_RIVERADJACENCY_FAITH</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+	</ModifierArguments>
+</GameData>

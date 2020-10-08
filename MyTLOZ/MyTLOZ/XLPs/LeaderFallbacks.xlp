@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="LeaderFallback"/>
+	<m_PackageName text="LeaderFallbacks"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_ZELDA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_ZELDA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DEKU_KING"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DEKU_KING"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_IGOS_IKANA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_IGOS_IKANA"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_GANON"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_GANON"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DOREPHAN"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DOREPHAN"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_DARUK"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_DARUK"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_MAKEELA_RIJU"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_MAKEELA_RIJU"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_RHOAM_BOSPHORAMUS"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_RHOAM_BOSPHORAMUS"/>
+		</Element>
+		<Element>
+			<m_EntryID text="FALLBACK_NEUTRAL_URBOSA"/>
+			<m_ObjectName text="FALLBACK_NEUTRAL_URBOSA"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

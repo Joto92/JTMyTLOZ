@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="DISTRICT_EGG_INCUBATOR_HOUSE" Kind="KIND_DISTRICT"/>
+		<Row Type="DISTRICT_GERUDO_BAZAAR" Kind="KIND_DISTRICT"/>
+	</Types>
+
+	<DistrictReplaces>
+		<Row CivUniqueDistrictType="DISTRICT_EGG_INCUBATOR_HOUSE" ReplacesDistrictType="DISTRICT_AQUEDUCT"/>
+		<Row CivUniqueDistrictType="DISTRICT_GERUDO_BAZAAR" ReplacesDistrictType="DISTRICT_COMMERCIAL_HUB"/>
+	</DistrictReplaces>
+	<Districts>
+		<Row DistrictType="DISTRICT_EGG_INCUBATOR_HOUSE" Name="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_NAME" Description="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_DESCRIPTION" PrereqTech="TECH_ENGINEERING" PlunderType="PLUNDER_CULTURE" PlunderAmount="50" AdvisorType="ADVISOR_GENERIC" Cost="18" CostProgressionModel="COST_PROGRESSION_GAME_PROGRESS" CostProgressionParam1="1000" RequiresPlacement="true" RequiresPopulation="false" Aqueduct="true" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" Housing="2" TraitType="TRAIT_CIVILIZATION_DISTRICT_EGG_INCUBATOR_HOUSE"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" PrereqTech="TECH_CURRENCY" PlunderType="PLUNDER_GOLD" PlunderAmount="50" AdvisorType="ADVISOR_GENERIC" Cost="54" CostProgressionModel="COST_PROGRESSION_NUM_UNDER_AVG_PLUS_TECH" CostProgressionParam1="40" RequiresPlacement="true" RequiresPopulation="true" Aqueduct="false" NoAdjacentCity="false" InternalOnly="false" ZOC="false" CaptureRemovesBuildings="false" CaptureRemovesCityDefenses="false" MilitaryDomain="NO_DOMAIN" TravelTime="3" CityStrengthModifier="2" TraitType="TRAIT_CIVILIZATION_DISTRICT_GERUDO_BAZAAR"/>
+	</Districts>
+
+	<District_CitizenYieldChanges>
+		<Row DistrictType="DISTRICT_EGG_INCUBATOR_HOUSE" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row DistrictType="DISTRICT_EGG_INCUBATOR_HOUSE" YieldType="YIELD_CULTURE" YieldChange="1"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldType="YIELD_GOLD" YieldChange="4"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldType="YIELD_CULTURE" YieldChange="0"/>
+	</District_CitizenYieldChanges>
+
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_EGG_INCUBATOR_HOUSE" YieldChangeId="TLOZ_River_Culture"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldChangeId="Gerudo_Bazaar_Oasis_Culture"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldChangeId="Gerudo_Bazaar_Oasis_Gold"/>
+	</District_Adjacencies>
+
+	<District_GreatPersonPoints>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" GreatPersonClassType="GREAT_PERSON_CLASS_MERCHANT" PointsPerTurn="1"/>
+	</District_GreatPersonPoints>
+
+	<District_TradeRouteYields>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldType="YIELD_PRODUCTION" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="1" YieldChangeAsInternationalDestination="0"/>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldType="YIELD_GOLD" YieldChangeAsOrigin="0" YieldChangeAsDomesticDestination="0" YieldChangeAsInternationalDestination="3"/>
+	</District_TradeRouteYields>
+	
+	<Adjacency_YieldChanges>
+		<Row ID="TLOZ_River_Culture" Description="LOC_TLOZ_DISTRICT_RIVER_CULTURE" YieldType="YIELD_CULTURE" YieldChange="2" TilesRequired="1" AdjacentRiver="true"/>
+		<Row ID="Gerudo_Bazaar_Oasis_Culture" Description="LOC_TLOZ_DISTRICT_OASIS_CULTURE" YieldType="YIELD_CULTURE" YieldChange="1" TilesRequired="2" AdjacentFeature="FEATURE_OASIS"/>
+		<Row ID="Gerudo_Bazaar_Oasis_Gold" Description="LOC_TLOZ_DISTRICT_OASIS_GOLD" YieldType="YIELD_GOLD" YieldChange="1" TilesRequired="2" AdjacentFeature="FEATURE_OASIS"/>
+	</Adjacency_YieldChanges>
+</GameData>

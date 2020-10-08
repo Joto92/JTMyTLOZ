@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="UILeaders"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="TLOZ_Loading_Background"/>
+			<m_ObjectName text="TLOZ_Loading_Background"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ZELDA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_ZELDA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_ZELDA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_ZELDA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DEKU_KING_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DEKU_KING_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DEKU_KING_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DEKU_KING_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_IGOS_IKANA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_IGOS_IKANA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_IGOS_IKANA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_IGOS_IKANA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GANON_NEUTRAL"/>
+			<m_ObjectName text="LEADER_GANON_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_GANON_BACKGROUND"/>
+			<m_ObjectName text="LEADER_GANON_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DOREPHAN_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DOREPHAN_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DOREPHAN_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DOREPHAN_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DARUK_NEUTRAL"/>
+			<m_ObjectName text="LEADER_DARUK_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_DARUK_BACKGROUND"/>
+			<m_ObjectName text="LEADER_DARUK_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAKEELA_RIJU_NEUTRAL"/>
+			<m_ObjectName text="LEADER_MAKEELA_RIJU_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_MAKEELA_RIJU_BACKGROUND"/>
+			<m_ObjectName text="LEADER_MAKEELA_RIJU_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RHOAM_BOSPHORAMUS_NEUTRAL"/>
+			<m_ObjectName text="LEADER_RHOAM_BOSPHORAMUS_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_URBOSA_NEUTRAL"/>
+			<m_ObjectName text="LEADER_URBOSA_NEUTRAL"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_URBOSA_BACKGROUND"/>
+			<m_ObjectName text="LEADER_URBOSA_BACKGROUND"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>LINUX</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

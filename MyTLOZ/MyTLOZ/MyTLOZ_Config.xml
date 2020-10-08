@@ -1,0 +1,638 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Players>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_ZELDA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ZELDA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ZELDA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOPE_OF_HER_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOPE_OF_HER_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ZELDA</LeaderAbilityIcon>
+			<Portrait>LEADER_ZELDA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DEKU_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DEKU_KING</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEKU_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEKU_KING_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEKU_KING</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WOODEN_DOLLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WOODEN_DOLLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEKU_ROYAL_FAMILY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEKU_ROYAL_FAMILY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEKU_KING</LeaderAbilityIcon>
+			<Portrait>LEADER_DEKU_KING_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_IKANA</CivilizationType>
+			<LeaderType>LEADER_IGOS_IKANA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_IKANA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_IGOS_IKANA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_IGOS_IKANA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IKANA_ROYAL_FAMILY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IKANA_ROYAL_FAMILY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELEGY_EMPTINESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELEGY_EMPTINESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_IGOS_IKANA</LeaderAbilityIcon>
+			<Portrait>LEADER_IGOS_IKANA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_DEMON_KINGS</CivilizationType>
+			<LeaderType>LEADER_GANON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEMON_KINGS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GANON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GANON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KING_OF_DARKNESS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DARK_BEAST_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DARK_BEAST_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GANON</LeaderAbilityIcon>
+			<Portrait>LEADER_GANON_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_ZORA_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DOREPHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ZORA_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DOREPHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DOREPHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SEA_ZORA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SEA_ZORA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_OFTHE_ZORA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_OFTHE_ZORA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DOREPHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_DOREPHAN_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_THE_GORON</CivilizationType>
+			<LeaderType>LEADER_DARUK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THE_GORON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THE_GORON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DARUK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DARUK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROCK_EATERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROCK_EATERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THE_GORON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GORON_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GORON_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DARUK</LeaderAbilityIcon>
+			<Portrait>LEADER_DARUK_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_MAKEELA_RIJU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAKEELA_RIJU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAKEELA_RIJU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILD_CHIEF_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILD_CHIEF_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAKEELA_RIJU</LeaderAbilityIcon>
+			<Portrait>LEADER_MAKEELA_RIJU_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_RHOAM_BOSPHORAMUS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHOAM_BOSPHORAMUS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_KING_HYRULE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_KING_HYRULE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderAbilityIcon>
+			<Portrait>LEADER_RHOAM_BOSPHORAMUS_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>StandardPlayers</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_URBOSA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URBOSA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URBOSA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GERUDO_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GERUDO_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URBOSA</LeaderAbilityIcon>
+			<Portrait>LEADER_URBOSA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+	</Players>
+
+	<Players>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_ZELDA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ZELDA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ZELDA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOPE_OF_HER_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOPE_OF_HER_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ZELDA</LeaderAbilityIcon>
+			<Portrait>LEADER_ZELDA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_DEKU_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DEKU_KING</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEKU_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEKU_KING_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEKU_KING</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WOODEN_DOLLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WOODEN_DOLLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEKU_ROYAL_FAMILY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEKU_ROYAL_FAMILY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEKU_KING</LeaderAbilityIcon>
+			<Portrait>LEADER_DEKU_KING_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_IKANA</CivilizationType>
+			<LeaderType>LEADER_IGOS_IKANA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_IKANA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_IGOS_IKANA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_IGOS_IKANA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IKANA_ROYAL_FAMILY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IKANA_ROYAL_FAMILY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELEGY_EMPTINESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELEGY_EMPTINESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_IGOS_IKANA</LeaderAbilityIcon>
+			<Portrait>LEADER_IGOS_IKANA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_DEMON_KINGS</CivilizationType>
+			<LeaderType>LEADER_GANON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEMON_KINGS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GANON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GANON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KING_OF_DARKNESS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DARK_BEAST_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DARK_BEAST_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GANON</LeaderAbilityIcon>
+			<Portrait>LEADER_GANON_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_ZORA_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DOREPHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ZORA_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DOREPHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DOREPHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SEA_ZORA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SEA_ZORA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_OFTHE_ZORA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_OFTHE_ZORA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DOREPHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_DOREPHAN_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_THE_GORON</CivilizationType>
+			<LeaderType>LEADER_DARUK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THE_GORON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THE_GORON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DARUK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DARUK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROCK_EATERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROCK_EATERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THE_GORON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GORON_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GORON_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DARUK</LeaderAbilityIcon>
+			<Portrait>LEADER_DARUK_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_MAKEELA_RIJU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAKEELA_RIJU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAKEELA_RIJU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILD_CHIEF_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILD_CHIEF_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAKEELA_RIJU</LeaderAbilityIcon>
+			<Portrait>LEADER_MAKEELA_RIJU_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_RHOAM_BOSPHORAMUS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHOAM_BOSPHORAMUS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_KING_HYRULE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_KING_HYRULE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderAbilityIcon>
+			<Portrait>LEADER_RHOAM_BOSPHORAMUS_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion1_Players</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_URBOSA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URBOSA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URBOSA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GERUDO_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GERUDO_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URBOSA</LeaderAbilityIcon>
+			<Portrait>LEADER_URBOSA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+	</Players>
+	
+	<Players>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_ZELDA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_ZELDA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_ZELDA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_HOPE_OF_HER_PEOPLE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_HOPE_OF_HER_PEOPLE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_ZELDA</LeaderAbilityIcon>
+			<Portrait>LEADER_ZELDA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_DEKU_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DEKU_KING</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEKU_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DEKU_KING_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DEKU_KING</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_WOODEN_DOLLS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_WOODEN_DOLLS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEKU_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DEKU_ROYAL_FAMILY_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DEKU_ROYAL_FAMILY_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DEKU_KING</LeaderAbilityIcon>
+			<Portrait>LEADER_DEKU_KING_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_IKANA</CivilizationType>
+			<LeaderType>LEADER_IGOS_IKANA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_IKANA_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationIcon>
+			<LeaderName>LOC_LEADER_IGOS_IKANA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_IGOS_IKANA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_IKANA_ROYAL_FAMILY_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_IKANA_ROYAL_FAMILY_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_IKANA</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_ELEGY_EMPTINESS_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_ELEGY_EMPTINESS_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_IGOS_IKANA</LeaderAbilityIcon>
+			<Portrait>LEADER_IGOS_IKANA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_DEMON_KINGS</CivilizationType>
+			<LeaderType>LEADER_GANON</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_DEMON_KINGS_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationIcon>
+			<LeaderName>LOC_LEADER_GANON_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_GANON</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_KING_OF_DARKNESS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_DEMON_KINGS</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_DARK_BEAST_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_DARK_BEAST_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_GANON</LeaderAbilityIcon>
+			<Portrait>LEADER_GANON_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_ZORA_KINGDOM</CivilizationType>
+			<LeaderType>LEADER_DOREPHAN</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_ZORA_KINGDOM_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DOREPHAN_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DOREPHAN</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_SEA_ZORA_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_SEA_ZORA_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_ZORA_KINGDOM</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_KING_OFTHE_ZORA_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_KING_OFTHE_ZORA_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DOREPHAN</LeaderAbilityIcon>
+			<Portrait>LEADER_DOREPHAN_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_THE_GORON</CivilizationType>
+			<LeaderType>LEADER_DARUK</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_THE_GORON_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_THE_GORON</CivilizationIcon>
+			<LeaderName>LOC_LEADER_DARUK_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_DARUK</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROCK_EATERS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROCK_EATERS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_THE_GORON</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GORON_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GORON_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_DARUK</LeaderAbilityIcon>
+			<Portrait>LEADER_DARUK_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_MAKEELA_RIJU</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_MAKEELA_RIJU_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_MAKEELA_RIJU</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_CHILD_CHIEF_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_CHILD_CHIEF_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_MAKEELA_RIJU</LeaderAbilityIcon>
+			<Portrait>LEADER_MAKEELA_RIJU_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_KINGDOM_HYRULE</CivilizationType>
+			<LeaderType>LEADER_RHOAM_BOSPHORAMUS</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_KINGDOM_HYRULE_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationIcon>
+			<LeaderName>LOC_LEADER_RHOAM_BOSPHORAMUS_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_ROYAL_FAMILY_HYRULE_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_ROYAL_FAMILY_HYRULE_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_KINGDOM_HYRULE</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_LAST_KING_HYRULE_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_LAST_KING_HYRULE_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_RHOAM_BOSPHORAMUS</LeaderAbilityIcon>
+			<Portrait>LEADER_RHOAM_BOSPHORAMUS_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+		<Row>
+			<Domain>Players:Expansion2_Players</Domain>
+			<CivilizationType>CIVILIZATION_GERUDO</CivilizationType>
+			<LeaderType>LEADER_URBOSA</LeaderType>
+			<CivilizationName>LOC_CIVILIZATION_GERUDO_NAME</CivilizationName>
+			<CivilizationIcon>ICON_CIVILIZATION_GERUDO</CivilizationIcon>
+			<LeaderName>LOC_LEADER_URBOSA_NAME</LeaderName>
+			<LeaderIcon>ICON_LEADER_URBOSA</LeaderIcon>
+			<CivilizationAbilityName>LOC_TRAIT_GERUDO_CHIEFTAINS_NAME</CivilizationAbilityName>
+			<CivilizationAbilityDescription>LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION</CivilizationAbilityDescription>
+			<CivilizationAbilityIcon>ICON_CIVILIZATION_GERUDO</CivilizationAbilityIcon>
+			<LeaderAbilityName>LOC_TRAIT_GERUDO_CHAMPION_NAME</LeaderAbilityName>
+			<LeaderAbilityDescription>LOC_TRAIT_GERUDO_CHAMPION_DESCRIPTION</LeaderAbilityDescription>
+			<LeaderAbilityIcon>ICON_LEADER_URBOSA</LeaderAbilityIcon>
+			<Portrait>LEADER_URBOSA_NEUTRAL</Portrait>
+			<PortraitBackground>TLOZ_Loading_Background</PortraitBackground>
+		</Row>
+	</Players>
+
+	<PlayerItems>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_NUTLING" Icon="ICON_UNIT_NUTLING" Name="LOC_UNIT_NUTLING_NAME" Description="LOC_UNIT_NUTLING_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_MAD_SCRUB" Icon="ICON_UNIT_MAD_SCRUB" Name="LOC_UNIT_MAD_SCRUB_NAME" Description="LOC_UNIT_MAD_SCRUB_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_TOTEM_DEKU" Icon="ICON_UNIT_TOTEM_DEKU" Name="LOC_UNIT_TOTEM_DEKU_NAME" Description="LOC_UNIT_TOTEM_DEKU_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GUARDLING" Icon="ICON_UNIT_GUARDLING" Name="LOC_UNIT_GUARDLING_NAME" Description="LOC_UNIT_GUARDLING_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_DEKU_ORHAT" Icon="ICON_UNIT_DEKU_ORHAT" Name="LOC_UNIT_DEKU_ORHAT_NAME" Description="LOC_UNIT_DEKU_ORHAT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GIANT_ORHAT" Icon="ICON_UNIT_GIANT_ORHAT" Name="LOC_UNIT_GIANT_ORHAT_NAME" Description="LOC_UNIT_GIANT_ORHAT_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="UNIT_HOLLOW_KNIGHT" Icon="ICON_UNIT_HOLLOW_KNIGHT" Name="LOC_UNIT_HOLLOW_KNIGHT_NAME" Description="LOC_UNIT_HOLLOW_KNIGHT_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="IMPROVEMENT_STONE_TOWER_TEMPLE" Icon="ICON_IMPROVEMENT_STONE_TOWER_TEMPLE" Name="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_MOBLIN" Icon="ICON_UNIT_MOBLIN" Name="LOC_UNIT_MOBLIN_NAME" Description="LOC_UNIT_MOBLIN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BOKOBLIN" Icon="ICON_UNIT_BOKOBLIN" Name="LOC_UNIT_BOKOBLIN_NAME" Description="LOC_UNIT_BOKOBLIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULBLIN" Icon="ICON_UNIT_BULBLIN" Name="LOC_UNIT_BULBLIN_NAME" Description="LOC_UNIT_BULBLIN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULLBOS_RIDER" Icon="ICON_UNIT_BULLBOS_RIDER" Name="LOC_UNIT_BULLBOS_RIDER_NAME" Description="LOC_UNIT_BULLBOS_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_STALHORSE_RIDER" Icon="ICON_UNIT_STALHORSE_RIDER" Name="LOC_UNIT_STALHORSE_RIDER_NAME" Description="LOC_UNIT_STALHORSE_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_LIZALFOS" Icon="ICON_UNIT_LIZALFOS" Name="LOC_UNIT_LIZALFOS_NAME" Description="LOC_UNIT_LIZALFOS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_ELECTRIC_LIZALFOS" Icon="ICON_UNIT_ELECTRIC_LIZALFOS" Name="LOC_UNIT_ELECTRIC_LIZALFOS_NAME" Description="LOC_UNIT_ELECTRIC_LIZALFOS_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_YIGA_WARRIORS" Icon="ICON_UNIT_YIGA_WARRIORS" Name="LOC_UNIT_YIGA_WARRIORS_NAME" Description="LOC_UNIT_YIGA_WARRIORS_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_ZORA_SPEARS" Icon="ICON_UNIT_ZORA_SPEARS" Name="LOC_UNIT_ZORA_SPEARS_NAME" Description="LOC_UNIT_ZORA_SPEARS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_RIVER_PATROL" Icon="ICON_UNIT_RIVER_PATROL" Name="LOC_UNIT_RIVER_PATROL_NAME" Description="LOC_UNIT_RIVER_PATROL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_HYDROPHANT_LANCER" Icon="ICON_UNIT_HYDROPHANT_LANCER" Name="LOC_UNIT_HYDROPHANT_LANCER_NAME" Description="LOC_UNIT_HYDROPHANT_LANCER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="IMPROVEMENT_ZORA_WATER_TEMPLE" Icon="ICON_IMPROVEMENT_ZORA_WATER_TEMPLE" Name="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="DISTRICT_EGG_INCUBATOR_HOUSE" Icon="ICON_DISTRICT_EGG_INCUBATOR_HOUSE" Name="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_NAME" Description="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_GORON_BOMBARDIERS" Icon="ICON_UNIT_GORON_BOMBARDIERS" Name="LOC_UNIT_GORON_BOMBARDIERS_NAME" Description="LOC_UNIT_GORON_BOMBARDIERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROCK_TOSSER" Icon="ICON_UNIT_ROCK_TOSSER" Name="LOC_UNIT_ROCK_TOSSER_NAME" Description="LOC_UNIT_ROCK_TOSSER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_BATTLE_BROTHER" Icon="ICON_UNIT_BATTLE_BROTHER" Name="LOC_UNIT_BATTLE_BROTHER_NAME" Description="LOC_UNIT_BATTLE_BROTHER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_FIRE_WARRIOR" Icon="ICON_UNIT_FIRE_WARRIOR" Name="LOC_UNIT_FIRE_WARRIOR_NAME" Description="LOC_UNIT_FIRE_WARRIOR_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROLLIN_GORON" Icon="ICON_UNIT_ROLLIN_GORON" Name="LOC_UNIT_ROLLIN_GORON_NAME" Description="LOC_UNIT_ROLLIN_GORON_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_SALAMANDER_WAGON" Icon="ICON_UNIT_SALAMANDER_WAGON" Name="LOC_UNIT_SALAMANDER_WAGON_NAME" Description="LOC_UNIT_SALAMANDER_WAGON_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="IMPROVEMENT_GORON_HOT_SPRING" Icon="ICON_IMPROVEMENT_GORON_HOT_SPRING" Name="LOC_IMPROVEMENT_GORON_HOT_SPRING_NAME" Description="LOC_IMPROVEMENT_GORON_HOT_SPRING_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="StandardPlayers" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_NUTLING" Icon="ICON_UNIT_NUTLING" Name="LOC_UNIT_NUTLING_NAME" Description="LOC_UNIT_NUTLING_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_MAD_SCRUB" Icon="ICON_UNIT_MAD_SCRUB" Name="LOC_UNIT_MAD_SCRUB_NAME" Description="LOC_UNIT_MAD_SCRUB_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_TOTEM_DEKU" Icon="ICON_UNIT_TOTEM_DEKU" Name="LOC_UNIT_TOTEM_DEKU_NAME" Description="LOC_UNIT_TOTEM_DEKU_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GUARDLING" Icon="ICON_UNIT_GUARDLING" Name="LOC_UNIT_GUARDLING_NAME" Description="LOC_UNIT_GUARDLING_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_DEKU_ORHAT" Icon="ICON_UNIT_DEKU_ORHAT" Name="LOC_UNIT_DEKU_ORHAT_NAME" Description="LOC_UNIT_DEKU_ORHAT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GIANT_ORHAT" Icon="ICON_UNIT_GIANT_ORHAT" Name="LOC_UNIT_GIANT_ORHAT_NAME" Description="LOC_UNIT_GIANT_ORHAT_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="UNIT_HOLLOW_KNIGHT" Icon="ICON_UNIT_HOLLOW_KNIGHT" Name="LOC_UNIT_HOLLOW_KNIGHT_NAME" Description="LOC_UNIT_HOLLOW_KNIGHT_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="IMPROVEMENT_STONE_TOWER_TEMPLE" Icon="ICON_IMPROVEMENT_STONE_TOWER_TEMPLE" Name="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_MOBLIN" Icon="ICON_UNIT_MOBLIN" Name="LOC_UNIT_MOBLIN_NAME" Description="LOC_UNIT_MOBLIN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BOKOBLIN" Icon="ICON_UNIT_BOKOBLIN" Name="LOC_UNIT_BOKOBLIN_NAME" Description="LOC_UNIT_BOKOBLIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULBLIN" Icon="ICON_UNIT_BULBLIN" Name="LOC_UNIT_BULBLIN_NAME" Description="LOC_UNIT_BULBLIN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULLBOS_RIDER" Icon="ICON_UNIT_BULLBOS_RIDER" Name="LOC_UNIT_BULLBOS_RIDER_NAME" Description="LOC_UNIT_BULLBOS_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_STALHORSE_RIDER" Icon="ICON_UNIT_STALHORSE_RIDER" Name="LOC_UNIT_STALHORSE_RIDER_NAME" Description="LOC_UNIT_STALHORSE_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_LIZALFOS" Icon="ICON_UNIT_LIZALFOS" Name="LOC_UNIT_LIZALFOS_NAME" Description="LOC_UNIT_LIZALFOS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_ELECTRIC_LIZALFOS" Icon="ICON_UNIT_ELECTRIC_LIZALFOS" Name="LOC_UNIT_ELECTRIC_LIZALFOS_NAME" Description="LOC_UNIT_ELECTRIC_LIZALFOS_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_YIGA_WARRIORS" Icon="ICON_UNIT_YIGA_WARRIORS" Name="LOC_UNIT_YIGA_WARRIORS_NAME" Description="LOC_UNIT_YIGA_WARRIORS_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_ZORA_SPEARS" Icon="ICON_UNIT_ZORA_SPEARS" Name="LOC_UNIT_ZORA_SPEARS_NAME" Description="LOC_UNIT_ZORA_SPEARS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_RIVER_PATROL" Icon="ICON_UNIT_RIVER_PATROL" Name="LOC_UNIT_RIVER_PATROL_NAME" Description="LOC_UNIT_RIVER_PATROL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_HYDROPHANT_LANCER" Icon="ICON_UNIT_HYDROPHANT_LANCER" Name="LOC_UNIT_HYDROPHANT_LANCER_NAME" Description="LOC_UNIT_HYDROPHANT_LANCER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="IMPROVEMENT_ZORA_WATER_TEMPLE" Icon="ICON_IMPROVEMENT_ZORA_WATER_TEMPLE" Name="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="DISTRICT_EGG_INCUBATOR_HOUSE" Icon="ICON_DISTRICT_EGG_INCUBATOR_HOUSE" Name="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_NAME" Description="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_GORON_BOMBARDIERS" Icon="ICON_UNIT_GORON_BOMBARDIERS" Name="LOC_UNIT_GORON_BOMBARDIERS_NAME" Description="LOC_UNIT_GORON_BOMBARDIERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROCK_TOSSER" Icon="ICON_UNIT_ROCK_TOSSER" Name="LOC_UNIT_ROCK_TOSSER_NAME" Description="LOC_UNIT_ROCK_TOSSER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_BATTLE_BROTHER" Icon="ICON_UNIT_BATTLE_BROTHER" Name="LOC_UNIT_BATTLE_BROTHER_NAME" Description="LOC_UNIT_BATTLE_BROTHER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_FIRE_WARRIOR" Icon="ICON_UNIT_FIRE_WARRIOR" Name="LOC_UNIT_FIRE_WARRIOR_NAME" Description="LOC_UNIT_FIRE_WARRIOR_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROLLIN_GORON" Icon="ICON_UNIT_ROLLIN_GORON" Name="LOC_UNIT_ROLLIN_GORON_NAME" Description="LOC_UNIT_ROLLIN_GORON_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_SALAMANDER_WAGON" Icon="ICON_UNIT_SALAMANDER_WAGON" Name="LOC_UNIT_SALAMANDER_WAGON_NAME" Description="LOC_UNIT_SALAMANDER_WAGON_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="IMPROVEMENT_GORON_HOT_SPRING" Icon="ICON_IMPROVEMENT_GORON_HOT_SPRING" Name="LOC_IMPROVEMENT_GORON_HOT_SPRING_NAME" Description="LOC_IMPROVEMENT_GORON_HOT_SPRING_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion1_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+	</PlayerItems>
+
+	<PlayerItems>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_ZELDA" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_NUTLING" Icon="ICON_UNIT_NUTLING" Name="LOC_UNIT_NUTLING_NAME" Description="LOC_UNIT_NUTLING_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_MAD_SCRUB" Icon="ICON_UNIT_MAD_SCRUB" Name="LOC_UNIT_MAD_SCRUB_NAME" Description="LOC_UNIT_MAD_SCRUB_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_TOTEM_DEKU" Icon="ICON_UNIT_TOTEM_DEKU" Name="LOC_UNIT_TOTEM_DEKU_NAME" Description="LOC_UNIT_TOTEM_DEKU_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GUARDLING" Icon="ICON_UNIT_GUARDLING" Name="LOC_UNIT_GUARDLING_NAME" Description="LOC_UNIT_GUARDLING_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_DEKU_ORHAT" Icon="ICON_UNIT_DEKU_ORHAT" Name="LOC_UNIT_DEKU_ORHAT_NAME" Description="LOC_UNIT_DEKU_ORHAT_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEKU_KINGDOM" LeaderType="LEADER_DEKU_KING" Type="UNIT_GIANT_ORHAT" Icon="ICON_UNIT_GIANT_ORHAT" Name="LOC_UNIT_GIANT_ORHAT_NAME" Description="LOC_UNIT_GIANT_ORHAT_DESCRIPTION" SortIndex="60"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="UNIT_HOLLOW_KNIGHT" Icon="ICON_UNIT_HOLLOW_KNIGHT" Name="LOC_UNIT_HOLLOW_KNIGHT_NAME" Description="LOC_UNIT_HOLLOW_KNIGHT_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_IKANA" LeaderType="LEADER_IGOS_IKANA" Type="IMPROVEMENT_STONE_TOWER_TEMPLE" Icon="ICON_IMPROVEMENT_STONE_TOWER_TEMPLE" Name="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_STONE_TOWER_TEMPLE_DESCRIPTION" SortIndex="20"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_MOBLIN" Icon="ICON_UNIT_MOBLIN" Name="LOC_UNIT_MOBLIN_NAME" Description="LOC_UNIT_MOBLIN_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BOKOBLIN" Icon="ICON_UNIT_BOKOBLIN" Name="LOC_UNIT_BOKOBLIN_NAME" Description="LOC_UNIT_BOKOBLIN_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULBLIN" Icon="ICON_UNIT_BULBLIN" Name="LOC_UNIT_BULBLIN_NAME" Description="LOC_UNIT_BULBLIN_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_BULLBOS_RIDER" Icon="ICON_UNIT_BULLBOS_RIDER" Name="LOC_UNIT_BULLBOS_RIDER_NAME" Description="LOC_UNIT_BULLBOS_RIDER_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_STALHORSE_RIDER" Icon="ICON_UNIT_STALHORSE_RIDER" Name="LOC_UNIT_STALHORSE_RIDER_NAME" Description="LOC_UNIT_STALHORSE_RIDER_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_LIZALFOS" Icon="ICON_UNIT_LIZALFOS" Name="LOC_UNIT_LIZALFOS_NAME" Description="LOC_UNIT_LIZALFOS_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_ELECTRIC_LIZALFOS" Icon="ICON_UNIT_ELECTRIC_LIZALFOS" Name="LOC_UNIT_ELECTRIC_LIZALFOS_NAME" Description="LOC_UNIT_ELECTRIC_LIZALFOS_DESCRIPTION" SortIndex="70"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_DEMON_KINGS" LeaderType="LEADER_GANON" Type="UNIT_YIGA_WARRIORS" Icon="ICON_UNIT_YIGA_WARRIORS" Name="LOC_UNIT_YIGA_WARRIORS_NAME" Description="LOC_UNIT_YIGA_WARRIORS_DESCRIPTION" SortIndex="80"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_ZORA_SPEARS" Icon="ICON_UNIT_ZORA_SPEARS" Name="LOC_UNIT_ZORA_SPEARS_NAME" Description="LOC_UNIT_ZORA_SPEARS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_RIVER_PATROL" Icon="ICON_UNIT_RIVER_PATROL" Name="LOC_UNIT_RIVER_PATROL_NAME" Description="LOC_UNIT_RIVER_PATROL_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="UNIT_HYDROPHANT_LANCER" Icon="ICON_UNIT_HYDROPHANT_LANCER" Name="LOC_UNIT_HYDROPHANT_LANCER_NAME" Description="LOC_UNIT_HYDROPHANT_LANCER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="IMPROVEMENT_ZORA_WATER_TEMPLE" Icon="ICON_IMPROVEMENT_ZORA_WATER_TEMPLE" Name="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_NAME" Description="LOC_IMPROVEMENT_ZORA_WATER_TEMPLE_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_ZORA_KINGDOM" LeaderType="LEADER_DOREPHAN" Type="DISTRICT_EGG_INCUBATOR_HOUSE" Icon="ICON_DISTRICT_EGG_INCUBATOR_HOUSE" Name="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_NAME" Description="LOC_DISTRICT_EGG_INCUBATOR_HOUSE_DESCRIPTION" SortIndex="50"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_GORON_BOMBARDIERS" Icon="ICON_UNIT_GORON_BOMBARDIERS" Name="LOC_UNIT_GORON_BOMBARDIERS_NAME" Description="LOC_UNIT_GORON_BOMBARDIERS_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROCK_TOSSER" Icon="ICON_UNIT_ROCK_TOSSER" Name="LOC_UNIT_ROCK_TOSSER_NAME" Description="LOC_UNIT_ROCK_TOSSER_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_BATTLE_BROTHER" Icon="ICON_UNIT_BATTLE_BROTHER" Name="LOC_UNIT_BATTLE_BROTHER_NAME" Description="LOC_UNIT_BATTLE_BROTHER_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_FIRE_WARRIOR" Icon="ICON_UNIT_FIRE_WARRIOR" Name="LOC_UNIT_FIRE_WARRIOR_NAME" Description="LOC_UNIT_FIRE_WARRIOR_DESCRIPTION" SortIndex="40"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_ROLLIN_GORON" Icon="ICON_UNIT_ROLLIN_GORON" Name="LOC_UNIT_ROLLIN_GORON_NAME" Description="LOC_UNIT_ROLLIN_GORON_DESCRIPTION" SortIndex="50"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="UNIT_SALAMANDER_WAGON" Icon="ICON_UNIT_SALAMANDER_WAGON" Name="LOC_UNIT_SALAMANDER_WAGON_NAME" Description="LOC_UNIT_SALAMANDER_WAGON_DESCRIPTION" SortIndex="60"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_THE_GORON" LeaderType="LEADER_DARUK" Type="IMPROVEMENT_GORON_HOT_SPRING" Icon="ICON_IMPROVEMENT_GORON_HOT_SPRING" Name="LOC_IMPROVEMENT_GORON_HOT_SPRING_NAME" Description="LOC_IMPROVEMENT_GORON_HOT_SPRING_DESCRIPTION" SortIndex="70"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_MAKEELA_RIJU" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_KNIGHT_OF_HYRULE" Icon="ICON_UNIT_KNIGHT_OF_HYRULE" Name="LOC_UNIT_KNIGHT_OF_HYRULE_NAME" Description="LOC_UNIT_KNIGHT_OF_HYRULE_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="UNIT_SHEIKAH_WARRIORS" Icon="ICON_UNIT_SHEIKAH_WARRIORS" Name="LOC_UNIT_SHEIKAH_WARRIORS_NAME" Description="LOC_UNIT_SHEIKAH_WARRIORS_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="IMPROVEMENT_HYLIAN_RANCH" Icon="ICON_IMPROVEMENT_HYLIAN_RANCH" Name="LOC_IMPROVEMENT_HYLIAN_RANCH_NAME" Description="LOC_IMPROVEMENT_HYLIAN_RANCH_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_KINGDOM_HYRULE" LeaderType="LEADER_RHOAM_BOSPHORAMUS" Type="BUILDING_GODDESS_STATUE" Icon="ICON_BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" SortIndex="40"/>
+
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_SAND_SEAL_RIDER" Icon="ICON_UNIT_SAND_SEAL_RIDER" Name="LOC_UNIT_SAND_SEAL_RIDER_NAME" Description="LOC_UNIT_SAND_SEAL_RIDER_DESCRIPTION" SortIndex="10"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_GERUTO_PIRATES" Icon="ICON_UNIT_GERUTO_PIRATES" Name="LOC_UNIT_GERUTO_PIRATES_NAME" Description="LOC_UNIT_GERUTO_PIRATES_DESCRIPTION" SortIndex="20"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="UNIT_VEILED_GUARDS" Icon="ICON_UNIT_VEILED_GUARDS" Name="LOC_UNIT_VEILED_GUARDS_NAME" Description="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" SortIndex="30"/>
+		<Row Domain="Players:Expansion2_Players" CivilizationType="CIVILIZATION_GERUDO" LeaderType="LEADER_URBOSA" Type="DISTRICT_GERUDO_BAZAAR" Icon="ICON_DISTRICT_GERUDO_BAZAAR" Name="LOC_DISTRICT_GERUDO_BAZAAR_NAME" Description="LOC_DISTRICT_GERUDO_BAZAAR_DESCRIPTION" SortIndex="40"/>
+
+	</PlayerItems>
+</GameData>

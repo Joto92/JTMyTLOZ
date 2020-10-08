@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<AssetObjects..XLP>
+	<m_Version>
+		<major>1</major>
+		<minor>0</minor>
+		<build>0</build>
+		<revision>0</revision>
+	</m_Version>
+	<m_ClassName text="UITexture"/>
+	<m_PackageName text="MyIcons"/>
+	<m_Entries>
+		<Element>
+			<m_EntryID text="MyTLOZFlag256"/>
+			<m_ObjectName text="MyTLOZFlag256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag80"/>
+			<m_ObjectName text="MyTLOZFlag80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag64"/>
+			<m_ObjectName text="MyTLOZFlag64"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag50"/>
+			<m_ObjectName text="MyTLOZFlag50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag48"/>
+			<m_ObjectName text="MyTLOZFlag48"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag45"/>
+			<m_ObjectName text="MyTLOZFlag45"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag44"/>
+			<m_ObjectName text="MyTLOZFlag44"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag36"/>
+			<m_ObjectName text="MyTLOZFlag36"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag32"/>
+			<m_ObjectName text="MyTLOZFlag32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag30"/>
+			<m_ObjectName text="MyTLOZFlag30"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZFlag22"/>
+			<m_ObjectName text="MyTLOZFlag22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ256_Leaders"/>
+			<m_ObjectName text="MyTLOZ256_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ80_Leaders"/>
+			<m_ObjectName text="MyTLOZ80_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ64_Leaders"/>
+			<m_ObjectName text="MyTLOZ64_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ55_Leaders"/>
+			<m_ObjectName text="MyTLOZ55_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ50_Leaders"/>
+			<m_ObjectName text="MyTLOZ50_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ48_Leaders"/>
+			<m_ObjectName text="MyTLOZ48_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ45_Leaders"/>
+			<m_ObjectName text="MyTLOZ45_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ32_Leaders"/>
+			<m_ObjectName text="MyTLOZ32_Leaders"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units256"/>
+			<m_ObjectName text="MyTLOZ_Units256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units80"/>
+			<m_ObjectName text="MyTLOZ_Units80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units50"/>
+			<m_ObjectName text="MyTLOZ_Units50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units38"/>
+			<m_ObjectName text="MyTLOZ_Units38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units32"/>
+			<m_ObjectName text="MyTLOZ_Units32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units22"/>
+			<m_ObjectName text="MyTLOZ_Units22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units80_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units80_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units256_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units256_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units50_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units50_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units38_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units38_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units32_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units32_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Units22_FOW"/>
+			<m_ObjectName text="MyTLOZ_Units22_FOW"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits256"/>
+			<m_ObjectName text="MyTLOZPotraits256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits200"/>
+			<m_ObjectName text="MyTLOZPotraits200"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits95"/>
+			<m_ObjectName text="MyTLOZPotraits95"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits70"/>
+			<m_ObjectName text="MyTLOZPotraits70"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits50"/>
+			<m_ObjectName text="MyTLOZPotraits50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZPotraits38"/>
+			<m_ObjectName text="MyTLOZPotraits38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings256"/>
+			<m_ObjectName text="MyTLOZ_Buildings256"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings128"/>
+			<m_ObjectName text="MyTLOZ_Buildings128"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings80"/>
+			<m_ObjectName text="MyTLOZ_Buildings80"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings50"/>
+			<m_ObjectName text="MyTLOZ_Buildings50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings38"/>
+			<m_ObjectName text="MyTLOZ_Buildings38"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings32"/>
+			<m_ObjectName text="MyTLOZ_Buildings32"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZ_Buildings22"/>
+			<m_ObjectName text="MyTLOZ_Buildings22"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZReligionIcon_270"/>
+			<m_ObjectName text="MyTLOZReligionIcon_270"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZReligionIcon_100"/>
+			<m_ObjectName text="MyTLOZReligionIcon_100"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZeligionIcon_50"/>
+			<m_ObjectName text="MyTLOZeligionIcon_50"/>
+		</Element>
+		<Element>
+			<m_EntryID text="MyTLOZeligionIcon_22"/>
+			<m_ObjectName text="MyTLOZeligionIcon_22"/>
+		</Element>
+	</m_Entries>
+	<m_AllowedPlatforms>
+		<Element>WINDOWS</Element>
+		<Element>MACOS</Element>
+		<Element>IOS</Element>
+		<Element>LINUX</Element>
+		<Element>XBONE</Element>
+		<Element>PS4</Element>
+		<Element>SWITCH</Element>
+		<Element>STADIA</Element>
+	</m_AllowedPlatforms>
+</AssetObjects..XLP>
+

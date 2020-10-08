@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Default" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Default</Configuration>
+    <Name>JT: The Legend of Zelda Mod</Name>
+    <Guid>6445f9ba-1844-4d2f-a585-8028f9544103</Guid>
+    <ProjectGuid>53137452-1b90-4c0e-bf9d-0d3af784a438</ProjectGuid>
+    <ModVersion>1</ModVersion>
+    <Teaser>This mod if based in The Legend of Zelda</Teaser>
+    <Description>Play the Civilizations from The Legend of Zelda. Hyrule, Gerudo, Zora, Goron, Ikana, Deku, Ganon...</Description>
+    <AffectsSavedGames>true</AffectsSavedGames>
+    <SupportsSinglePlayer>true</SupportsSinglePlayer>
+    <SupportsMultiplayer>true</SupportsMultiplayer>
+    <SupportsHotSeat>true</SupportsHotSeat>
+    <CompatibleVersions>1.2,2.0</CompatibleVersions>
+    <InGameActionData><![CDATA[
+      <InGameActions>
+        <UpdateDatabase id="Gameplay">
+          <File>MyTLOZ_Civs.xml</File>
+          <File>MyTLOZ_Leaders.xml</File>
+          <File>MyTLOZ_Buildings.xml</File>
+          <File>MyTLOZ_Units.xml</File>
+          <File>MyTLOZ_UnitAbilities.xml</File>
+          <File>MyTLOZ_Improvements.xml</File>
+          <File>MyTLOZ_Religions.xml</File>
+          <File>MyTLOZ_Citystates.xml</File>
+          <File>MyTLOZ_Wonders.xml</File>
+          <File>MyTLOZ_Districts.xml</File>
+        </UpdateDatabase>
+        <UpdateColors id="PlayerColors">
+          <File>MyTLOZ_Colors.xml</File>
+        </UpdateColors>
+        <UpdateDatabase id="UsingExpansion2">
+          <Properties>
+            <LoadOrder>401</LoadOrder>
+          </Properties>
+          <Criteria>Expansion2</Criteria>
+          <File>MyTLOZ_Expansion2.xml</File>
+        </UpdateDatabase>
+        <UpdateDatabase id="UsingExpansion1">
+          <Criteria>Expansion1</Criteria>
+          <File>MyTLOZ_Expansion1.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="Text">
+          <File>MyTLOZ_ConfigText.xml</File>
+          <File>MyTLOZ_Text.xml</File>
+        </UpdateText>
+        <UpdateIcons id="Icons">
+          <File>MyTLOZ_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="Art">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </InGameActions>]]>
+    </InGameActionData>
+    <FrontEndActionData><![CDATA[
+      <FrontEndActions>
+        <UpdateDatabase id="Config">
+          <File>MyTLOZ_Config.xml</File>
+        </UpdateDatabase>
+        <UpdateText id="ConfigText">
+          <File>MyTLOZ_ConfigText.xml</File>
+        </UpdateText>
+        <UpdateColors id="PlayerColors">
+          <File>MyTLOZ_Colors.xml</File>
+        </UpdateColors>
+        <UpdateIcons id="ConfigIcons">
+          <File>MyTLOZ_Icons.xml</File>
+        </UpdateIcons>
+        <UpdateArt id="ConfigArt">
+          <File>(Mod Art Dependency File)</File>
+        </UpdateArt>
+      </FrontEndActions>]]>
+    </FrontEndActionData>
+    <ActionCriteriaData><![CDATA[
+      <ActionCriteria>
+        <Criteria id="Expansion2">
+          <GameCoreInUse>Expansion2</GameCoreInUse>
+        </Criteria>
+        <Criteria id="Expansion1">
+          <GameCoreInUse>Expansion1</GameCoreInUse>
+        </Criteria>
+      </ActionCriteria>]]></ActionCriteriaData>
+    <AssemblyName>MyTLOZ</AssemblyName>
+    <RootNamespace>MyTLOZ</RootNamespace>
+    <Authors>Joto92</Authors>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Default' ">
+    <OutputPath>.</OutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="MyTLOZ_UnitAbilities.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Units.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Wonders.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Folder Include="Artdefs\" />
+    <Folder Include="Textures\" />
+    <Folder Include="XLPs\" />
+    <Content Include="MyTLOZ_Citystates.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Civilopedia.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Colors.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Config.xml" />
+    <Content Include="MyTLOZ_ConfigText.xml" />
+    <Content Include="MyTLOZ_Civs.xml" />
+    <Content Include="MyTLOZ_Districts.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Expansion1.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Expansion2.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Icons.xml" />
+    <Content Include="MyTLOZ_Improvements.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Leaders.xml" />
+    <Content Include="MyTLOZ_Buildings.xml" />
+    <Content Include="MyTLOZ_Religions.xml">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="MyTLOZ_Text.xml" />
+    <None Include="ArtDefs\FallbackLeaders.artdef" />
+    <None Include="XLPs\LeaderFallbacks.xlp" />
+    <None Include="XLPs\UILeaders.xlp" />
+    <None Include="MyTLOZ.Art.xml" />
+  </ItemGroup>
+  <Import Project="$(MSBuildLocalExtensionPath)Civ6.targets" />
+</Project>

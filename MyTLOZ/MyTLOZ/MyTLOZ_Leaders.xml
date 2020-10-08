@@ -1,0 +1,402 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="LEADER_ZELDA" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_HOPE_OF_HER_PEOPLE" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_DEKU_KING" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_DEKU_ROYAL_FAMILY" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_IGOS_IKANA" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_ELEGY_EMPTINESS" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_GANON" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_DARK_BEAST" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_DOREPHAN" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_KING_OFTHE_ZORA" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_DARUK" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_GORON_CHAMPION" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_MAKEELA_RIJU" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_CHILD_CHIEF" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_RHOAM_BOSPHORAMUS" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_LAST_KING_HYRULE" Kind="KIND_TRAIT"/>
+		<Row Type="LEADER_URBOSA" Kind="KIND_LEADER" />
+		<Row Type="TRAIT_LEADER_GERUDO_CHAMPION" Kind="KIND_TRAIT"/>
+	</Types>
+
+	<Leaders>
+		<Row LeaderType="LEADER_ZELDA" Name="LOC_LEADER_ZELDA_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DEKU_KING" Name="LOC_LEADER_DEKU_KING_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_IGOS_IKANA" Name="LOC_LEADER_IGOS_IKANA_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_GANON" Name="LOC_LEADER_GANON_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DOREPHAN" Name="LOC_LEADER_DOREPHAN_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_DARUK" Name="LOC_LEADER_DARUK_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_MAKEELA_RIJU" Name="LOC_LEADER_MAKEELA_RIJU_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_RHOAM_BOSPHORAMUS" Name="LOC_LEADER_RHOAM_BOSPHORAMUS_NAME" InheritFrom="LEADER_DEFAULT"/>
+		<Row LeaderType="LEADER_URBOSA" Name="LOC_LEADER_URBOSA_NAME" InheritFrom="LEADER_DEFAULT"/>
+
+	</Leaders>
+
+	<LoadingInfo>
+		<Row LeaderType="LEADER_ZELDA" ForegroundImage="LEADER_ZELDA_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_DEKU_KING" ForegroundImage="LEADER_DEKU_KING_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_IGOS_IKANA" ForegroundImage="LEADER_IGOS_IKANA_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_GANON" ForegroundImage="LEADER_GANON_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_DOREPHAN" ForegroundImage="LEADER_DOREPHAN_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_DARUK" ForegroundImage="LEADER_DARUK_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_MAKEELA_RIJU" ForegroundImage="LEADER_MAKEELA_RIJU_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_RHOAM_BOSPHORAMUS" ForegroundImage="LEADER_RHOAM_BOSPHORAMUS_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+		<Row LeaderType="LEADER_URBOSA" ForegroundImage="LEADER_URBOSA_NEUTRAL" BackgroundImage="TLOZ_Loading_Background"/>
+
+	</LoadingInfo>
+
+	<DiplomacyInfo>
+		<Row Type="LEADER_ZELDA" BackgroundImage="LEADER_ZELDA_BACKGROUND"/>
+		<Row Type="LEADER_DEKU_KING" BackgroundImage="LEADER_DEKU_KING_BACKGROUND"/>
+		<Row Type="LEADER_IGOS_IKANA" BackgroundImage="LEADER_IGOS_IKANA_BACKGROUND"/>
+		<Row Type="LEADER_GANON" BackgroundImage="LEADER_GANON_BACKGROUND"/>
+		<Row Type="LEADER_DOREPHAN" BackgroundImage="LEADER_DOREPHAN_BACKGROUND"/>
+		<Row Type="LEADER_DARUK" BackgroundImage="LEADER_DARUK_BACKGROUND"/>
+		<Row Type="LEADER_MAKEELA_RIJU" BackgroundImage="LEADER_MAKEELA_RIJU_BACKGROUND"/>
+		<Row Type="LEADER_RHOAM_BOSPHORAMUS" BackgroundImage="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
+		<Row Type="LEADER_URBOSA" BackgroundImage="LEADER_URBOSA_BACKGROUND"/>
+
+	</DiplomacyInfo>
+
+	<LeaderTraits>
+		<Row LeaderType="LEADER_ZELDA" TraitType="TRAIT_LEADER_HOPE_OF_HER_PEOPLE"/>
+		<Row LeaderType="LEADER_DEKU_KING" TraitType="TRAIT_LEADER_DEKU_ROYAL_FAMILY"/>
+		<Row LeaderType="LEADER_IGOS_IKANA" TraitType="TRAIT_LEADER_ELEGY_EMPTINESS"/>
+		<Row LeaderType="LEADER_GANON" TraitType="TRAIT_LEADER_DARK_BEAST"/>
+		<Row LeaderType="LEADER_DOREPHAN" TraitType="TRAIT_LEADER_KING_OFTHE_ZORA"/>
+		<Row LeaderType="LEADER_DARUK" TraitType="TRAIT_LEADER_GORON_CHAMPION"/>
+		<Row LeaderType="LEADER_MAKEELA_RIJU" TraitType="TRAIT_LEADER_CHILD_CHIEF"/>
+		<Row LeaderType="LEADER_RHOAM_BOSPHORAMUS" TraitType="TRAIT_LEADER_LAST_KING_HYRULE"/>
+		<Row LeaderType="LEADER_URBOSA" TraitType="TRAIT_LEADER_GERUDO_CHAMPION"/>
+
+	</LeaderTraits>
+
+	<Traits>
+		<Row TraitType="TRAIT_LEADER_HOPE_OF_HER_PEOPLE" Name="LOC_TRAIT_HOPE_OF_HER_PEOPLE_NAME" Description="LOC_TRAIT_HOPE_OF_HER_PEOPLE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DEKU_ROYAL_FAMILY" Name="LOC_TRAIT_DEKU_ROYAL_FAMILY_NAME" Description="LOC_TRAIT_DEKU_ROYAL_FAMILY_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_ELEGY_EMPTINESS" Name="LOC_TRAIT_ELEGY_EMPTINESS_NAME" Description="LOC_TRAIT_ELEGY_EMPTINESS_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_DARK_BEAST" Name="LOC_TRAIT_DARK_BEAST_NAME" Description="LOC_TRAIT_DARK_BEAST_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" Name="LOC_TRAIT_KING_OFTHE_ZORA_NAME" Description="LOC_TRAIT_KING_OFTHE_ZORA_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GORON_CHAMPION" Name="LOC_TRAIT_GORON_CHAMPION_NAME" Description="LOC_TRAIT_GORON_CHAMPION_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_CHILD_CHIEF" Name="LOC_TRAIT_CHILD_CHIEF_NAME" Description="LOC_TRAIT_CHILD_CHIEF_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_LAST_KING_HYRULE" Name="LOC_TRAIT_LAST_KING_HYRULE_NAME" Description="LOC_TRAIT_LAST_KING_HYRULE_DESCRIPTION"/>
+		<Row TraitType="TRAIT_LEADER_GERUDO_CHAMPION" Name="LOC_TRAIT_GERUDO_CHAMPION_NAME" Description="LOC_TRAIT_GERUDO_CHAMPION_DESCRIPTION"/>
+
+	</Traits>
+
+	<TraitModifiers>
+		<Row TraitType="TRAIT_LEADER_HOPE_OF_HER_PEOPLE" ModifierId="MYTLOZ_TRAIT_GUARANTEE_ONE_PROPHET"/>
+		<Row TraitType="TRAIT_LEADER_HOPE_OF_HER_PEOPLE" ModifierId="MYTLOZ_TRAIT_COMBAT_BONUS_OTHER_RELIGION"/>
+		<Row TraitType="TRAIT_LEADER_HOPE_OF_HER_PEOPLE" ModifierId="MYTLOZ_TRAIT_INCREASE_ENEMY_WAR_WEARINESS"/>
+		<Row TraitType="TRAIT_LEADER_DEKU_ROYAL_FAMILY" ModifierId="MYTLOZ_TRAIT_INVISIBILITY_IN_WOODS"/>
+		<Row TraitType="TRAIT_LEADER_DEKU_ROYAL_FAMILY" ModifierId="MYTLOZ_TRAIT_COMMERCIAL_FOREST"/>
+		<Row TraitType="TRAIT_LEADER_DEKU_ROYAL_FAMILY" ModifierId="MYTLOZ_TRAIT_FOREST_MOVEMENT"/>
+		<Row TraitType="TRAIT_LEADER_ELEGY_EMPTINESS" ModifierId="MYTLOZ_TRAIT_ADJUST_NON_CAPITAL_FREE_CHEAPEST_BUILDING"/>
+		<Row TraitType="TRAIT_LEADER_ELEGY_EMPTINESS" ModifierId="MYTLOZ_TRAIT_FULL_WHEN_INJURED"/>
+		<Row TraitType="TRAIT_LEADER_ELEGY_EMPTINESS" ModifierId="MYTLOZ_DARK_FORCES"/>
+		<Row TraitType="TRAIT_LEADER_DARK_BEAST" ModifierId="MYTLOZ_TRAIT_MILITARY_GOVERNMENT_SLOT"/>
+		<Row TraitType="TRAIT_LEADER_DARK_BEAST" ModifierId="MYTLOZ_FAITH_KILLS_TRAIT"/>
+		<Row TraitType="TRAIT_LEADER_DARK_BEAST" ModifierId="MYTLOZ_GOLD_KILLS_TRAIT"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" ModifierId="TRAIT_BOOST_ENCAMPMENT_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" ModifierId="TRAIT_BOOST_HOLY_SITE_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" ModifierId="TRAIT_BOOST_THEATER_DISTRICT_PRODUCTION"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" ModifierId="TRAIT_COMBAT_BONUS_LAND_ON_COAST"/>
+		<Row TraitType="TRAIT_LEADER_KING_OFTHE_ZORA" ModifierId="TRAIT_COMBAT_BONUS_NAVAL_SHALLOW_WATER"/>
+		<Row TraitType="TRAIT_LEADER_GORON_CHAMPION" ModifierId="MYTLOZ_MELEE_BONUS"/>
+		<Row TraitType="TRAIT_LEADER_GORON_CHAMPION" ModifierId="MYTLOZ_TRAIT_FREE_TRADING_POSTS"/>
+		<Row TraitType="TRAIT_LEADER_CHILD_CHIEF" ModifierId="MYTLOZ_TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD"/>
+		<Row TraitType="TRAIT_LEADER_CHILD_CHIEF" ModifierId="MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_GOLD"/>
+		<Row TraitType="TRAIT_LEADER_CHILD_CHIEF" ModifierId="MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_FOOD"/>
+		<Row TraitType="TRAIT_LEADER_CHILD_CHIEF" ModifierId="MYTLOZ_TRAIT_INCOMING_TRADE_OFFER_FOOD"/>
+		<Row TraitType="TRAIT_LEADER_LAST_KING_HYRULE" ModifierId="TRAIT_FREE_ROADS_TO_CAPITAL"/>
+		<Row TraitType="TRAIT_LEADER_LAST_KING_HYRULE" ModifierId="TRAIT_FREE_TRADING_POSTS"/>
+		<Row TraitType="TRAIT_LEADER_LAST_KING_HYRULE" ModifierId="TRAIT_GOLD_FROM_DOMESTIC_TRADING_POSTS"/>
+		<Row TraitType="TRAIT_LEADER_GERUDO_CHAMPION" ModifierId="TRAIT_COMBAT_BONUS_PER_LUXURY"/>
+		<Row TraitType="TRAIT_LEADER_GERUDO_CHAMPION" ModifierId="TRAIT_OWNED_LUXURY_EXTRA_AMENITIES"/>
+	</TraitModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_GUARANTEE_ONE_PROPHET</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_GREAT_PERSON_GUARANTEE</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_BONUS_OTHER_RELIGION_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>REQUIREMENTS_OPPONENT_IS_OTHER_RELIGION</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCREASE_ENEMY_WAR_WEARINESS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INVISIBILITY_IN_WOODS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNIT_ADJUST_HIDDEN_VISIBILITY</ModifierType>
+			<SubjectRequirementSetId>MYTLOZ_FOREST_HIDDEN_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_FOREST_MOVEMENT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_ADJUST_NON_CAPITAL_FREE_CHEAPEST_BUILDING</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_GRANT_CHEAPEST_BUILDING_IN_CITY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_FULL_WHEN_INJURED</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_DARK_FORCES</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_WAR_WEARINESS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_MILITARY_GOVERNMENT_SLOT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CULTURE_ADJUST_GOVERNMENT_SLOTS_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_FAITH_KILLS_TRAIT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_GOLD_KILLS_TRAIT</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_MELEE_BONUS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ATTACH_MODIFIER</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>THRUST_REQUIREMENTS</SubjectRequirementSetId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_FREE_TRADING_POSTS</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_GRANT_TRADING_POST</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_TRADE_ROUTE_YIELD_FOR_INTERNATIONAL</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_FROM_OTHERS</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_OFFER_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_CITIES_ADJUST_TRADE_ROUTE_YIELD_TO_OTHERS</ModifierType>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_GUARANTEE_ONE_PROPHET</ModifierId>
+			<Name>GreatPersonClassType</Name>
+			<Value>GREAT_PERSON_CLASS_PROPHET</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMBAT_BONUS_OTHER_RELIGION</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYTLOZ_COMBAT_BONUS_OTHER_RELIGION_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_BONUS_OTHER_RELIGION_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCREASE_ENEMY_WAR_WEARINESS</ModifierId>
+			<Name>Amount</Name>
+			<Value>100</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCREASE_ENEMY_WAR_WEARINESS</ModifierId>
+			<Name>Enemy</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INVISIBILITY_IN_WOODS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYTLOZ_INVISIBILITY_IN_WOODS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_INVISIBILITY_IN_WOODS_MODIFIER</ModifierId>
+			<Name>Hidden</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>DistrictType</Name>
+			<Value>DISTRICT_COMMERCIAL_HUB</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>FeatureType</Name>
+			<Value>FEATURE_FOREST</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_COMMERCIAL_FOREST</ModifierId>
+			<Name>Description</Name>
+			<Value>LOC_MYTLOZ_DISTRICT_FOREST_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_FOREST_MOVEMENT</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>NAGAO_FOREST_MOVEMENT</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_ADJUST_NON_CAPITAL_FREE_CHEAPEST_BUILDING</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_FULL_WHEN_INJURED</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>SAMURAI_NO_REDUCTION_DAMAGE</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_DARK_FORCES</ModifierId>
+			<Name>Amount</Name>
+			<Value>-60</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_DARK_FORCES</ModifierId>
+			<Name>Overall</Name>
+			<Value>true</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_MILITARY_GOVERNMENT_SLOT</ModifierId>
+			<Name>GovernmentSlotType</Name>
+			<Value>SLOT_MILITARY</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_FAITH_KILLS_TRAIT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FAITH</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_FAITH_KILLS_TRAIT</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_GOLD_KILLS_TRAIT</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_GOLD_KILLS_TRAIT</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_MELEE_BONUS</ModifierId>
+			<Name>ModifierId</Name>
+			<Value>MYTLOZ_COMBAT_MELEE_BONUS_MODIFIER</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>4</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INTERNATIONAL_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Intercontinental</Name>
+			<Value>false</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_GOLD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_GOLD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_GAIN_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_OFFER_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_TRAIT_INCOMING_TRADE_OFFER_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+	</ModifierArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="MYTLOZ_COMBAT_BONUS_OTHER_RELIGION_MODIFIER" Context="Preview" Text="LOC_PROMOTION_MYTLOZ_COMBAT_OTHER_RELIGION_DESCRIPTION"/>
+	</ModifierStrings>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYTLOZ_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYTLOZ_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_FOREST_REQUIREMENT</RequirementId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYTLOZ_FOREST_HIDDEN_REQUIREMENTS</RequirementSetId>
+			<RequirementId>PLOT_IS_JUNGLE_REQUIREMENT</RequirementId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+	</RequirementSetRequirements>
+</GameData>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="ABILITY_KNIGHT_OF_HYRULE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SHEIKAH_WARRIORS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_NUTLING" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MAD_SCRUB" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_TOTEM_DEKU" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GUARDLING" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_DEKU_ORHAT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GIANT_ORHAT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GARO_ROBE" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HOLLOW_KNIGHT" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_MOBLIN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BOKOBLIN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BULBLIN" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BULLBOS_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_STALHORSE_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_LIZALFOS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ELECTRIC_LIZALFOS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ZORA_SPEARS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_RIVER_PATROL" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_HYDROPHANT_LANCER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GORON_BOMBARDIERS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ROCK_TOSSER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_BATTLE_BROTHER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_FIRE_WARRIOR" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_ROLLIN_GORON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SALAMANDER_WAGON" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_SAND_SEAL_RIDER" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_GERUTO_PIRATES" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_VEILED_GUARDS" Kind="KIND_ABILITY"/>
+		<Row Type="ABILITY_YIGA_WARRIORS" Kind="KIND_ABILITY"/>
+
+	</Types>
+
+	<TypeTags>
+		<Row Type="ABILITY_KNIGHT_OF_HYRULE" Tag="CLASS_KNIGHT_OF_HYRULE"/>
+		<Row Type="ABILITY_SHEIKAH_WARRIORS" Tag="CLASS_SHEIKAH_WARRIORS"/>
+		<Row Type="ABILITY_NUTLING" Tag="CLASS_NUTLING"/>
+		<Row Type="ABILITY_MAD_SCRUB" Tag="CLASS_MAD_SCRUB"/>
+		<Row Type="ABILITY_TOTEM_DEKU" Tag="CLASS_TOTEM_DEKU"/>
+		<Row Type="ABILITY_GUARDLING" Tag="CLASS_GUARDLING"/>
+		<Row Type="ABILITY_DEKU_ORHAT" Tag="CLASS_DEKU_ORHAT"/>
+		<Row Type="ABILITY_GIANT_ORHAT" Tag="CLASS_GIANT_ORHAT"/>
+		<Row Type="ABILITY_GARO_ROBE" Tag="CLASS_GARO_ROBE"/>
+		<Row Type="ABILITY_HOLLOW_KNIGHT" Tag="CLASS_HOLLOW_KNIGHT"/>
+		<Row Type="ABILITY_MOBLIN" Tag="CLASS_MOBLIN"/>
+		<Row Type="ABILITY_BOKOBLIN" Tag="CLASS_BOKOBLIN"/>
+		<Row Type="ABILITY_BULBLIN" Tag="CLASS_BULBLIN"/>
+		<Row Type="ABILITY_BULLBOS_RIDER" Tag="CLASS_BULLBOS_RIDER"/>
+		<Row Type="ABILITY_STALHORSE_RIDER" Tag="CLASS_STALHORSE_RIDER"/>
+		<Row Type="ABILITY_LIZALFOS" Tag="CLASS_LIZALFOS"/>
+		<Row Type="ABILITY_ELECTRIC_LIZALFOS" Tag="CLASS_ELECTRIC_LIZALFOS"/>
+		<Row Type="ABILITY_ZORA_SPEARS" Tag="CLASS_ZORA_SPEARS"/>
+		<Row Type="ABILITY_RIVER_PATROL" Tag="CLASS_RIVER_PATROL"/>
+		<Row Type="ABILITY_HYDROPHANT_LANCER" Tag="CLASS_HYDROPHANT_LANCER"/>
+		<Row Type="ABILITY_GORON_BOMBARDIERS" Tag="CLASS_GORON_BOMBARDIERS"/>
+		<Row Type="ABILITY_ROCK_TOSSER" Tag="CLASS_ROCK_TOSSER"/>
+		<Row Type="ABILITY_BATTLE_BROTHER" Tag="CLASS_BATTLE_BROTHER"/>
+		<Row Type="ABILITY_FIRE_WARRIOR" Tag="CLASS_FIRE_WARRIOR"/>
+		<Row Type="ABILITY_ROLLIN_GORON" Tag="CLASS_ROLLIN_GORON"/>
+		<Row Type="ABILITY_SALAMANDER_WAGON" Tag="CLASS_SALAMANDER_WAGON"/>
+		<Row Type="ABILITY_SAND_SEAL_RIDER" Tag="CLASS_SAND_SEAL_RIDER"/>
+		<Row Type="ABILITY_GERUTO_PIRATES" Tag="CLASS_GERUTO_PIRATES"/>
+		<Row Type="ABILITY_VEILED_GUARDS" Tag="CLASS_VEILED_GUARDS"/>
+		<Row Type="ABILITY_YIGA_WARRIORS" Tag="CLASS_YIGA_WARRIORS"/>
+
+	</TypeTags>
+
+	<UnitAbilities>
+		<Row UnitAbilityType="ABILITY_KNIGHT_OF_HYRULE" Name="LOC_ABILITY_KNIGHT_OF_HYRULE_NAME" Description="LOC_ABILITY_KNIGHT_OF_HYRULE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SHEIKAH_WARRIORS" Name="LOC_ABILITY_SHEIKAH_WARRIORS_NAME" Description="LOC_ABILITY_SHEIKAH_WARRIORS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_NUTLING" Name="LOC_ABILITY_NUTLING_NAME" Description="LOC_ABILITY_NUTLING_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MAD_SCRUB" Name="LOC_ABILITY_MAD_SCRUB_NAME" Description="LOC_ABILITY_MAD_SCRUB_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_TOTEM_DEKU" Name="LOC_ABILITY_TOTEM_DEKU_NAME" Description="LOC_ABILITY_TOTEM_DEKU_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GUARDLING" Name="LOC_ABILITY_GUARDLING_NAME" Description="LOC_ABILITY_GUARDLING_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_DEKU_ORHAT" Name="LOC_ABILITY_DEKU_ORHAT_NAME" Description="LOC_ABILITY_DEKU_ORHAT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GIANT_ORHAT" Name="LOC_ABILITY_GIANT_ORHAT_NAME" Description="LOC_ABILITY_GIANT_ORHAT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GARO_ROBE" Name="LOC_ABILITY_GARO_ROBE_NAME" Description="LOC_ABILITY_GARO_ROBE_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HOLLOW_KNIGHT" Name="LOC_ABILITY_HOLLOW_KNIGHT_NAME" Description="LOC_ABILITY_HOLLOW_KNIGHT_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_MOBLIN" Name="LOC_ABILITY_MOBLIN_NAME" Description="LOC_ABILITY_MOBLIN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BOKOBLIN" Name="LOC_ABILITY_BOKOBLIN_NAME" Description="LOC_ABILITY_BOKOBLIN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BULBLIN" Name="LOC_ABILITY_BULBLIN_NAME" Description="LOC_ABILITY_BULBLIN_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BULLBOS_RIDER" Name="LOC_ABILITY_BULLBOS_RIDER_NAME" Description="LOC_ABILITY_BULLBOS_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_STALHORSE_RIDER" Name="LOC_ABILITY_STALHORSE_RIDER_NAME" Description="LOC_ABILITY_STALHORSE_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_LIZALFOS" Name="LOC_ABILITY_LIZALFOS_NAME" Description="LOC_ABILITY_LIZALFOS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ELECTRIC_LIZALFOS" Name="LOC_ABILITY_ELECTRIC_LIZALFOS_NAME" Description="LOC_ABILITY_ELECTRIC_LIZALFOS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ZORA_SPEARS" Name="LOC_ABILITY_ZORA_SPEARS_NAME" Description="LOC_ABILITY_ZORA_SPEARS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_RIVER_PATROL" Name="LOC_ABILITY_RIVER_PATROL_NAME" Description="LOC_ABILITY_RIVER_PATROL_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_HYDROPHANT_LANCER" Name="LOC_ABILITY_HYDROPHANT_LANCER_NAME" Description="LOC_ABILITY_HYDROPHANT_LANCER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GORON_BOMBARDIERS" Name="LOC_ABILITY_GORON_BOMBARDIERS_NAME" Description="LOC_ABILITY_GORON_BOMBARDIERS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ROCK_TOSSER" Name="LOC_ABILITY_ROCK_TOSSER_NAME" Description="LOC_ABILITY_ROCK_TOSSER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_BATTLE_BROTHER" Name="LOC_ABILITY_BATTLE_BROTHER_NAME" Description="LOC_ABILITY_BATTLE_BROTHER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_FIRE_WARRIOR" Name="LOC_ABILITY_FIRE_WARRIOR_NAME" Description="LOC_ABILITY_FIRE_WARRIOR_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_ROLLIN_GORON" Name="LOC_ABILITY_ROLLIN_GORON_NAME" Description="LOC_ABILITY_ROLLIN_GORON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SALAMANDER_WAGON" Name="LOC_ABILITY_SALAMANDER_WAGON_NAME" Description="LOC_ABILITY_SALAMANDER_WAGON_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_SAND_SEAL_RIDER" Name="LOC_ABILITY_SAND_SEAL_RIDER_NAME" Description="LOC_ABILITY_SAND_SEAL_RIDER_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_GERUTO_PIRATES" Name="LOC_ABILITY_GERUTO_PIRATES_NAME" Description="LOC_ABILITY_GERUTO_PIRATES_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_VEILED_GUARDS" Name="LOC_ABILITY_VEILED_GUARDS_NAME" Description="LOC_ABILITY_VEILED_GUARDS_DESCRIPTION"/>
+		<Row UnitAbilityType="ABILITY_YIGA_WARRIORS" Name="LOC_ABILITY_YIGA_WARRIORS_NAME" Description="LOC_ABILITY_YIGA_WARRIORS_DESCRIPTION"/>
+
+	</UnitAbilities>
+
+	<UnitAbilityModifiers>
+		<Row UnitAbilityType="ABILITY_KNIGHT_OF_HYRULE" ModifierId="SAMURAI_NO_REDUCTION_DAMAGE"/> <!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_SHEIKAH_WARRIORS" ModifierId="MAMLUK_HEAL_EVERY_MOVE"/> <!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_SHEIKAH_WARRIORS" ModifierId="COSSACK_LOCAL_COMBAT"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_NUTLING" ModifierId="CHOKE_POINTS_BONUS"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_MAD_SCRUB" ModifierId="EXPERT_MARKSMAN_ADDITIONAL_ATTACK"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_TOTEM_DEKU" ModifierId="MYTLOZ_OCCUPING_DISTRICT_FORT"/>
+		<Row UnitAbilityType="ABILITY_GUARDLING" ModifierId="CHOKE_POINTS_BONUS"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_DEKU_ORHAT" ModifierId="LIGHTCHARIOT_FASTER_CLEAR_TERRAIN"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_GIANT_ORHAT" ModifierId="VARU_NEGATIVE_COMBAT"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_GARO_ROBE" ModifierId="MYTLOZ_NOT_LOCAL_COMBAT_BONUS"/>
+		<Row UnitAbilityType="ABILITY_HOLLOW_KNIGHT" ModifierId="MAMLUK_HEAL_EVERY_MOVE"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_MOBLIN" ModifierId="MYTLOZ_MOBILN_COMBAT_MELEE_BONUS_MODIFIER"/>
+		<Row UnitAbilityType="ABILITY_BOKOBLIN" ModifierId="UNIT_REDUCED_PILLAGE_COST"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_BULBLIN" ModifierId="VULTURE_BONUS_VS_DAMAGED"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_BULLBOS_RIDER" ModifierId="BALKAN_CAVALRY_COMBAT_HILLS"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_STALHORSE_RIDER" ModifierId="SAMURAI_NO_REDUCTION_DAMAGE"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_LIZALFOS" ModifierId="UNIT_STRONG_WHEN_ATTACKING"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_LIZALFOS" ModifierId="UNIT_WEAK_WHEN_DEFENDING"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_ELECTRIC_LIZALFOS" ModifierId="MYTLOZ_POST_COMBAT_SCIENCE"/>
+		<Row UnitAbilityType="ABILITY_ZORA_SPEARS" ModifierId="ZORA_SPEARS_NEIGHBOR_COMBAT"/>
+		<Row UnitAbilityType="ABILITY_RIVER_PATROL" ModifierId="MOD_IGNORE_CROSSING_RIVERS_COST"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_HYDROPHANT_LANCER" ModifierId="COSSACK_LOCAL_COMBAT"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_GORON_BOMBARDIERS" ModifierId="UNIT_STRONG_WHEN_ATTACKING"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_GORON_BOMBARDIERS" ModifierId="UNIT_WEAK_WHEN_DEFENDING"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_ROCK_TOSSER" ModifierId="EXPERT_MARKSMAN_ADDITIONAL_ATTACK"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_BATTLE_BROTHER" ModifierId="TOP_COVER_DEFENSE_BONUS_VS_RANGED"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_FIRE_WARRIOR" ModifierId="SAMURAI_NO_REDUCTION_DAMAGE"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_ROLLIN_GORON" ModifierId="HUSSAR_FORCE_RETREAT"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_SALAMANDER_WAGON" ModifierId="MYTLOZ_WAGON_INCREASE_HEAL_RATE"/>
+		<Row UnitAbilityType="ABILITY_SAND_SEAL_RIDER" ModifierId="LIGHTCHARIOT_FASTER_CLEAR_TERRAIN"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_GERUTO_PIRATES" ModifierId="MYTLOZ_COMBAT_BONUS_LAND_ON_COAST_MODIFIER"/>
+		<Row UnitAbilityType="ABILITY_VEILED_GUARDS" ModifierId="COSSACK_LOCAL_COMBAT"/><!-- Implemented In Vanilla-->
+		<Row UnitAbilityType="ABILITY_YIGA_WARRIORS" ModifierId="COSSACK_MOVE_AND_ATTACK"/><!-- Implemented In Vanilla-->
+	</UnitAbilityModifiers>
+
+	<Modifiers>
+		<Row>
+			<ModifierId>MYTLOZ_OCCUPING_DISTRICT_FORT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>GARRISON_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_NOT_LOCAL_COMBAT_BONUS</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>MYTLOZ_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_MOBILN_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>THRUST_REQUIREMENTS</SubjectRequirementSetId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_POST_COMBAT_SCIENCE</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_POST_COMBAT_YIELD</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>ZORA_SPEARS_NEIGHBOR_COMBAT</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<SubjectRequirementSetId>ZORA_SPEARS_PLOT_IS_ZORA_SPEARS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_WAGON_INCREASE_HEAL_RATE</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_UNITS_ADJUST_HEAL_PER_TURN</ModifierType>
+			<SubjectRequirementSetId>MEDIC_HEALING_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId>
+			<ModifierType>MODIFIER_UNIT_ADJUST_COMBAT_STRENGTH</ModifierType>
+			<OwnerRequirementSetId>REQUIREMENTS_UNIT_LAND_DOMAIN</OwnerRequirementSetId>
+			<SubjectRequirementSetId>REQUIREMENTS_UNIT_ON_COAST</SubjectRequirementSetId>
+		</Row>
+	</Modifiers>
+
+	<ModifierArguments>
+		<Row>
+			<ModifierId>MYTLOZ_OCCUPING_DISTRICT_FORT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_NOT_LOCAL_COMBAT_BONUS</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_MOBILN_COMBAT_MELEE_BONUS_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_POST_COMBAT_SCIENCE</ModifierId>
+			<Name>PercentDefeatedStrength</Name>
+			<Value>50</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_POST_COMBAT_SCIENCE</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_SCIENCE</Value>
+		</Row>
+		<Row>
+			<ModifierId>ZORA_SPEARS_NEIGHBOR_COMBAT</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_WAGON_INCREASE_HEAL_RATE</ModifierId>
+			<Name>Amount</Name>
+			<Value>10</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_WAGON_INCREASE_HEAL_RATE</ModifierId>
+			<Name>Type</Name>
+			<Value>ALL</Value>
+		</Row>
+		<Row>
+			<ModifierId>MYTLOZ_COMBAT_BONUS_LAND_ON_COAST_MODIFIER</ModifierId>
+			<Name>Amount</Name>
+			<Value>5</Value>
+		</Row>
+	</ModifierArguments>
+
+	<ModifierStrings>
+		<Row ModifierId="MYTLOZ_OCCUPING_DISTRICT_FORT" Context="Preview" Text="LOC_ABILITY_TOTEM_DEKU_DESCRIPTION"/>
+		<Row ModifierId="MYTLOZ_NOT_LOCAL_COMBAT_BONUS" Context="Preview" Text="LOC_ABILITY_GARO_ROBE_DESCRIPTION"/>
+		<Row ModifierId="MYTLOZ_MOBILN_COMBAT_MELEE_BONUS_MODIFIER" Context="Preview" Text="LOC_ABILITY_MOBLIN_DESCRIPTION"/>
+		<Row ModifierId="ZORA_SPEARS_NEIGHBOR_COMBAT" Context="Preview" Text="LOC_ABILITY_ZORA_SPEARS_DESCRIPTION"/>
+		<Row ModifierId="MYTLOZ_COMBAT_BONUS_LAND_ON_COAST_MODIFIER" Context="Preview" Text="LOC_ABILITY_GERUTO_PIRATES_DESCRIPTION"/>
+
+
+	</ModifierStrings>
+
+	<RequirementSets>
+		<Row>
+			<RequirementSetId>MYTLOZ_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>ZORA_SPEARS_PLOT_IS_ZORA_SPEARS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ALL</RequirementSetType>
+		</Row>
+	</RequirementSets>
+
+	<RequirementSetRequirements>
+		<Row>
+			<RequirementSetId>MYTLOZ_NOT_IN_OWNER_TERRITORY_REQUIREMENTS</RequirementSetId>
+			<RequirementId>MYTLOZ_UNIT_NOT_IN_OWNER_TERRITORY_REQUIREMENT</RequirementId>
+		</Row>
+		<Row>
+			<RequirementSetId>ZORA_SPEARS_PLOT_IS_ZORA_SPEARS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ZORA_SPEARS</RequirementId>
+		</Row>
+	</RequirementSetRequirements>
+
+	<Requirements>
+		<Row>
+			<RequirementId>MYTLOZ_UNIT_NOT_IN_OWNER_TERRITORY_REQUIREMENT</RequirementId>
+			<RequirementType>REQUIREMENT_UNIT_IN_OWNER_TERRITORY</RequirementType>
+			<Inverse>true</Inverse>
+		</Row>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ZORA_SPEARS</RequirementId>
+			<RequirementType>REQUIREMENT_PLOT_ADJACENT_FRIENDLY_UNIT_TYPE_MATCHES</RequirementType>
+		</Row>
+	</Requirements>
+	<RequirementArguments>
+		<Row>
+			<RequirementId>REQUIRES_UNIT_NEXT_TO_ZORA_SPEARS</RequirementId>
+			<Name>UnitType</Name>
+			<Value>UNIT_ZORA_SPEARS</Value>
+		</Row>
+	</RequirementArguments>
+</GameData>

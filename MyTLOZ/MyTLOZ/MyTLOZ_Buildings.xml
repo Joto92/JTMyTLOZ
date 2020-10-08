@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="BUILDING_GODDESS_STATUE" Kind="KIND_BUILDING"/>
+	</Types>
+	<BuildingReplaces>
+		<Row CivUniqueBuildingType="BUILDING_GODDESS_STATUE" ReplacesBuildingType="BUILDING_MONUMENT"/>
+	</BuildingReplaces>
+
+	<Buildings>
+		<Row BuildingType="BUILDING_GODDESS_STATUE" Name="LOC_BUILDING_GODDESS_STATUE_NAME" Description="LOC_BUILDING_GODDESS_STATUE_DESCRIPTION" PrereqDistrict="DISTRICT_CITY_CENTER" PurchaseYield="YIELD_GOLD" Cost="60" AdvisorType="ADVISOR_CULTURE" TraitType="TRAIT_CIVILIZATION_BUILDING_GODDESS_STATUE"/>
+	</Buildings>
+
+	<Building_YieldChanges>
+		<Row BuildingType="BUILDING_GODDESS_STATUE" YieldType="YIELD_FAITH" YieldChange="1"/>
+		<Row BuildingType="BUILDING_GODDESS_STATUE" YieldType="YIELD_CULTURE" YieldChange="3"/>
+	</Building_YieldChanges>
+</GameData>

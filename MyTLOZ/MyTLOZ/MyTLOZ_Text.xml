@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<LocalizedText>
+		<Row Tag="LOC_PROMOTION_MYTLOZ_COMBAT_OTHER_RELIGION_DESCRIPTION" Language="en_US">
+			<Text>+5 vs. civilizations following another Religion.</Text>
+		</Row>
+		<Row Tag="LOC_MYTLOZ_DISTRICT_FOREST_GOLD" Language="en_US">
+			<Text>+1 [ICON_Gold] Gold for Forest</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_FOREST_COMBAT_BONUS_DEKU_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] when fighting in Forest or Jungle.</Text>
+		</Row>
+		<Row Tag="LOC_MYTLOZ_DISTRICT_DESERT_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert</Text>
+		</Row>
+		<Row Tag="LOC_MYTLOZ_DISTRICT_DESERT_HILLS_FOOD" Language="en_US">
+			<Text>+1 [ICON_Food] Food for Desert</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_MYTLOZ_DESERT_COMBAT_BONUS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength in Desert</Text>
+		</Row>
+		<Row Tag="LOC_MYTLOZ_CITYCENTER_OASIS" Language="en_US">
+			<Text>+2 [ICON_Food] Food for Oasis</Text>
+		</Row>
+		<Row Tag="LOC_TLOZ_DISTRICT_RIVER_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent River.</Text>
+		</Row>
+		<Row Tag="LOC_TLOZ_DISTRICT_OASIS_CULTURE" Language="en_US">
+			<Text>+{1_num} [ICON_Culture] Culture from the adjacent Oasis.</Text>
+		</Row>
+		<Row Tag="LOC_TLOZ_DISTRICT_OASIS_GOLD" Language="en_US">
+			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Oasis.</Text>
+		</Row>
+		<!-- HYRULE-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_ZELDA" Language="en_US">
+			<Text>Zelda, Princess of Hyrule, is the name for several female Hylians, usually members of the Royal Family of Hyrule, who often play an integral role in the series. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_HYRULE_CASTLE" Language="en_US" Text="Hyrule Castle"/>
+		<Row Tag="LOC_CITY_NAME_HYRULE_TOWN" Language="en_US" Text="Hyrule Town"/>
+		<Row Tag="LOC_CITY_NAME_KAKARIKO" Language="en_US" Text="Kakariko"/>
+		<Row Tag="LOC_CITY_NAME_HATENO" Language="en_US" Text="Hateno"/>
+		<Row Tag="LOC_CITY_NAME_MABE" Language="en_US" Text="Mabe"/>
+		<Row Tag="LOC_CITY_NAME_DEYA" Language="en_US" Text="Deya"/>
+		<Row Tag="LOC_CITY_NAME_AKKALA" Language="en_US" Text="Akkala"/>
+		<Row Tag="LOC_CITY_NAME_GOPONGA" Language="en_US" Text="Goponga"/>
+		<Row Tag="LOC_CITY_NAME_LURELIN" Language="en_US" Text="Lurelin"/>
+		<Row Tag="LOC_CITY_NAME_TABANTHA" Language="en_US" Text="Tabantha"/>
+		<Row Tag="LOC_CITY_NAME_LON_LON" Language="en_US" Text="Lon Lon"/>
+		<Row Tag="LOC_CITY_NAME_ORDON" Language="en_US" Text="Ordon"/>
+		<Row Tag="LOC_CITY_NAME_KASUTO" Language="en_US" Text="Kasuto"/>
+		<Row Tag="LOC_CITY_NAME_NABOORU" Language="en_US" Text="Nabooru"/>
+		<Row Tag="LOC_CITY_NAME_DARUNIA" Language="en_US" Text="Darunia"/>
+		<Row Tag="LOC_CITY_NAME_RAURU" Language="en_US" Text="Rauru"/>
+		<Row Tag="LOC_CITY_NAME_SARIA" Language="en_US" Text="Saria"/>
+		<Row Tag="LOC_CITY_NAME_RUTO" Language="en_US" Text="Ruto"/>
+		<Row Tag="LOC_CITY_NAME_MIDO" Language="en_US" Text="Mido"/>
+		<Row Tag="LOC_CITY_NAME_NORTH_HYRULE_CASTLE" Language="en_US" Text="North Hyrule Castle"/>
+		<Row Tag="LOC_CITY_NAME_THYPHLO" Language="en_US" Text="Thyphlo"/>
+		<Row Tag="LOC_CITY_NAME_PARAPA" Language="en_US" Text="Parapa"/>
+		<Row Tag="LOC_CITY_NAME_NEW_CASTLE_TOWN" Language="en_US" Text="New Castle Town"/>
+		<Row Tag="LOC_CITY_NAME_ABODA" Language="en_US" Text="Aboda"/>
+		<Row Tag="LOC_CITY_NAME_WHITTLETON" Language="en_US" Text="Whittleton"/>
+		<Row Tag="LOC_CITY_NAME_PAPUCHIA" Language="en_US" Text="Papuchia"/>
+		<Row Tag="LOC_CITY_NAME_SKYLOFT" Language="en_US" Text="Skyloft"/>
+		<Row Tag="LOC_CITY_NAME_AUDORN" Language="en_US" Text="Audorn"/>
+		<Row Tag="LOC_CITY_NAME_AQUAME" Language="en_US" Text="Aquame"/>
+		<Row Tag="LOC_CITY_NAME_YARNASOTH" Language="en_US" Text="Yarnasoth"/>
+		<Row Tag="LOC_CITY_NAME_BRIDGE_OF_ELDIN" Language="en_US" Text="Bridge of Eldin"/>
+		<Row Tag="LOC_CITY_NAME_NAL_ORDONA" Language="en_US" Text="Nal Ordona"/>
+		<Row Tag="LOC_CITY_NAME_MALKARIKO" Language="en_US" Text="Malkariko"/>
+		<Row Tag="LOC_CITY_NAME_NALDORIKO" Language="en_US" Text="Naldoriko"/>
+		<Row Tag="LOC_CITY_NAME_TAOBAB" Language="en_US" Text="Taobab"/>
+		<Row Tag="LOC_CITY_NAME_GUNDRUMETHER" Language="en_US" Text="Gundrumether"/>
+		<Row Tag="LOC_CITY_NAME_KOMOLO" Language="en_US" Text="Komolo"/>
+		<Row Tag="LOC_CITY_NAME_TARREY_TOWN" Language="en_US" Text="Tarrey Town"/>
+		<Row Tag="LOC_CITY_NAME_KANOKIRI" Language="en_US" Text="Kanokiri"/>
+		<Row Tag="LOC_CITY_NAME_GRINNDEN" Language="en_US" Text="Grinnden"/>
+		<Row Tag="LOC_CITY_NAME_VIGJARO" Language="en_US" Text="Vigjaro"/>
+		<Row Tag="LOC_CITY_NAME_LARUSL" Language="en_US" Text="Larusl"/>
+		<Row Tag="LOC_CITY_NAME_PAPPETTO" Language="en_US" Text="Pappetto"/>
+		<Row Tag="LOC_CITY_NAME_AIRU" Language="en_US" Text="Airu"/>
+		<Row Tag="LOC_CITY_NAME_BARULA" Language="en_US" Text="Barula"/>
+		<Row Tag="LOC_CITY_NAME_DARYBON" Language="en_US" Text="Darybon"/>
+		<Row Tag="LOC_CITY_NAME_FORT_OF_WINGS" Language="en_US" Text="Fort of Wings"/>
+		<Row Tag="LOC_CITY_NAME_GRESHOU" Language="en_US" Text="Greshou"/>
+		<!-- DEKU KING-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DEKU_KING" Language="en_US">
+			<Text>The Deku King is the head of the Deku Royal Family, he is the ruler of the Deku tribe in Termina. His daughter is the Deku Princess. Together, along with a butler and servants, they live in the Deku Palace in the Southern Swamp. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_DEKU_PALACE" Language="en_US" Text="Deku Palace"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_CITY" Language="en_US" Text="Deku City"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_TOWN" Language="en_US" Text="Deku Town"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_TREE" Language="en_US" Text="Deku Tree"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_FOREST" Language="en_US" Text="Deku Forest"/>
+		<Row Tag="LOC_CITY_NAME_SOUTHERN_SWAMP" Language="en_US" Text="Southern Swamp"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_FORT" Language="en_US" Text="Deku Fort"/>
+		<Row Tag="LOC_CITY_NAME_LOST_WOODS" Language="en_US" Text="Lost Woods"/>
+		<Row Tag="LOC_CITY_NAME_SACRED_FOREST_MEADOW" Language="en_US" Text="Sacred Forest Meadow"/>
+		<Row Tag="LOC_CITY_NAME_WOODFALL" Language="en_US" Text="Woodfall"/>
+		<Row Tag="LOC_CITY_NAME_DEKU_SHIRE" Language="en_US" Text="Deku Shire"/>
+		<Row Tag="LOC_CITY_NAME_KORIKI_FOREST" Language="en_US" Text="Koriki Forest"/>
+		<Row Tag="LOC_CITY_NAME_MEKARWEE" Language="en_US" Text="Mekarwee"/>
+		<Row Tag="LOC_CITY_NAME_DOODLEWEE" Language="en_US" Text="Doodlewee"/>
+		<Row Tag="LOC_CITY_NAME_GOOBALWEE" Language="en_US" Text="Goobalwee"/>
+		<Row Tag="LOC_CITY_NAME_JOOGAL" Language="en_US" Text="Joogal"/>
+		<!-- IKANA-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_IGOS_IKANA" Language="en_US">
+			<Text>Igos du Ikana, once the proud King of the kingdom of Ikana, he eventually died, and the once-great kingdom faded away into obscurity. Despite the fact that he died, the king and his servants were re-animated by the power of a curse from Stone Tower Temple which had recently been opened by the Skull Kid. Now a skeletal being, he ruled over whatever was left of Ikana with his undead guards.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_IKANA_CASTLE" Language="en_US" Text="Ikana Castle"/>
+		<Row Tag="LOC_CITY_NAME_IKANA_VILLAGE" Language="en_US" Text="Ikana Village"/>
+		<Row Tag="LOC_CITY_NAME_STONE_TOWER" Language="en_US" Text="Stone Tower"/>
+		<Row Tag="LOC_CITY_NAME_DRACOZU" Language="en_US" Text="Dracozu"/>
+		<Row Tag="LOC_CITY_NAME_FALLING_BASTION" Language="en_US" Text="Falling Bastion"/>
+		<Row Tag="LOC_CITY_NAME_ISON" Language="en_US" Text="Ison"/>
+		<Row Tag="LOC_CITY_NAME_MEESIAM" Language="en_US" Text="Meesiam"/>
+		<Row Tag="LOC_CITY_NAME_MOLCANA" Language="en_US" Text="Molcana"/>
+		<Row Tag="LOC_CITY_NAME_IKANA_GRAVEYARD" Language="en_US" Text="Ikana Graveyard"/>
+		<Row Tag="LOC_CITY_NAME_IKANA_CANYON" Language="en_US" Text="Ikana Canyon"/>
+		<Row Tag="LOC_CITY_NAME_SECRET_SHRINE" Language="en_US" Text="Secret Shrine"/>
+		<Row Tag="LOC_CITY_NAME_GIBDO_TOWN" Language="en_US" Text="Gibdo Town"/>
+		<Row Tag="LOC_CITY_NAME_IKANA_FORT" Language="en_US" Text="Ikana Fort"/>
+		<Row Tag="LOC_CITY_NAME_KEETA_FORT" Language="en_US" Text="Keeta Fort"/>
+		<!-- GANON-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_GANON" Language="en_US">
+			<Text>Ganon, also known by his original/human form Ganondorf, is the main antagonist of The Legend of Zelda series. Ganon is revealed to be the incarnation of the hatred of the demon king Demise, carrying his eternal loathing and fury towards the goddess and her hero. Thus, he is destined to eternally reincarnate, becoming the source of various conflicts in the history of Hyrule, which involve those with the blood of the goddess and the spirit of the hero.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GANONS_TOWER" Language="en_US" Text="Ganon’s Tower"/>
+		<Row Tag="LOC_CITY_NAME_MOBLIS_KEEP" Language="en_US" Text="Moblin's Keep"/>
+		<Row Tag="LOC_CITY_NAME_BOKO_FORTRESS" Language="en_US" Text="Boko Fortress"/>
+		<Row Tag="LOC_CITY_NAME_BOKOBLIN" Language="en_US" Text="Bokoblin Keep"/>
+		<Row Tag="LOC_CITY_NAME_BULBLIN_KEEP" Language="en_US" Text="Bulblin Keep"/>
+		<Row Tag="LOC_CITY_NAME_MINIBLIN_KEEP" Language="en_US" Text="Miniblin Keep"/>
+		<Row Tag="LOC_CITY_NAME_STONE_BLIN_KEEP" Language="en_US" Text="Stone Blin Keep"/>
+		<Row Tag="LOC_CITY_NAME_MOBLIN_CITY" Language="en_US" Text="Moblin City"/>
+		<Row Tag="LOC_CITY_NAME_KARUNA_KEEP" Language="en_US" Text="Karuna Keep"/>
+		<Row Tag="LOC_CITY_NAME_GANON_CASTLE" Language="en_US" Text="Ganon's Castle"/>
+		<Row Tag="LOC_CITY_NAME_DEMISE_FORT" Language="en_US" Text="Demise Fort"/>
+		<Row Tag="LOC_CITY_NAME_BOXOBLIN" Language="en_US" Text="Boxoblin"/>
+		<Row Tag="LOC_CITY_NAME_OK_RU" Language="en_US" Text="Ok Ru"/>
+		<Row Tag="LOC_CITY_NAME_WEJYBLIN" Language="en_US" Text="Wejyblin"/>
+		<Row Tag="LOC_CITY_NAME_XEXOBLIN" Language="en_US" Text="Xexoblin"/>
+		<Row Tag="LOC_CITY_NAME_BAKALASHUT" Language="en_US" Text="Bakalashut"/>
+		<Row Tag="LOC_CITY_NAME_KADOLUKSHUT" Language="en_US" Text="Kadolukshut"/>
+		<Row Tag="LOC_CITY_NAME_KORKULOKI" Language="en_US" Text="Korkuloki"/>
+		<Row Tag="LOC_CITY_NAME_UKSHULUT" Language="en_US" Text="Ukshulut"/>
+		<Row Tag="LOC_CITY_NAME_DODONGO" Language="en_US" Text="Dodongo"/>
+		<Row Tag="LOC_CITY_NAME_LIZALFOS_KEEP" Language="en_US" Text="Lizalfos Keep"/>
+		<Row Tag="LOC_CITY_NAME_AERALFOS_KEEP" Language="en_US" Text="Aeralfos Keep"/>
+		<Row Tag="LOC_CITY_NAME_DYNALFOS_KEEP" Language="en_US" Text="Dynalfos Keep"/>
+		<Row Tag="LOC_CITY_NAME_GERU_KEEP" Language="en_US" Text="Geru Keep"/>
+		<Row Tag="LOC_CITY_NAME_STALIZALFOS_KEEP" Language="en_US" Text="Stalizalfos Keep"/>
+		<Row Tag="LOC_CITY_NAME_STALKOBLIN_FORT" Language="en_US" Text="Stalkoblin Fort"/>
+		<Row Tag="LOC_CITY_NAME_FORSAKEN_FORTRESS" Language="en_US" Text="Forsaken Fortress"/>
+		<!-- ZORA | DOREPHAN-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DOREPHAN" Language="en_US">
+			<Text>King Dorephan, is the King of the Zora and reigns over the Zora's Domain in the Lanayru Great Spring region. He is the father of Princess Mipha and Prince Sidon. He is known to have reigned over the Zora for over one hundred years making him the longest known reigning King Zora in the history of the series. </Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_ZORA_DOMAIN" Language="en_US" Text="Zora’s Domain"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_RIVER" Language="en_US" Text="Zora River"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_HYLIA" Language="en_US" Text="Lake Hylia"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_CAPE" Language="en_US" Text="Zora Cape"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_HALL" Language="en_US" Text="Zora Hall"/>
+		<Row Tag="LOC_CITY_NAME_GREAT_BAY" Language="en_US" Text="Great Bay"/>
+		<Row Tag="LOC_CITY_NAME_WATERFALL_RAPIDS" Language="en_US" Text="Waterfall Rapids"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_VILLAGE" Language="en_US" Text="Zora Village"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_FOUNTAIN" Language="en_US" Text="Zora's Fountain"/>
+		<Row Tag="LOC_CITY_NAME_LAKEBED_TEMPLE" Language="en_US" Text="Lakebed Temple"/>
+		<Row Tag="LOC_CITY_NAME_ZORA_SEAS" Language="en_US" Text="Zora Seas"/>
+		<Row Tag="LOC_CITY_NAME_DOMAIN_PRIME" Language="en_US" Text="Domain Prime"/>
+		<Row Tag="LOC_CITY_NAME_VAL_JABUN" Language="en_US" Text="Val Jabun"/>
+		<Row Tag="LOC_CITY_NAME_RUTOVAL" Language="en_US" Text="Rutoval"/>
+		<Row Tag="LOC_CITY_NAME_NAYRUNIS" Language="en_US" Text="Nayrunis"/>
+		<Row Tag="LOC_CITY_NAME_TEMPEST_EDGE" Language="en_US" Text="Tempest's Edge"/>
+		<Row Tag="LOC_CITY_NAME_FINRA" Language="en_US" Text="Finra"/>
+		<Row Tag="LOC_CITY_NAME_RABELLA" Language="en_US" Text="Rabella"/>
+		<Row Tag="LOC_CITY_NAME_SAPPHIA" Language="en_US" Text="Sapphia"/>
+		<Row Tag="LOC_CITY_NAME_STORM_ZORA" Language="en_US" Text="Storm Zora"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_FLORIA" Language="en_US" Text="Lake Floria"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_FERONA" Language="en_US" Text="Lake Ferona"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_ILLUMENI" Language="en_US" Text="Lake Illumeni"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_INTENOCH" Language="en_US" Text="Lake Intenoch"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_JARRAH" Language="en_US" Text="Lake Jarrah"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_KILSIE" Language="en_US" Text="Lake Kilsie"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_KOLOMO" Language="en_US" Text="Lake Kolomo"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_MEKAR" Language="en_US" Text="Lake Mekar"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_SARIA" Language="en_US" Text="Lake Saria"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_SIELA" Language="en_US" Text="Lake Siela"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_SUMAC" Language="en_US" Text="Lake Sumac"/>
+		<Row Tag="LOC_CITY_NAME_LAKE_TOTORI" Language="en_US" Text="Lake Totori"/>
+		<Row Tag="LOC_CITY_NAME_LANTERN_LAKE" Language="en_US" Text="Lantern Lake"/>
+		<!-- GORON | DARUK-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_DARUK" Language="en_US">
+			<Text>Daruk lived in Goron City in the Eldin Canyon region of Hyrule, where he was considered a powerful warrior among his kind due to his great offensive capabilities and skill with his weapon the Boulder Breaker. This led him to be chosen by King Rhoam and Princess Zelda to become the Goron Champion, and pilot, of the Divine Beast Vah Rudania.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GORON_CITY" Language="en_US" Text="Goron City"/>
+		<Row Tag="LOC_CITY_NAME_RABAC" Language="en_US" Text="Rabac"/>
+		<Row Tag="LOC_CITY_NAME_DARMAN" Language="en_US" Text="Darman"/>
+		<Row Tag="LOC_CITY_NAME_DEATH_MOUNTAIN" Language="en_US" Text="Death Mountain"/>
+		<Row Tag="LOC_CITY_NAME_GORON_VILLAGE" Language="en_US" Text="Goron Village"/>
+		<Row Tag="LOC_CITY_NAME_ROLLING_RIDGE" Language="en_US" Text="Rolling Ridge"/>
+		<Row Tag="LOC_CITY_NAME_GORON_MOUNTAIN" Language="en_US" Text="Goron Mountain"/>
+		<Row Tag="LOC_CITY_NAME_DARK_ORE_MINE" Language="en_US" Text="Dark Ore Mine"/>
+		<Row Tag="LOC_CITY_NAME_ELDIN_CITY" Language="en_US" Text="Eldin City"/>
+		<Row Tag="LOC_CITY_NAME_GORON_TARGET_RANGE" Language="en_US" Text="Goron Target Range"/>
+		<Row Tag="LOC_CITY_NAME_GOR_GORONON" Language="en_US" Text="Gor Goronon"/>
+		<Row Tag="LOC_CITY_NAME_GOR_DALAGRA" Language="en_US" Text="Gor Dalagra"/>
+		<Row Tag="LOC_CITY_NAME_GOR_FORGARU" Language="en_US" Text="Gor Forgaru"/>
+		<Row Tag="LOC_CITY_NAME_GOR_GALONGA" Language="en_US" Text="Gor Galonga"/>
+		<Row Tag="LOC_CITY_NAME_GOR_UNDUGA" Language="en_US" Text="Gor Unduga"/>
+		<Row Tag="LOC_CITY_NAME_CROWN_RIDGE" Language="en_US" Text="Crown Ridge"/>
+		<Row Tag="LOC_CITY_NAME_DODONGO_CAVERN" Language="en_US" Text="Dodongo's Cavern"/>
+		<Row Tag="LOC_CITY_NAME_ONKOM" Language="en_US" Text="Onkom"/>
+		<Row Tag="LOC_CITY_NAME_GORKO_LAKE" Language="en_US" Text="Gorko Lake"/>
+		<Row Tag="LOC_CITY_NAME_GORKO_TUNNEL" Language="en_US" Text="Gorko Tunnel"/>
+		<Row Tag="LOC_CITY_NAME_GORTRAM_CLIFF" Language="en_US" Text="Gortram Cliff"/>
+		<!-- GERUDO | RIJU-->
+		<Row Tag="LOC_LOADING_INFO_LEADER_MAKEELA_RIJU" Language="en_US">
+			<Text>Riju is a descendant of the royal line of Gerudo Chieftains that took over after Urbosa the Gerudo Chieftain and Champion died fighting during the Great Calamity and is the leader of the Gerudo people a century after the Great Calamity, governing from Gerudo Town in the Gerudo Desert region of Hyrule within the province of Gerudo.</Text>
+		</Row>
+		<Row Tag="LOC_CITY_NAME_GERUDO" Language="en_US" Text="Gerudo"/>
+		<Row Tag="LOC_CITY_NAME_KARA_KARA" Language="en_US" Text="Kara Kara"/>
+		<Row Tag="LOC_CITY_NAME_BIRIDA" Language="en_US" Text="Birida"/>
+		<Row Tag="LOC_CITY_NAME_PALU" Language="en_US" Text="Palu"/>
+		<Row Tag="LOC_CITY_NAME_TORUMA" Language="en_US" Text="Toruma"/>
+		<Row Tag="LOC_CITY_NAME_KARUSA" Language="en_US" Text="Karusa"/>
+		<Row Tag="LOC_CITY_NAME_KOUKOT" Language="en_US" Text="Koukot"/>
+		<Row Tag="LOC_CITY_NAME_NEPHRA" Language="en_US" Text="Nephra"/>
+		<Row Tag="LOC_CITY_NAME_TAAFEL" Language="en_US" Text="Taafel"/>
+		<Row Tag="LOC_CITY_NAME_LAPAROH" Language="en_US" Text="Laparoh"/>
+		<Row Tag="LOC_CITY_NAME_ZIRCO" Language="en_US" Text="Zirco"/>
+		<Row Tag="LOC_CITY_NAME_VATORSA" Language="en_US" Text="Vatorsa"/>
+		<Row Tag="LOC_CITY_NAME_MEADELAS" Language="en_US" Text="Meadelas"/>
+		<Row Tag="LOC_CITY_NAME_RUTIMALA" Language="en_US" Text="Rutimala"/>
+		<Row Tag="LOC_CITY_NAME_RISOKA" Language="en_US" Text="Risoka"/>
+		<Row Tag="LOC_CITY_NAME_ASHINON" Language="en_US" Text="Ashinon"/>
+		<Row Tag="LOC_CITY_NAME_AVIELOD_WATCH" Language="en_US" Text="Avielod's Watch"/>
+		<Row Tag="LOC_CITY_NAME_GERUDO_FORTRESS" Language="en_US" Text="Gerudo’s Fortress"/>
+		<Row Tag="LOC_CITY_NAME_WASTELAND_TOWER" Language="en_US" Text="Wasteland Tower"/>
+		<Row Tag="LOC_CITY_NAME_HASANADORF" Language="en_US" Text="Hasanadorf"/>
+		<Row Tag="LOC_CITY_NAME_ZALDORF" Language="en_US" Text="Zaldorf"/>
+		<Row Tag="LOC_CITY_NAME_WYNALDORF" Language="en_US" Text="Wynaldorf"/>
+		<Row Tag="LOC_CITY_NAME_VALDOON" Language="en_US" Text="Valdoon"/>
+		<Row Tag="LOC_CITY_NAME_PALADORF" Language="en_US" Text="Paladorf"/>
+		<Row Tag="LOC_CITY_NAME_AIDAIDORF" Language="en_US" Text="Aidaidorf"/>
+		<Row Tag="LOC_CITY_NAME_ASLOSUS" Language="en_US" Text="Aslosus"/>
+		<Row Tag="LOC_CITY_NAME_GERUDO_MESA" Language="en_US" Text="Gerudo Mesa"/>
+		<Row Tag="LOC_CITY_NAME_GERUDO_PIRATES_FORT" Language="en_US" Text="Gerudo Pirates' Fort"/>
+		<Row Tag="LOC_CITY_NAME_GERUDO_TOWER" Language="en_US" Text="Gerudo Tower"/>
+		<!-- RHOAM_BOSPHORAMUS -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_RHOAM_BOSPHORAMUS" Language="en_US">
+			<Text>King Rhoam was once the King of Hyrule, one century prior to Link's awakening in the Shrine of Resurrection. He is the the last King of Hyrule, the husband of the Queen of Hyrule, and the father of Princess Zelda.</Text>
+		</Row>
+		<!-- URBOSA -->
+		<Row Tag="LOC_LOADING_INFO_LEADER_URBOSA" Language="en_US">
+			<Text>Lady Urbosa was the Gerudo Chieftain of her people, governing from Gerudo Town with wisdom, strength and compassion. She was close friends with the Queen of Hyrule, Zelda’s mother, prior to her death and took on a motherly role to her daughter. Thus, when King Rhoam and Princess Zelda called upon the Gerudo for aid in the coming battle against Calamity Ganon, Urbosa offered her sword immediately and agreed to become the Gerudo Champion, and pilot, of the Divine Beast Vah Naboris. </Text>
+		</Row>
+		<!-- Units-->
+		<Row Tag="LOC_ABILITY_TOTEM_DEKU_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength when in a district or fort.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GARO_ROBE_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength outside of own borders.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_MOBLIN_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength against Melee units.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_ZORA_SPEARS_DESCRIPTION" Language="en_US">
+			<Text>+5 [ICON_Strength] Combat Strength if there is at least one adjacent Zora Spear unit.</Text>
+		</Row>
+		<Row Tag="LOC_ABILITY_GERUTO_PIRATES_DESCRIPTION" Language="en_US">
+			<Text>Gerudo unique melee unit. Recieve +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast.</Text>
+		</Row>
+		<!-- Religions-->
+		<Row Tag="LOC_RELIGION_GOLDEN_GODDESSES" Language="en_US" Text="Golden Goddesses"/>
+		<Row Tag="LOC_RELIGION_GREAT_DEKU_TREE" Language="en_US" Text="The Great Deku Tree"/>
+		<Row Tag="LOC_RELIGION_MAJORA_WORKSHIP" Language="en_US" Text="Majora Worship"/>
+		<Row Tag="LOC_RELIGION_DEMISE" Language="en_US" Text="Demise"/>
+		<Row Tag="LOC_RELIGION_JABU_JABU" Language="en_US" Text="Lord Jabu-Jabu"/>
+		<Row Tag="LOC_RELIGION_FIRE_MOUNTAIN_SPIRITS" Language="en_US" Text="Fire Mountain Spirits"/>
+		<Row Tag="LOC_RELIGION_GODDESS_THE_SAND" Language="en_US" Text="Goddess of the Sand"/>
+
+	</LocalizedText>
+</GameData>

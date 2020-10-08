@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+	<Types>
+		<Row Type="RELIGION_GOLDEN_GODDESSES" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_GREAT_DEKU_TREE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_MAJORA_WORKSHIP" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_DEMISE" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_JABU_JABU" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_FIRE_MOUNTAIN_SPIRITS" Kind="KIND_RELIGION" />
+		<Row Type="RELIGION_GODDESS_THE_SAND" Kind="KIND_RELIGION" />
+
+	</Types>
+
+	<Religions>
+		<Row ReligionType="RELIGION_GOLDEN_GODDESSES" Name="LOC_RELIGION_GOLDEN_GODDESSES" Iconstring="GG" RequiresCustomName="0" Color="COLOR_RELIGION_GOLDEN_GODDESSES"/>
+		<Row ReligionType="RELIGION_GREAT_DEKU_TREE" Name="LOC_RELIGION_GREAT_DEKU_TREE" Iconstring="GD" RequiresCustomName="0" Color="COLOR_RELIGION_GREAT_DEKU_TREE"/>
+		<Row ReligionType="RELIGION_MAJORA_WORKSHIP" Name="LOC_RELIGION_MAJORA_WORKSHIP" Iconstring="Mw" RequiresCustomName="0" Color="COLOR_RELIGION_MAJORA_WORKSHIP"/>
+		<Row ReligionType="RELIGION_DEMISE" Name="LOC_RELIGION_DEMISE" Iconstring="Dm" RequiresCustomName="0" Color="COLOR_RELIGION_DEMISE"/>
+		<Row ReligionType="RELIGION_JABU_JABU" Name="LOC_RELIGION_JABU_JABU" Iconstring="JJ" RequiresCustomName="0" Color="COLOR_RELIGION_JABU_JABU"/>
+		<Row ReligionType="RELIGION_FIRE_MOUNTAIN_SPIRITS" Name="LOC_RELIGION_FIRE_MOUNTAIN_SPIRITS" Iconstring="FM" RequiresCustomName="0" Color="COLOR_RELIGION_FIRE_MOUNTAIN_SPIRITS"/>
+		<Row ReligionType="RELIGION_GODDESS_THE_SAND" Name="LOC_RELIGION_GODDESS_THE_SAND" Iconstring="GS" RequiresCustomName="0" Color="COLOR_RELIGION_GODDESS_THE_SAND"/>
+
+	</Religions>
+
+	<FavoredReligions>
+		<Row LeaderType="LEADER_ZELDA" ReligionType="RELIGION_GOLDEN_GODDESSES" />
+		<Row LeaderType="LEADER_RHOAM_BOSPHORAMUS" ReligionType="RELIGION_GOLDEN_GODDESSES" />
+		<Row LeaderType="LEADER_DEKU_KING" ReligionType="RELIGION_GREAT_DEKU_TREE" />
+		<Row LeaderType="LEADER_IGOS_IKANA" ReligionType="RELIGION_MAJORA_WORKSHIP" />
+		<Row LeaderType="LEADER_GANON" ReligionType="RELIGION_DEMISE" />
+		<Row LeaderType="LEADER_DOREPHAN" ReligionType="RELIGION_JABU_JABU" />
+		<Row LeaderType="LEADER_DARUK" ReligionType="RELIGION_FIRE_MOUNTAIN_SPIRITS" />
+		<Row LeaderType="LEADER_MAKEELA_RIJU" ReligionType="RELIGION_GODDESS_THE_SAND" />
+		<Row LeaderType="LEADER_URBOSA" ReligionType="RELIGION_GODDESS_THE_SAND" />
+
+	</FavoredReligions>
+
+	<Colors>
+		<Row>
+			<Type>COLOR_RELIGION_GOLDEN_GODDESSES</Type>
+			<Color>254,246,142,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_GREAT_DEKU_TREE</Type>
+			<Color>58,199,60,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_MAJORA_WORKSHIP</Type>
+			<Color>188,63,224,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_DEMISE</Type>
+			<Color>255,142,1,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_JABU_JABU</Type>
+			<Color>178,209,244,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_FIRE_MOUNTAIN_SPIRITS</Type>
+			<Color>214,86,15,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_RELIGION_GODDESS_THE_SAND</Type>
+			<Color>253,254,40,255</Color>
+		</Row>
+	</Colors>
+</GameData>
