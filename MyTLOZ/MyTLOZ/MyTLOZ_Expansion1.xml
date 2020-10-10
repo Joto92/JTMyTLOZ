@@ -1,4 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
+	<BuildingModifiers>
+		<Row BuildingType="BUILDING_GODDESS_STATUE" ModifierId="MONUMENT_LOYALTY"/>
+		<Row BuildingType="BUILDING_GODDESS_STATUE" ModifierId="MONUMENT_CULTURE_AT_FULL_LOYALTY"/>
+	</BuildingModifiers>
 
+	<District_Adjacencies>
+		<Row DistrictType="DISTRICT_GERUDO_BAZAAR" YieldChangeId="Government_Gold"/>
+	</District_Adjacencies>
 </GameData>

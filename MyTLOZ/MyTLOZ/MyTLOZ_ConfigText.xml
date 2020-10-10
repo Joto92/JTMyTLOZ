@@ -49,6 +49,9 @@
 		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION" Language="en_US">
 			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Gains an extra Morannon Orc when trained one. Accumulate 60% less war weariness than usual. </Text>
 		</Row>
+		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Gains an extra Morannon Orc when trained one. Accumulate 60% less war weariness than usual. Units do not receive damage from Dust Storms.</Text>
+		</Row>
 		<Row Tag="LOC_TRAIT_DARK_BEAST_NAME" Language="en_US" Text="Dark Beast"/>
 		<Row Tag="LOC_TRAIT_DARK_BEAST_DESCRIPTION" Language="en_US">
 			<Text>Additional Military policy slot. Combat victories provide [ICON_Faith] Faith and [ICON_Gold] Gold equal to 50% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
@@ -67,13 +70,16 @@
 			<Text>Land units receive +5 [ICON_Strength] Combat Strength in land tiles adjacent to Coast; naval units receive +5 [ICON_Strength] Combat Strength in shallow water tiles. Builds Encampment, Holy Site and Theater Square districts in half the time.</Text>
 		</Row>
 		<!-- GORON | DARUK -->
-		<Row Tag="LOC_CIVILIZATION_THE_GORON_NAME" Language="en_US" Text="Zora Kingdom"/>
-		<Row Tag="LOC_CIVILIZATION_THE_GORON_DESCRIPTION" Language="en_US" Text="Zora Kingdom"/>
+		<Row Tag="LOC_CIVILIZATION_THE_GORON_NAME" Language="en_US" Text="The Goron"/>
+		<Row Tag="LOC_CIVILIZATION_THE_GORON_DESCRIPTION" Language="en_US" Text="The Goron"/>
 		<Row Tag="LOC_CIVILIZATION_THE_GORON_ADJECTIVE" Language="en_US" Text="Goron"/>
 		<Row Tag="LOC_LEADER_DARUK_NAME" Language="en_US" Text="Daruk"/>
 		<Row Tag="LOC_TRAIT_ROCK_EATERS_NAME" Language="en_US" Text="Rock Eaters"/>
 		<Row Tag="LOC_TRAIT_ROCK_EATERS_DESCRIPTION" Language="en_US">
 			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines gives +1 [ICON_Food] Food.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_ROCK_EATERS_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines gives +1 [ICON_Food] Food. Units do not receive damage from Dust Storms.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_GORON_CHAMPION_NAME" Language="en_US" Text="Goron Champion"/>
 		<Row Tag="LOC_TRAIT_GORON_CHAMPION_DESCRIPTION" Language="en_US">
@@ -87,6 +93,9 @@
 		<Row Tag="LOC_TRAIT_GERUDO_CHIEFTAINS_NAME" Language="en_US" Text="Gerudo Chieftains"/>
 		<Row Tag="LOC_TRAIT_GERUDO_CHIEFTAINS_DESCRIPTION" Language="en_US">
 			<Text>Commercial Hubs gives 1 [ICON_Gold] Gold and 1 [ICON_Food] Food per adjacency to Desert or Desert Hills. +5 [ICON_Strength] Combat Strength in Desert. Extra territory upon founding cities. Oasis tiles provide +2 [ICON_Food] Food and +1 [ICON_Culture] to City Center.</Text>
+		</Row>
+		<Row Tag="LOC_TRAIT_GERUDO_CHIEFTAINS_EXPANSION2_DESCRIPTION" Language="en_US">
+			<Text>Commercial Hubs gives 1 [ICON_Gold] Gold and 1 [ICON_Food] Food per adjacency to Desert or Desert Hills. +5 [ICON_Strength] Combat Strength in Desert. Extra territory upon founding cities. Oasis tiles provide +2 [ICON_Food] Food and +1 [ICON_Culture] to City Center. Units do not receive damage from Dust Storms.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_CHILD_CHIEF_NAME" Language="en_US" Text="Child Chief"/>
 		<Row Tag="LOC_TRAIT_CHILD_CHIEF_DESCRIPTION" Language="en_US">

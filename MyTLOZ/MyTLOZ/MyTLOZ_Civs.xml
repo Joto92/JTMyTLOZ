@@ -53,16 +53,13 @@
 		<Row Type="TRAIT_CIVILIZATION_DISTRICT_EGG_INCUBATOR_HOUSE" Kind="KIND_TRAIT" />
 		<Row Type="TRAIT_CIVILIZATION_DISTRICT_GERUDO_BAZAAR" Kind="KIND_TRAIT" />
 		<Row Type="TRAIT_CIVILIZATION_BUILDING_GODDESS_STATUE" Kind="KIND_TRAIT" />
-		
-		<!--
-		Continents: 
-		Hyrule
-		Holodrum
-		Termina
-		Labrynna
-		World of the Ocean King
-		Gerudo
-		-->
+
+		<Row Type="CONTINENT_HYRULE" Kind="KIND_CONTINENT"/>
+		<Row Type="CONTINENT_HOLODRUM" Kind="KIND_CONTINENT"/>
+		<Row Type="CONTINENT_TERMINA" Kind="KIND_CONTINENT"/>
+		<Row Type="CONTINENT_LABRYNNA" Kind="KIND_CONTINENT"/>
+		<Row Type="CONTINENT_WORLD_OCEAN_KING" Kind="KIND_CONTINENT"/>
+		<Row Type="CONTINENT_GERUDO" Kind="KIND_CONTINENT"/>
 	</Types>
 
 	<Civilizations>
@@ -912,7 +909,6 @@
 	<CityNames>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_HYRULE_CASTLE"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_HYRULE_TOWN"/>
-		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_KAKARIKO"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_HATENO"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_MABE"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_DEYA"/>
@@ -920,6 +916,7 @@
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_GOPONGA"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_LURELIN"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_TABANTHA"/>
+		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_KAKARIKO"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_LON_LON"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_ORDON"/>
 		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" CityName="LOC_CITY_NAME_KASUTO"/>
@@ -1106,6 +1103,34 @@
 		<Row CivilizationType="CIVILIZATION_GERUDO" CityName="LOC_CITY_NAME_GERUDO_MESA"/>
 		<Row CivilizationType="CIVILIZATION_GERUDO" CityName="LOC_CITY_NAME_GERUDO_PIRATES_FORT"/>
 		<Row CivilizationType="CIVILIZATION_GERUDO" CityName="LOC_CITY_NAME_GERUDO_TOWER"/>
-
 	</CityNames>
+
+	<Continents>
+		<Row ContinentType="CONTINENT_HYRULE" Description="LOC_CONTINENT_HYRULE_DESCRIPTION"/>
+		<Row ContinentType="CONTINENT_HOLODRUM" Description="LOC_CONTINENT_HOLODRUM_DESCRIPTION"/>
+		<Row ContinentType="CONTINENT_TERMINA" Description="LOC_CONTINENT_TERMINA_DESCRIPTION"/>
+		<Row ContinentType="CONTINENT_LABRYNNA" Description="LOC_CONTINENT_LABRYNNA_DESCRIPTION"/>
+		<Row ContinentType="CONTINENT_WORLD_OCEAN_KING" Description="LOC_CONTINENT_WORLD_OCEAN_KING_DESCRIPTION"/>
+		<Row ContinentType="CONTINENT_GERUDO" Description="LOC_CONTINENT_GERUDO_DESCRIPTION"/>
+	</Continents>
+
+
+	<StartBiasFeatures>
+		<Row CivilizationType="CIVILIZATION_DEKU_KINGDOM" FeatureType="FEATURE_FOREST" Tier="2"/>
+		<Row CivilizationType="CIVILIZATION_DEKU_KINGDOM" FeatureType="FEATURE_JUNGLE" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_GERUDO" FeatureType="FEATURE_OASIS" Tier="2"/>
+	</StartBiasFeatures>
+
+	<StartBiasTerrains>
+		<Row CivilizationType="CIVILIZATION_ZORA_KINGDOM" TerrainType="TERRAIN_COAST" Tier="1"/>
+		<Row CivilizationType="CIVILIZATION_GERUDO" TerrainType="TERRAIN_DESERT" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_DEMON_KINGS" TerrainType="TERRAIN_DESERT" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_KINGDOM_IKANA" TerrainType="TERRAIN_PLAINS_HILLS" Tier="3"/>
+	</StartBiasTerrains>
+
+	<StartBiasRivers>
+		<Row CivilizationType="CIVILIZATION_ZORA_KINGDOM" Tier="5"/>
+		<Row CivilizationType="CIVILIZATION_KINGDOM_HYRULE" Tier="3"/>
+		<Row CivilizationType="CIVILIZATION_DEKU_KINGDOM" Tier="3"/>
+	</StartBiasRivers>
 </GameData>

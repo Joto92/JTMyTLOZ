@@ -31,6 +31,13 @@
 		<Row Tag="LOC_TLOZ_DISTRICT_OASIS_GOLD" Language="en_US">
 			<Text>+{1_num} [ICON_Gold] Gold from the adjacent Oasis.</Text>
 		</Row>
+		<Row Tag="LOC_MYTLOZ_DISTRICT_FOREST_FAITH" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_DISTRICT_MOUNTAIN_CULTURE" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture for Mountain adjacency.</Text>
+		</Row>
+		
 		<!-- HYRULE-->
 		<Row Tag="LOC_LOADING_INFO_LEADER_ZELDA" Language="en_US">
 			<Text>Zelda, Princess of Hyrule, is the name for several female Hylians, usually members of the Royal Family of Hyrule, who often play an integral role in the series. </Text>
@@ -279,6 +286,216 @@
 		<Row Tag="LOC_RELIGION_JABU_JABU" Language="en_US" Text="Lord Jabu-Jabu"/>
 		<Row Tag="LOC_RELIGION_FIRE_MOUNTAIN_SPIRITS" Language="en_US" Text="Fire Mountain Spirits"/>
 		<Row Tag="LOC_RELIGION_GODDESS_THE_SAND" Language="en_US" Text="Goddess of the Sand"/>
-
+		<!-- Citystates-->
+		<Row Tag="LOC_MINOR_CIV_KOKIRI_TRAIT_NAME" Language="en_US" Text="Kokiri"/>
+		<Row Tag="LOC_MINOR_CIV_KOKIRI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Holy Sites gains +1 [ICON_Faith] Faith for Forest adjacency.</Text>
+		</Row>
+		<Row Tag="LOC_KOKIRI_NAME" Language="en_US" Text="Kokiri"/>
+		<Row Tag="LOC_KOKIRI_DESCRIPTION" Language="en_US" Text="City-state of Kokiri"/>
+		<Row Tag="LOC_KOKIRI_ADJECTIVE" Language="en_US" Text="Kokiri"/>
+		<Row Tag="LOC_CITY_NAME_KOKIRI" Language="en_US" Text="Kokiri"/>
+		<Row Tag="LOC_MINOR_CIV_LYNNA_TRAIT_NAME" Language="en_US" Text="Lynna City"/>
+		<Row Tag="LOC_MINOR_CIV_LYNNA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your [ICON_TradeRoute] Trade Routes to any city-state provide +2 [ICON_Culture] Culture and +1 [ICON_Gold] Gold for every specialty district in the origin city.</Text>
+		</Row>
+		<Row Tag="LOC_LYNNA_NAME" Language="en_US" Text="Lynna City"/>
+		<Row Tag="LOC_LYNNA_DESCRIPTION" Language="en_US" Text="Lynna City-state"/>
+		<Row Tag="LOC_LYNNA_ADJECTIVE" Language="en_US" Text="Lynna"/>
+		<Row Tag="LOC_CITY_NAME_LYNNA" Language="en_US" Text="Lynna City"/>
+		<Row Tag="LOC_MINOR_CIV_SYMMETRY_CITY_TRAIT_NAME" Language="en_US" Text="Symmetry City"/>
+		<Row Tag="LOC_MINOR_CIV_SYMMETRY_CITY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +2 [ICON_Production] Production for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_SYMMETRY_CITY_NAME" Language="en_US" Text="Symmetry City"/>
+		<Row Tag="LOC_SYMMETRY_CITY_DESCRIPTION" Language="en_US" Text="Symmetry City-state"/>
+		<Row Tag="LOC_SYMMETRY_CITY_ADJECTIVE" Language="en_US" Text="Symmetry City"/>
+		<Row Tag="LOC_CITY_NAME_SYMMETRY_CITY" Language="en_US" Text="Symmetry City"/>
+		<Row Tag="LOC_MINOR_CIV_RITO_TRAIT_NAME" Language="en_US" Text="Rito"/>
+		<Row Tag="LOC_MINOR_CIV_RITO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Theater gains 1 [ICON_Gold] Gold if they are next to a Mountain.</Text>
+		</Row>
+		<Row Tag="LOC_RITO_NAME" Language="en_US" Text="Rito"/>
+		<Row Tag="LOC_RITO_DESCRIPTION" Language="en_US" Text="Rito Tribe"/>
+		<Row Tag="LOC_RITO_ADJECTIVE" Language="en_US" Text="Rito"/>
+		<Row Tag="LOC_CITY_NAME_RITO" Language="en_US" Text="Rito"/>
+		<Row Tag="LOC_MINOR_CIV_ARCADIA_TRAIT_NAME" Language="en_US" Text="Arcadia"/>
+		<Row Tag="LOC_MINOR_CIV_ARCADIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_ARCADIA_NAME" Language="en_US" Text="Arcadia"/>
+		<Row Tag="LOC_ARCADIA_DESCRIPTION" Language="en_US" Text="City-state of Arcadia"/>
+		<Row Tag="LOC_ARCADIA_ADJECTIVE" Language="en_US" Text="Arcadia"/>
+		<Row Tag="LOC_CITY_NAME_ARCADIA" Language="en_US" Text="Arcadia"/>
+		<Row Tag="LOC_MINOR_CIV_CALATIA_TRAIT_NAME" Language="en_US" Text="Calatia"/>
+		<Row Tag="LOC_MINOR_CIV_CALATIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 [ICON_Culture] Culture.</Text>
+		</Row>
+		<Row Tag="LOC_CALATIA_NAME" Language="en_US" Text="Calatia"/>
+		<Row Tag="LOC_CALATIA_DESCRIPTION" Language="en_US" Text="City-state of Calatia"/>
+		<Row Tag="LOC_CALATIA_ADJECTIVE" Language="en_US" Text="Calatia"/>
+		<Row Tag="LOC_CITY_NAME_CALATIA" Language="en_US" Text="Calatia"/>
+		<Row Tag="LOC_MINOR_CIV_CLOCK_TOWN_TRAIT_NAME" Language="en_US" Text="Clock Town"/>
+		<Row Tag="LOC_MINOR_CIV_CLOCK_TOWN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Regional effects from your Industrial Zone and Entertainment Complex districts reach 3 tiles farther.</Text>
+		</Row>
+		<Row Tag="LOC_CLOCK_TOWN_NAME" Language="en_US" Text="Clock Town"/>
+		<Row Tag="LOC_CLOCK_TOWN_DESCRIPTION" Language="en_US" Text="City-state of Clock Town"/>
+		<Row Tag="LOC_CLOCK_TOWN_ADJECTIVE" Language="en_US" Text="Clock Town"/>
+		<Row Tag="LOC_CITY_NAME_CLOCK_TOWN" Language="en_US" Text="Clock Town"/>
+		<Row Tag="LOC_MINOR_CIV_HORON_TRAIT_NAME" Language="en_US" Text="Horon"/>
+		<Row Tag="LOC_MINOR_CIV_HORON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All districts gain +1 [ICON_Gold] Gold for being adjacent to the Coast.</Text>
+		</Row>
+		<Row Tag="LOC_HORON_NAME" Language="en_US" Text="Horon"/>
+		<Row Tag="LOC_HORON_DESCRIPTION" Language="en_US" Text="City-state of Horon"/>
+		<Row Tag="LOC_HORON_ADJECTIVE" Language="en_US" Text="Horon"/>
+		<Row Tag="LOC_CITY_NAME_HORON" Language="en_US" Text="Horon"/>
+		<Row Tag="LOC_MINOR_CIV_HYTOPIA_TRAIT_NAME" Language="en_US" Text="Hytopia"/>
+		<Row Tag="LOC_MINOR_CIV_HYTOPIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All cities recibe +2 Amentities.</Text>
+		</Row>
+		<Row Tag="LOC_HYTOPIA_NAME" Language="en_US" Text="Hytopia"/>
+		<Row Tag="LOC_HYTOPIA_DESCRIPTION" Language="en_US" Text="City-state of Hytopia"/>
+		<Row Tag="LOC_HYTOPIA_ADJECTIVE" Language="en_US" Text="Hytopia"/>
+		<Row Tag="LOC_CITY_NAME_HYTOPIA" Language="en_US" Text="Hytopia"/>
+		<Row Tag="LOC_MINOR_CIV_SUBROSIA_TRAIT_NAME" Language="en_US" Text="Subrosia"/>
+		<Row Tag="LOC_MINOR_CIV_SUBROSIA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>All Mines gain +1 [ICON_Production] Production.</Text>
+		</Row>
+		<Row Tag="LOC_SUBROSIA_NAME" Language="en_US" Text="Subrosia"/>
+		<Row Tag="LOC_SUBROSIA_DESCRIPTION" Language="en_US" Text="City-state of Subrosia"/>
+		<Row Tag="LOC_SUBROSIA_ADJECTIVE" Language="en_US" Text="Subrosia"/>
+		<Row Tag="LOC_CITY_NAME_SUBROSIA" Language="en_US" Text="Subrosia"/>
+		<Row Tag="LOC_MINOR_CIV_YIGA_CLAN_TRAIT_NAME" Language="en_US" Text="Yiga Clan"/>
+		<Row Tag="LOC_MINOR_CIV_YIGA_CLAN_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your units receive double experience from battles they initiate.</Text>
+		</Row>
+		<Row Tag="LOC_YIGA_CLAN_NAME" Language="en_US" Text="Yiga Clan"/>
+		<Row Tag="LOC_YIGA_CLAN_DESCRIPTION" Language="en_US" Text="Yiga Clan"/>
+		<Row Tag="LOC_YIGA_CLAN_ADJECTIVE" Language="en_US" Text="Yiga Clan"/>
+		<Row Tag="LOC_CITY_NAME_YIGA_CLAN" Language="en_US" Text="Yiga Clan"/>
+		<Row Tag="LOC_MINOR_CIV_SHEIKAH_TRAIT_NAME" Language="en_US" Text="Sheikah"/>
+		<Row Tag="LOC_MINOR_CIV_SHEIKAH_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your districts provide +1 [ICON_GreatPerson] Great Person point of their type ([ICON_GreatWriter] Great Writer, [ICON_GreatArtist] Great Artist, and [ICON_GreatMusician] Great Musician for Theater Square districts).</Text>
+		</Row>
+		<Row Tag="LOC_SHEIKAH_NAME" Language="en_US" Text="Sheikah"/>
+		<Row Tag="LOC_SHEIKAH_DESCRIPTION" Language="en_US" Text="City-state of Sheikah"/>
+		<Row Tag="LOC_SHEIKAH_ADJECTIVE" Language="en_US" Text="Sheikah"/>
+		<Row Tag="LOC_CITY_NAME_SHEIKAH" Language="en_US" Text="Sheikah"/>
+		<Row Tag="LOC_MINOR_CIV_ZUNA_TRAIT_NAME" Language="en_US" Text="Zuna"/>
+		<Row Tag="LOC_MINOR_CIV_ZUNA_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith in Holy Site for adjecency to a Desert.</Text>
+		</Row>
+		<Row Tag="LOC_ZUNA_NAME" Language="en_US" Text="Zuna"/>
+		<Row Tag="LOC_ZUNA_DESCRIPTION" Language="en_US" Text="City-state of Zuna"/>
+		<Row Tag="LOC_ZUNA_ADJECTIVE" Language="en_US" Text="Zuna"/>
+		<Row Tag="LOC_CITY_NAME_ZUNA" Language="en_US" Text="Zuna"/>
+		<Row Tag="LOC_MINOR_CIV_ANOUKI_TRAIT_NAME" Language="en_US" Text="Anouki"/>
+		<Row Tag="LOC_MINOR_CIV_ANOUKI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Faith] Faith in Holy Site for adjecency to a Tundra.</Text>
+		</Row>
+		<Row Tag="LOC_ANOUKI_NAME" Language="en_US" Text="Anouki"/>
+		<Row Tag="LOC_ANOUKI_DESCRIPTION" Language="en_US" Text="City-state of Anouki"/>
+		<Row Tag="LOC_ANOUKI_ADJECTIVE" Language="en_US" Text="Anouki"/>
+		<Row Tag="LOC_CITY_NAME_ANOUKI" Language="en_US" Text="Anouki"/>
+		<Row Tag="LOC_MINOR_CIV_COBBLE_KINGDOM_TRAIT_NAME" Language="en_US" Text="Cobble Kingdom"/>
+		<Row Tag="LOC_MINOR_CIV_COBBLE_KINGDOM_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities get +15% [ICON_Production] Production towards wonders.</Text>
+		</Row>
+		<Row Tag="LOC_COBBLE_KINGDOM_NAME" Language="en_US" Text="Cobble Kingdom"/>
+		<Row Tag="LOC_COBBLE_KINGDOM_DESCRIPTION" Language="en_US" Text="Cobble Kingdom"/>
+		<Row Tag="LOC_COBBLE_KINGDOM_ADJECTIVE" Language="en_US" Text="Cobble"/>
+		<Row Tag="LOC_CITY_NAME_COBBLE_KINGDOM" Language="en_US" Text="Cobble Kingdom"/>
+		<Row Tag="LOC_MINOR_CIV_TOKAY_TRAIT_NAME" Language="en_US" Text="Tokay"/>
+		<Row Tag="LOC_MINOR_CIV_TOKAY_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your cities have full [ICON_Housing] Housing from water, as if they were all next to a River.</Text>
+		</Row>
+		<Row Tag="LOC_TOKAY_NAME" Language="en_US" Text="Tokay"/>
+		<Row Tag="LOC_TOKAY_DESCRIPTION" Language="en_US" Text="City-state of Tokay"/>
+		<Row Tag="LOC_TOKAY_ADJECTIVE" Language="en_US" Text="Tokay"/>
+		<Row Tag="LOC_CITY_NAME_TOKAY" Language="en_US" Text="Tokay"/>
+		<Row Tag="LOC_MINOR_CIV_RUPEELAND_TRAIT_NAME" Language="en_US" Text="Rupeeland"/>
+		<Row Tag="LOC_MINOR_CIV_RUPEELAND_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Other civilizations' [ICON_TRADEROUTE] Trade Routes to you provide +2 [ICON_Gold] Gold.</Text>
+		</Row>
+		<Row Tag="LOC_RUPEELAND_NAME" Language="en_US" Text="Rupeeland"/>
+		<Row Tag="LOC_RUPEELAND_DESCRIPTION" Language="en_US" Text="City-state of Rupeeland"/>
+		<Row Tag="LOC_RUPEELAND_ADJECTIVE" Language="en_US" Text="Rupeeland"/>
+		<Row Tag="LOC_CITY_NAME_RUPEELAND" Language="en_US" Text="Rupeeland"/>
+		<Row Tag="LOC_MINOR_CIV_KORIDAI_TRAIT_NAME" Language="en_US" Text="Koridai"/>
+		<Row Tag="LOC_MINOR_CIV_KORIDAI_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>City Center buildings and Encampment district buildings can be bought with [ICON_Faith] Faith. Cost of purchasing Ancient, Medieval, and Renaissance Walls is reduced, but they can only be bought with [ICON_Faith] Faith.</Text>
+		</Row>
+		<Row Tag="LOC_KORIDAI_NAME" Language="en_US" Text="Koridai"/>
+		<Row Tag="LOC_KORIDAI_DESCRIPTION" Language="en_US" Text="City-state of Koridai"/>
+		<Row Tag="LOC_KORIDAI_ADJECTIVE" Language="en_US" Text="Koridai"/>
+		<Row Tag="LOC_CITY_NAME_KORIDAI" Language="en_US" Text="Koridai"/>
+		<Row Tag="LOC_MINOR_CIV_GAMELON_TRAIT_NAME" Language="en_US" Text="Gamelon"/>
+		<Row Tag="LOC_MINOR_CIV_GAMELON_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Your Encampment districts provide +1 [ICON_TradeRoute] Trade Route capacity each.</Text>
+		</Row>
+		<Row Tag="LOC_GAMELON_NAME" Language="en_US" Text="Gamelon"/>
+		<Row Tag="LOC_GAMELON_DESCRIPTION" Language="en_US" Text="City-state of Gamelon"/>
+		<Row Tag="LOC_GAMELON_ADJECTIVE" Language="en_US" Text="Gamelon"/>
+		<Row Tag="LOC_CITY_NAME_GAMELON" Language="en_US" Text="Gamelon"/>
+		<Row Tag="LOC_MINOR_CIV_GARO_TRAIT_NAME" Language="en_US" Text="Garo"/>
+		<Row Tag="LOC_MINOR_CIV_GARO_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Faith] Faith equal to 25% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_GARO_NAME" Language="en_US" Text="Garo"/>
+		<Row Tag="LOC_GARO_DESCRIPTION" Language="en_US" Text="City-state of Garo"/>
+		<Row Tag="LOC_GARO_ADJECTIVE" Language="en_US" Text="Garo"/>
+		<Row Tag="LOC_CITY_NAME_GARO" Language="en_US" Text="Garo"/>
+		<!--Continents-->
+		<Row Tag="CONTINENT_HYRULE" Language="en_US" Text="Hyrule"/>
+		<Row Tag="CONTINENT_HOLODRUM" Language="en_US" Text="Holodrum"/>
+		<Row Tag="CONTINENT_TERMINA" Language="en_US" Text="Termina"/>
+		<Row Tag="CONTINENT_LABRYNNA" Language="en_US" Text="Labrynna"/>
+		<Row Tag="CONTINENT_WORLD_OCEAN_KING" Language="en_US" Text="World of the Ocean King"/>
+		<Row Tag="CONTINENT_GERUDO" Language="en_US" Text="Gerudo"/>
+		<!-- NATURAL WONDERS-->
+		<Row Tag="LOC_FEATURE_ELDIN_VOLCANO_NAME" Language="en_US" Text="Eldin Volcano" />
+		<Row Tag="LOC_FEATURE_ELDIN_VOLCANO_DESCRIPTION" Language="en_US" >
+			<Text>One tile impassable natural wonder. It appears as a Mountain and provides +4 [ICON_Production] Production and +1 [ICON_Gold] Gold. +1 [ICON_Food] Food to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_ELDIN_VOLCANO_QUOTE" Language="en_US">
+			<Text>"Take a good look at that mountain. That is Death Mountain, home of the Gorons."[NEWLINE]– Impa</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_SNOWHEAD_NAME" Language="en_US" Text="Snowhead" />
+		<Row Tag="LOC_FEATURE_SNOWHEAD_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +3 [ICON_Faith] Faith and +1 [ICON_Culture] Culture. +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_SNOWHEAD_QUOTE" Language="en_US">
+			<Text>“As you can see, Don Gero, the long winter has ended and spring has finally come to these mountains.”[NEWLINE]– Frog Choir member</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_HEBRA_PEAK_NAME" Language="en_US" Text="Hebra Peaks" />
+		<Row Tag="LOC_FEATURE_HEBRA_PEAK_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +3 [ICON_Culture] Culture and +1 [ICON_Faith] Faith. +1 [ICON_Culture] Culture to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_HEBRA_PEAK_QUOTE" Language="en_US">
+			<Text>“Whether you're come to Hebra Mountain to shield surf the slopes, hunt treasure, or just to take a walk, you must remember... This. Mountain. Will. Kill. You! The accident rate is too high to measure! And before anything else, you must dress appropriately for the weather here, not like you're heading to Hyrule Field!”[NEWLINE]– Selmie's Notes</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_LANAYRU_NAME" Language="en_US" Text="Mount Lanayru" />
+		<Row Tag="LOC_FEATURE_MOUNT_LANAYRU_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Faith] Faith and +2 [ICON_Science] Science. +1 [ICON_Faith] Faith to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_LANAYRU_QUOTE" Language="en_US">
+			<Text>“A spirit of ice taken the form of this giant dragon. Making its home in the Lanayru region, it's said to have served the Spring of Wisdom since ancient times. An old saying goes, "The dragon ascends to the heavens as the sun begins to set," but nobody has seen this in the current age. The ice that coats it body makes it dangerous to get near, but Naydra bears no ill will toward people.”[NEWLINE]– Hyrule Compendium</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_TALUS_PEAKS_NAME" Language="en_US" Text="Talus Peaks" />
+		<Row Tag="LOC_FEATURE_TALUS_PEAKS_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Production] Production and +2 [ICON_Gold] Gold. +1 [ICON_Production] Production to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_TALUS_PEAKS_QUOTE" Language="en_US">
+			<Text>The Talus Peaks are the largest geographical area in all of Labrynna. The Talus Lake, found at the very top of the mountains, is the area's only notable landmark. Water can be seen cascading from the Talus Lake, forming pools at various points further down the mountain, finally flowing into one larger pool near the base of the peaks.</Text>
+		</Row>
+		<Row Tag="LOC_FEATURE_MOUNT_CUCCO_NAME" Language="en_US" Text="Mount Cucco" />
+		<Row Tag="LOC_FEATURE_MOUNT_CUCCO_DESCRIPTION" Language="en_US" >
+			<Text>Three tile impassable natural wonder. It appears as a Mountain and provides +2 [ICON_Gold] Gold and +2 [ICON_Culture] Culture. +1 [ICON_Food] Food to adjacent tiles.</Text>
+		</Row>
+		<Row  Tag="LOC_FEATURE_MOUNT_CUCCO_QUOTE" Language="en_US">
+			<Text>“My dad, Talon, went to climb Mt. Cucco, so I have to care for our hens. But there's so much I don't know...”[NEWLINE]– Malon</Text>
+		</Row>
 	</LocalizedText>
 </GameData>
