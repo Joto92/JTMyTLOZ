@@ -47,10 +47,10 @@
 		<Row Tag="LOC_LEADER_GANON_NAME" Language="en_US" Text="Ganon"/>
 		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_NAME" Language="en_US" Text="King of Darkness"/>
 		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_DESCRIPTION" Language="en_US">
-			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Gains an extra Morannon Orc when trained one. Accumulate 60% less war weariness than usual. </Text>
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Accumulate 60% less war weariness than usual. Desert terrain gives food as Grasslands to other Civilizations.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_KING_OF_DARKNESS_EXPANSION2_DESCRIPTION" Language="en_US">
-			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Gains an extra Morannon Orc when trained one. Accumulate 60% less war weariness than usual. Units do not receive damage from Dust Storms.</Text>
+			<Text>All units receive +5 [ICON_Strength] Combat Strength when attacking wounded units. Unit maintenance cost reduced by 2 Gold per turn, per unit. Accumulate 60% less war weariness than usual. Desert terrain gives food as Grasslands to other Civilizations. Units do not receive damage from Dust Storms.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_DARK_BEAST_NAME" Language="en_US" Text="Dark Beast"/>
 		<Row Tag="LOC_TRAIT_DARK_BEAST_DESCRIPTION" Language="en_US">
@@ -76,10 +76,10 @@
 		<Row Tag="LOC_LEADER_DARUK_NAME" Language="en_US" Text="Daruk"/>
 		<Row Tag="LOC_TRAIT_ROCK_EATERS_NAME" Language="en_US" Text="Rock Eaters"/>
 		<Row Tag="LOC_TRAIT_ROCK_EATERS_DESCRIPTION" Language="en_US">
-			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines gives +1 [ICON_Food] Food.</Text>
+			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines and Desert Hills provide +1 [ICON_Food] Food.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_ROCK_EATERS_EXPANSION2_DESCRIPTION" Language="en_US">
-			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines gives +1 [ICON_Food] Food. Units do not receive damage from Dust Storms.</Text>
+			<Text>Builders receive an additional charge. Industrials Zones gains 1 [ICON_Production] Production and the Commercial Hubs gains 1 [ICON_Gold] Gold if they are next to a Mountain. All mines and Desert Hills provide +1 [ICON_Food] Food. Units do not receive damage from Dust Storms.</Text>
 		</Row>
 		<Row Tag="LOC_TRAIT_GORON_CHAMPION_NAME" Language="en_US" Text="Goron Champion"/>
 		<Row Tag="LOC_TRAIT_GORON_CHAMPION_DESCRIPTION" Language="en_US">
@@ -230,7 +230,7 @@
 		<Row Tag="LOC_UNIT_VEILED_GUARDS_DESCRIPTION" Language="en_US">
 			<Text>Gerudo unique anti-cavalry unit. +5 [ICON_Strength] Combat Strength when in your territory or adjacent to your territory.</Text>
 		</Row>
-		<Row Tag="LOC_UNIT_YIGA_WARRIORS_NAME" Language="en_US" Text="Garo Robe"/>
+		<Row Tag="LOC_UNIT_YIGA_WARRIORS_NAME" Language="en_US" Text="Yiga Warriors"/>
 		<Row Tag="LOC_UNIT_YIGA_WARRIORS_DESCRIPTION" Language="en_US">
 			<Text>Evil unique recon unit replace the Ranger. Can move after attacking if [ICON_Movement] Movement points remain.</Text>
 		</Row>

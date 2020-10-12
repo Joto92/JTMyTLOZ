@@ -74,16 +74,16 @@
 			<m_ObjectName text="LEADER_RHOAM_BOSPHORAMUS_NEUTRAL"/>
 		</Element>
 		<Element>
-			<m_EntryID text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
-			<m_ObjectName text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
-		</Element>
-		<Element>
 			<m_EntryID text="LEADER_URBOSA_NEUTRAL"/>
 			<m_ObjectName text="LEADER_URBOSA_NEUTRAL"/>
 		</Element>
 		<Element>
 			<m_EntryID text="LEADER_URBOSA_BACKGROUND"/>
 			<m_ObjectName text="LEADER_URBOSA_BACKGROUND"/>
+		</Element>
+		<Element>
+			<m_EntryID text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
+			<m_ObjectName text="LEADER_RHOAM_BOSPHORAMUS_BACKGROUND"/>
 		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>

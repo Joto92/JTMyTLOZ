@@ -51,8 +51,7 @@
         <UpdateArt id="Art">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
-      </InGameActions>]]>
-    </InGameActionData>
+      </InGameActions>]]></InGameActionData>
     <FrontEndActionData><![CDATA[
       <FrontEndActions>
         <UpdateDatabase id="Config">
@@ -70,8 +69,10 @@
         <UpdateArt id="ConfigArt">
           <File>(Mod Art Dependency File)</File>
         </UpdateArt>
-      </FrontEndActions>]]>
-    </FrontEndActionData>
+        <AddMap id="AddMapTLOZ"><Properties><Group>StandardMaps</Group><Name>The Legend of Zelda Map Vanilla</Name><Description>The Legend of Zelda Map Vanilla</Description></Properties><File>Maps/ZELDA_PLAYERS.Civ6Map</File></AddMap>
+          <AddMap id="AddMapTLOZRF"><Properties><Group>Maps:Expansion1Maps</Group><Name>>The Legend of Zelda Map  RF</Name><Description>>The Legend of Zelda Map RF</Description></Properties><File>Maps/ZELDA_PLAYERS.Civ6Map</File></AddMap>
+          <AddMap id="AddMapTLOZGathering"><Properties><Group>Maps:Expansion2Maps</Group><Name>>The Legend of Zelda Map  Gathering</Name><Description>>The Legend of Zelda Map  Gathering Storm</Description></Properties><File>Maps/ZELDA_PLAYERS.Civ6Map</File></AddMap>
+      </FrontEndActions>]]></FrontEndActionData>
     <ActionCriteriaData><![CDATA[
       <ActionCriteria>
         <Criteria id="Expansion2">
@@ -89,6 +90,12 @@
     <OutputPath>.</OutputPath>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="Maps\ZELDA_PLAYERS.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
+    <Content Include="Maps\ZELDA_TEMPLATE.Civ6Map">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="MyTLOZ_UnitAbilities.xml">
       <SubType>Content</SubType>
     </Content>
@@ -99,6 +106,7 @@
       <SubType>Content</SubType>
     </Content>
     <Folder Include="Artdefs\" />
+    <Folder Include="Maps" />
     <Folder Include="Textures\" />
     <Folder Include="XLPs\" />
     <Content Include="MyTLOZ_Citystates.xml">

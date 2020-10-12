@@ -55,7 +55,15 @@
 		<Row Name="ICON_ATLAS_MYTLOZ_RELIGIONS" IconSize="22" IconsPerRow="7" IconsPerColumn="3" Filename="MyTLOZReligionIcon_22"/>
 		<Row Name="ICON_ATLAS_MYTLOZ_RELIGIONS" IconSize="50" IconsPerRow="7" IconsPerColumn="3" Filename="MyTLOZReligionIcon_50"/>
 		<Row Name="ICON_ATLAS_MYTLOZ_RELIGIONS" IconSize="100" IconsPerRow="7" IconsPerColumn="3" Filename="MyTLOZReligionIcon_100"/>
-		<Row Name="ICON_ATLAS_MYTLOZ_RELIGIONS" IconSize="270" IconsPerRow="7" IconsPerColumn="3" Filename="MyTLOZReligionIcon_270"/>
+
+		<Row Name="ICON_ATLAS_RELIGIONS_GOLDEN_GODDESSES" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_Goddesses"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_GREAT_DEKU_TREE" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_DekuTree"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_MAJORA_WORKSHIP" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_Majora"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_DEMISE" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_Demise"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_JABU_JABU" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_JabuJabu"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_FIRE_MOUNTAIN_SPIRITS" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_FireMountain"/>
+		<Row Name="ICON_ATLAS_RELIGIONS_GODDESS_THE_SAND" IconSize="270" IconsPerRow="1" IconsPerColumn="1" Filename="Religion_GoddessSand"/>
+
 	</IconTextureAtlases>
 
 	<IconDefinitions>
@@ -86,7 +94,9 @@
 		<Row Name="ICON_CIVILIZATION_KORIDAI"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="24"/>
 		<Row Name="ICON_CIVILIZATION_GAMELON"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="24"/>
 		<Row Name="ICON_CIVILIZATION_GARO"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="3"/>
-
+		<Row Name="ICON_CIVILIZATION_TERMINAN_GORONS"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="5"/>
+		<Row Name="ICON_CIVILIZATION_TERMINAN_ZORAS"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="4"/>
+		<Row Name="ICON_CIVILIZATION_GERUDO_PIRATES"  Atlas="ICON_ATLAS_MYTLOZ_CIVILIZATIONS" Index="6"/>
 
 		<Row Name="ICON_LEADER_ZELDA" Atlas="ICON_ATLAS_MYTLOZ_LEADERS" Index="0"/>
 		<Row Name="ICON_LEADER_DEKU_KING" Atlas="ICON_ATLAS_MYTLOZ_LEADERS" Index="1"/>
@@ -211,6 +221,14 @@
 		<Row Name="ICON_RELIGION_JABU_JABU" Atlas="ICON_ATLAS_MYTLOZ_RELIGIONS" Index="4"/>
 		<Row Name="ICON_RELIGION_FIRE_MOUNTAIN_SPIRITS" Atlas="ICON_ATLAS_MYTLOZ_RELIGIONS" Index="5"/>
 		<Row Name="ICON_RELIGION_GODDESS_THE_SAND" Atlas="ICON_ATLAS_MYTLOZ_RELIGIONS" Index="6"/>
+
+		<Row Name="ICON_RELIGION_GOLDEN_GODDESSES" Atlas="ICON_ATLAS_RELIGIONS_GOLDEN_GODDESSES" Index="0"/>
+		<Row Name="ICON_RELIGION_GREAT_DEKU_TREE" Atlas="ICON_ATLAS_RELIGIONS_GREAT_DEKU_TREE" Index="0"/>
+		<Row Name="ICON_RELIGION_MAJORA_WORKSHIP" Atlas="ICON_ATLAS_RELIGIONS_MAJORA_WORKSHIP" Index="0"/>
+		<Row Name="ICON_RELIGION_DEMISE" Atlas="ICON_ATLAS_RELIGIONS_DEMISE" Index="0"/>
+		<Row Name="ICON_RELIGION_JABU_JABU" Atlas="ICON_ATLAS_RELIGIONS_JABU_JABU" Index="0"/>
+		<Row Name="ICON_RELIGION_FIRE_MOUNTAIN_SPIRITS" Atlas="ICON_ATLAS_RELIGIONS_FIRE_MOUNTAIN_SPIRITS" Index="0"/>
+		<Row Name="ICON_RELIGION_GODDESS_THE_SAND" Atlas="ICON_ATLAS_RELIGIONS_GODDESS_THE_SAND" Index="0"/>
 
 		<Row Name="ICON_FEATURE_ELDIN_VOLCANO"         Atlas="ICON_ATLAS_FEATURES" Index="12"/>
 		<Row Name="ICON_FEATURE_SNOWHEAD"	Atlas="ICON_ATLAS_FEATURES" Index="10"/>

@@ -447,13 +447,36 @@
 		<Row Tag="LOC_GARO_DESCRIPTION" Language="en_US" Text="City-state of Garo"/>
 		<Row Tag="LOC_GARO_ADJECTIVE" Language="en_US" Text="Garo"/>
 		<Row Tag="LOC_CITY_NAME_GARO" Language="en_US" Text="Garo"/>
+		<Row Tag="LOC_MINOR_CIV_TERMINAN_GORONS_TRAIT_NAME" Language="en_US" Text="Terminan Gorons"/>
+		<Row Tag="LOC_MINOR_CIV_TERMINAN_GORONS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Industrial Zone gains +1 [ICON_Production] Production for adjacency to Tundra</Text>
+		</Row>
+		<Row Tag="LOC_TERMINAN_GORONS_NAME" Language="en_US" Text="Terminan Gorons"/>
+		<Row Tag="LOC_TERMINAN_GORONS_DESCRIPTION" Language="en_US" Text="Tribe of Terminan Gorons"/>
+		<Row Tag="LOC_TERMINAN_GORONS_ADJECTIVE" Language="en_US" Text="Terminan Gorons"/>
+		<Row Tag="LOC_CITY_NAME_TERMINAN_GORONS" Language="en_US" Text="Terminan Gorons"/>
+		<Row Tag="LOC_MINOR_CIV_TERMINAN_ZORAS_TRAIT_NAME" Language="en_US" Text="Terminan Zoras"/>
+		<Row Tag="LOC_MINOR_CIV_TERMINAN_ZORAS_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>+1 [ICON_Culture] Culture in Theater for adjecency to a River.</Text>
+		</Row>
+		<Row Tag="LOC_TERMINAN_ZORAS_NAME" Language="en_US" Text="Terminan Zoras"/>
+		<Row Tag="LOC_TERMINAN_ZORAS_DESCRIPTION" Language="en_US" Text="Tribe of Terminan Zoras"/>
+		<Row Tag="LOC_TERMINAN_ZORAS_ADJECTIVE" Language="en_US" Text="Terminan Zoras"/>
+		<Row Tag="LOC_CITY_NAME_TERMINAN_ZORAS" Language="en_US" Text="Terminan Zoras"/>
+		<Row Tag="LOC_MINOR_CIV_GERUDO_PIRATES_TRAIT_NAME" Language="en_US" Text="Gerudo Pirates"/>
+		<Row Tag="LOC_MINOR_CIV_GERUDO_PIRATES_TRAIT_DESCRIPTION" Language="en_US">
+			<Text>Combat victories provide [ICON_Gold] Gold equal to 25% of the [ICON_Strength] Combat Strength of the defeated unit.</Text>
+		</Row>
+		<Row Tag="LOC_GERUDO_PIRATES_NAME" Language="en_US" Text="Gerudo Pirates"/>
+		<Row Tag="LOC_GERUDO_PIRATES_DESCRIPTION" Language="en_US" Text="Gerudo Pirates"/>
+		<Row Tag="LOC_GERUDO_PIRATES_ADJECTIVE" Language="en_US" Text="Gerudo Pirates"/>
 		<!--Continents-->
-		<Row Tag="CONTINENT_HYRULE" Language="en_US" Text="Hyrule"/>
-		<Row Tag="CONTINENT_HOLODRUM" Language="en_US" Text="Holodrum"/>
-		<Row Tag="CONTINENT_TERMINA" Language="en_US" Text="Termina"/>
-		<Row Tag="CONTINENT_LABRYNNA" Language="en_US" Text="Labrynna"/>
-		<Row Tag="CONTINENT_WORLD_OCEAN_KING" Language="en_US" Text="World of the Ocean King"/>
-		<Row Tag="CONTINENT_GERUDO" Language="en_US" Text="Gerudo"/>
+		<Row Tag="LOC_CONTINENT_HYRULE_DESCRIPTION" Language="en_US" Text="Hyrule"/>
+		<Row Tag="LOC_CONTINENT_HOLODRUM_DESCRIPTION" Language="en_US" Text="Holodrum"/>
+		<Row Tag="LOC_CONTINENT_TERMINA_DESCRIPTION" Language="en_US" Text="Termina"/>
+		<Row Tag="LOC_CONTINENT_LABRYNNA_DESCRIPTION" Language="en_US" Text="Labrynna"/>
+		<Row Tag="LOC_CONTINENT_WORLD_OCEAN_KING_DESCRIPTION" Language="en_US" Text="World of the Ocean King"/>
+		<Row Tag="LOC_CONTINENT_GERUDO_DESCRIPTION" Language="en_US" Text="Gerudo"/>
 		<!-- NATURAL WONDERS-->
 		<Row Tag="LOC_FEATURE_ELDIN_VOLCANO_NAME" Language="en_US" Text="Eldin Volcano" />
 		<Row Tag="LOC_FEATURE_ELDIN_VOLCANO_DESCRIPTION" Language="en_US" >
@@ -497,5 +520,122 @@
 		<Row  Tag="LOC_FEATURE_MOUNT_CUCCO_QUOTE" Language="en_US">
 			<Text>“My dad, Talon, went to climb Mt. Cucco, so I have to care for our hens. But there's so much I don't know...”[NEWLINE]– Malon</Text>
 		</Row>
+		<!-- Rivers-->
+		<Row Tag="LOC_NAMED_RIVER_ZORA_RIVER_NAME" Language="en_US" Text="Zora River" />
+		<Row Tag="LOC_NAMED_RIVER_RUTALA_RIVER_NAME" Language="en_US" Text="Rutala River" />
+		<Row Tag="LOC_NAMED_RIVER_IKANA_RIVER_NAME" Language="en_US" Text="Ikana River" />
+		<Row Tag="LOC_NAMED_RIVER_IMPAS_RIVER_NAME" Language="en_US" Text="Impas River" />
+		<Row Tag="LOC_NAMED_RIVER_HYLIA_RIVER_NAME" Language="en_US" Text="Hylia River" />
+		<Row Tag="LOC_NAMED_RIVER_REGENCIA_RIVER_NAME" Language="en_US" Text="Regencia River" />
+		<Row Tag="LOC_NAMED_RIVER_SQUABBLE_RIVER_NAME" Language="en_US" Text="Squabble River" />
+		<Row Tag="LOC_NAMED_RIVER_HEBRA_RIVER_NAME" Language="en_US" Text="Hebra River" />
+		<Row Tag="LOC_NAMED_RIVER_TAMIO_RIVER_NAME" Language="en_US" Text="Tamio River" />
+		<Row Tag="LOC_NAMED_RIVER_FLORIA_RIVER_NAME" Language="en_US" Text="Floria River" />
+		<Row Tag="LOC_NAMED_RIVER_FIR_RIVER_NAME" Language="en_US" Text="Fir River" />
+		<Row Tag="LOC_NAMED_RIVER_DRACOZU_RIVER_NAME" Language="en_US" Text="Dracozu River" />
+		<Row Tag="LOC_NAMED_RIVER_MENOAT_RIVER_NAME" Language="en_US" Text="Menoat River" />
+		<Row Tag="LOC_NAMED_RIVER_GOLOW_RIVER_NAME" Language="en_US" Text="Golow River" />
+		<Row Tag="LOC_NAMED_RIVER_GORONBI_RIVER_NAME" Language="en_US" Text="Goronbi River" />
+		<Row Tag="LOC_NAMED_RIVER_DEKU_RIVER_NAME" Language="en_US" Text="Deku River" />
+		<Row Tag="LOC_NAMED_RIVER_WATERFALL_RAPIDS_NAME" Language="en_US" Text="Waterfall Rapids" />
+		<Row Tag="LOC_NAMED_RIVER_RIVER_OFTHE_DEAD_NAME" Language="en_US" Text="River of the Dead" />
+		<Row Tag="LOC_NAMED_RIVER_NATZU_RIVER_NAME" Language="en_US" Text="Natzu River" />
+		<!--Lakes-->
+		<Row Tag="LOC_NAMED_LAKE_LAKE_HYLIA_NAME" Language="en_US" Text="Lake Hylia" />
+		<Row Tag="LOC_NAMED_LAKE_AQUAME_LAKE_NAME" Language="en_US" Text="Aquame Lake" />
+		<Row Tag="LOC_NAMED_LAKE_DEYA_LAKE_NAME" Language="en_US" Text="Deya Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_AKKALA_NAME" Language="en_US" Text="Lake Akkala" />
+		<Row Tag="LOC_NAMED_LAKE_BLODDLEAF_LAKE_NAME" Language="en_US" Text="Bloodleaf Lake" />
+		<Row Tag="LOC_NAMED_LAKE_BATREA_LAKE_NAME" Language="en_US" Text="Batrea Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_JARRAH_NAME" Language="en_US" Text="Lake Jarrah" />
+		<Row Tag="LOC_NAMED_LAKE_CALORA_LAKE_NAME" Language="en_US" Text="Calora Lake" />
+		<Row Tag="LOC_NAMED_LAKE_CORA_LAKE_NAME" Language="en_US" Text="Cora Lake" />
+		<Row Tag="LOC_NAMED_LAKE_CORTA_LAKE_NAME" Language="en_US" Text="Corta Lake" />
+		<Row Tag="LOC_NAMED_LAKE_DRACOZU_LAKE_NAME" Language="en_US" Text="Dracozu Lake" />
+		<Row Tag="LOC_NAMED_LAKE_HARAN_LAKE_NAME" Language="en_US" Text="Haran Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KILSIE_NAME" Language="en_US" Text="Lake Kilsie" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_KOMOLO_NAME" Language="en_US" Text="Lake Kolomo" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_MEKAR_NAME" Language="en_US" Text="Lake Mekar" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SARIA_NAME" Language="en_US" Text="Lake Saria" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SIELA_NAME" Language="en_US" Text="Lake Siela" />
+		<Row Tag="LOC_NAMED_LAKE_NABI_LAKE_NAME" Language="en_US" Text="Nabi Lake" />
+		<Row Tag="LOC_NAMED_LAKE_NIRVATA_LAKE_NAME" Language="en_US" Text="Nirvata Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_SUMAC_NAME" Language="en_US" Text="Lake Sumac" />
+		<Row Tag="LOC_NAMED_LAKE_OAKLES_NAVEL_NAME" Language="en_US" Text="Oakle's Navel" />
+		<Row Tag="LOC_NAMED_LAKE_STROCK_LAKE_NAME" Language="en_US" Text="Strock Lake" />
+		<Row Tag="LOC_NAMED_LAKE_TELTA_LAKE_NAME" Language="en_US" Text="Telta Lake" />
+		<Row Tag="LOC_NAMED_LAKE_PURIFIER_LAKE_NAME" Language="en_US" Text="Purifier Lake" />
+		<Row Tag="LOC_NAMED_LAKE_RASSLA_LAKE_NAME" Language="en_US" Text="Rassla Lake" />
+		<Row Tag="LOC_NAMED_LAKE_YAMBI_LAKE_NAME" Language="en_US" Text="Yambi Lake" />
+		<Row Tag="LOC_NAMED_LAKE_RODAI_LAKE_NAME" Language="en_US" Text="Rodai Lake" />
+		<Row Tag="LOC_NAMED_LAKE_RUTILE_LAKE_NAME" Language="en_US" Text="Rutile Lake" />
+		<Row Tag="LOC_NAMED_LAKE_RUTO_LAKE_NAME" Language="en_US" Text="Ruto Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_TOTORI_NAME" Language="en_US" Text="Lake Totori" />
+		<Row Tag="LOC_NAMED_LAKE_LANTERN_LAKE_NAME" Language="en_US" Text="Lantern Lake" />
+		<Row Tag="LOC_NAMED_LAKE_HARKER_LAKE_NAME" Language="en_US" Text="Harker Lake" />
+		<Row Tag="LOC_NAMED_LAKE_HEBRA_PLUNGE_NAME" Language="en_US" Text="Hebra Plunge" />
+		<Row Tag="LOC_NAMED_LAKE_HERIN_LAKE_NAME" Language="en_US" Text="Herin Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_FLORIA_NAME" Language="en_US" Text="Lake Floria" />
+		<Row Tag="LOC_NAMED_LAKE_GORKO_LAKE_NAME" Language="en_US" Text="Gorko Lake" />
+		<Row Tag="LOC_NAMED_LAKE_GORONBI_LAKE_NAME" Language="en_US" Text="Goronbi Lake" />
+		<Row Tag="LOC_NAMED_LAKE_DARUNIA_LAKE_NAME" Language="en_US" Text="Darunia Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_DARMAN_NAME" Language="en_US" Text="Lake Darman" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_FERONA_NAME" Language="en_US" Text="Lake Ferona" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_INTERNOCH_NAME" Language="en_US" Text="Lake Intenoch" />
+		<Row Tag="LOC_NAMED_LAKE_CEPHLA_LAKE_NAME" Language="en_US" Text="Cephla Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ILLUMENI_NAME" Language="en_US" Text="Lake Illumeni" />
+		<Row Tag="LOC_NAMED_LAKE_EYEGLASS_POND_NAME" Language="en_US" Text="Eyeglass Pond" />
+		<Row Tag="LOC_NAMED_LAKE_RESERVOIR_LAKE_NAME" Language="en_US" Text="Reservoir Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LAKE_ILL_OMEN_NAME" Language="en_US" Text="Lake of Ill Omen" />
+		<Row Tag="LOC_NAMED_LAKE_MIKAU_LAKE_NAME" Language="en_US" Text="Mikau Lake" />
+		<Row Tag="LOC_NAMED_LAKE_LULU_LAKE_NAME" Language="en_US" Text="Lulu Lake" />
+		<Row Tag="LOC_NAMED_LAKE_TOTO_LAKE_NAME" Language="en_US" Text="Toto Lake" />
+		<Row Tag="LOC_NAMED_LAKE_TURTLE_LAKE_NAME" Language="en_US" Text="Turtle Lake" />
+		<!-- Seas-->
+		<Row Tag="LOC_NAMED_SEA_AKKALA_SEA_NAME" Language="en_US" Text="Akkala Sea" />
+		<Row Tag="LOC_NAMED_SEA_MALIN_BAY_NAME" Language="en_US" Text="Malin Bay" />
+		<Row Tag="LOC_NAMED_SEA_FARON_SEA_NAME" Language="en_US" Text="Faron Sea" />
+		<Row Tag="LOC_NAMED_SEA_NECLUDA_SEA_NAME" Language="en_US" Text="Necluda Sea" />
+		<Row Tag="LOC_NAMED_SEA_MARTHAS_BAY_NAME" Language="en_US" Text="Martha's Bay" />
+		<Row Tag="LOC_NAMED_SEA_HATENO_BAY_NAME" Language="en_US" Text="Hateno Bay" />
+		<Row Tag="LOC_NAMED_SEA_KITANO_BAY_NAME" Language="en_US" Text="Kitano Bay" />
+		<Row Tag="LOC_NAMED_SEA_LANAYRU_SEA_NAME" Language="en_US" Text="Lanayru Sea" />
+		<Row Tag="LOC_NAMED_SEA_LANAYRU_BAY_NAME" Language="en_US" Text="Lanayru Bay" />
+		<Row Tag="LOC_NAMED_SEA_ZORA_SEAS_NAME" Language="en_US" Text="Zora Seas" />
+		<Row Tag="LOC_NAMED_SEA_GREAT_TERMINA_BAY_NAME" Language="en_US" Text="Great Termina Bay" />
+		<Row Tag="LOC_NAMED_SEA_GERUDO_SEAS_NAME" Language="en_US" Text="Gerudo Sea" />
+		<!-- Oceans -->
+		<Row Tag="LOC_NAMED_OCEAN_GREAT_HYRULEAN_SEA_NAME" Language="en_US" Text="Great Hyrulean Sea" />
+		<Row Tag="LOC_NAMED_OCEAN_LANAYRU_OCEAN_NAME" Language="en_US" Text="Lanayru Ocean" />
+		<Row Tag="LOC_NAMED_OCEAN_OCEAN_OF_STORMS_NAME" Language="en_US" Text="Ocean of Storms" />
+		<Row Tag="LOC_NAMED_OCEAN_TERMINA_OCEAN_NAME" Language="en_US" Text="Termina Ocean" />
+		<!-- Deserts -->
+		<Row Tag="LOC_NAMED_DESERT_GERUDO_DESERT_NAME" Language="en_US" Text="Gerudo Desert" />
+		<Row Tag="LOC_NAMED_DESERT_HAUNTED_WASTELAND_NAME" Language="en_US" Text="Haunted Wasteland" />
+		<Row Tag="LOC_NAMED_DESERT_PALU_WASTELAND_NAME" Language="en_US" Text="Palu Wasteland" />
+		<Row Tag="LOC_NAMED_DESERT_TORUMA_DUNES_NAME" Language="en_US" Text="Toruma Dunes" />
+		<Row Tag="LOC_NAMED_DESERT_DESERT_OF_DOUBT_NAME" Language="en_US" Text="Desert of Doubt" />
+		<Row Tag="LOC_NAMED_DESERT_SAMASA_DESERT_NAME" Language="en_US" Text="Samasa Desert" />
+		<Row Tag="LOC_NAMED_DESERT_PARAPA_DESERT_NAME" Language="en_US" Text="Parapa Desert" />
+		<Row Tag="LOC_NAMED_DESERT_TANTARI_DESERT_NAME" Language="en_US" Text="Tantari Desert" />
+		<!-- Mountains -->
+		<Row Tag="LOC_NAMED_MOUNTAIN_CRENEL_PEAK_NAME" Language="en_US" Text="Crenel Peak" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_DUELING_PEAKS_NAME" Language="en_US" Text="Dueling Peaks" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_HYRULE_RIDGE_NAME" Language="en_US" Text="Hyrule Ridge" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_HEBRA_MOUNTAINS_NAME" Language="en_US" Text="Hebra Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_SNOWPEAK_MOUNTAINS_NAME" Language="en_US" Text="Snowpeak Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_ELDIN_MOUNTAINS_NAME" Language="en_US" Text="Eldin Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_JAABU_RIDGE_NAME" Language="en_US" Text="Ja'Abu Ridge" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_PLOYMUS_MOUNTAIN_NAME" Language="en_US" Text="Ploymus Mountain" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_LANAYRU_HEIGHTS_NAME" Language="en_US" Text="Lanayru Heights" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_ROLLING_RIDGE_NAME" Language="en_US" Text="Rolling Ridge" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_GERUDO_HIGHLANDS_NAME" Language="en_US" Text="Gerudo Highlands" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_IKANA_MOUNTAINS_NAME" Language="en_US" Text="Ikana Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_SNOWHEAD_MOUNTAINS_NAME" Language="en_US" Text="Snowhead Mountains" />
+		<Row Tag="LOC_NAMED_MOUNTAIN_TERMINA_MOUNTAINS_NAME" Language="en_US" Text="Termina Mountains" />
+		<!-- Volcanoes -->
+		<Row Tag="LOC_NAMED_VOLCANO_DEATH_CALDERA_NAME" Language="en_US" Text="Death Caldera" />
+		<Row Tag="LOC_NAMED_VOLCANO_SUBROSIA_VOLCANOES_NAME" Language="en_US" Text="Subrosian Volcanoes" />
+		<Row Tag="LOC_NAMED_VOLCANO_DRABLANDS_VOLCANO_NAME" Language="en_US" Text="Drablands Volcano" />
 	</LocalizedText>
 </GameData>

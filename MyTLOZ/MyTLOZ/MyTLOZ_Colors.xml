@@ -175,6 +175,24 @@
 			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
 			<SecondaryColor>COLOR_PLAYER_CITY_STATE_GARO</SecondaryColor>
 		</Row>
+		<Row>
+			<Type>CIVILIZATION_TERMINAN_GORONS</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CITY_STATE_TERMINAN_GORONS</SecondaryColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_TERMINAN_ZORAS</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CITY_STATE_TERMINAN_ZORAS</SecondaryColor>
+		</Row>
+		<Row>
+			<Type>CIVILIZATION_GERUDO_PIRATES</Type>
+			<Usage>Minor</Usage>
+			<PrimaryColor>COLOR_PLAYER_CITY_STATE_PRIMARY</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_CITY_STATE_GERUDO_PIRATES</SecondaryColor>
+		</Row>
 	</PlayerColors>
 
 	<Colors>
@@ -236,7 +254,7 @@
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_RHOAM_BOSPHORAMUS_PRIMARY</Type>
-			<Color>26,132,26,194</Color>
+			<Color>26,132,195,194</Color>
 		</Row>
 		<Row>
 			<Type>COLOR_PLAYER_RHOAM_BOSPHORAMUS_SECONDARY</Type>
@@ -329,6 +347,18 @@
 		<Row>
 			<Type>COLOR_PLAYER_CITY_STATE_GARO</Type>
 			<Color>93,2,1,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CITY_STATE_TERMINAN_GORONS</Type>
+			<Color>255,167,158,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CITY_STATE_TERMINAN_ZORAS</Type>
+			<Color>104,239,255,255</Color>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_CITY_STATE_GERUDO_PIRATES</Type>
+			<Color>255,96,202,255</Color>
 		</Row>
 	</Colors>
 </GameInfo>

@@ -1,4 +1,80 @@
 <?xml version="1.0" encoding="utf-8"?>
 <GameData>
-
+	<!-- QUOTES -->
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_ZELDA_QUOTE" Language="en_US">
+		<Text>I had a dream... In the dream, dark storm clouds were billowing over the land of Hyrule... But suddenly, a ray of light shot out of the forest, parted the clouds and lit up the ground... The light turned into a figure holding a green and shining stone, followed by a fairy... I know this is a prophecy that someone would come from the forest... Yes, I thought you might be the one... Oh, I'm sorry! I got carried away with my story and didn't even properly introduce myself! I am Zelda, Princess of Hyrule.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DEKU_KING_QUOTE" Language="en_US">
+		<Text>Hasty decision making is my weakness...This time, more than ever, it has become clear to me.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_IGOS_IKANA_QUOTE" Language="en_US">
+		<Text>Believing in your friends and embracing that belief by forgiving failure... These feelings have vanished from our hearts.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_GANON_QUOTE" Language="en_US">
+		<Text>My country lay within a vast desert. When the sun rose into the sky, a burning wind punished my lands, searing the world. And when the moon climbed into the dark of night, a frigid gale pierced our homes. No matter when it came, the wind carried the same thing... Death. But the winds that blew across the green fields of Hyrule brought something other than suffering and ruin. I coveted that wind, I suppose.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DOREPHAN_QUOTE" Language="en_US">
+		<Text>This is bigger than all of us, my friend. Zora and Hylians alike must put aside our differences and band together.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_DARUK_QUOTE" Language="en_US">
+		<Text>Gee, this is uplifting... She's making it sound like we already lost.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_MAKEELA_RIJU_QUOTE" Language="en_US">
+		<Text>It's funny... I used to spend a lot of my time worrying about my people or my ability to lead... Now I look forward to each and every day...</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_RHOAM_BOSPHORAMUS_QUOTE" Language="en_US">
+		<Text>Considering that I could not save my own kingdom, I have no right to ask this of you, Link... But I am powerless here... You must save her...my daughter. And do whatever it takes to annihilate Ganon.</Text>
+	</Row>
+	<Row Tag="LOC_PEDIA_LEADERS_PAGE_LEADER_URBOSA_QUOTE" Language="en_US">
+		<Text>Feeling sorry for yourself won't be of any help.</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_KINGDOM_HYRULE_LOCATION" Language="en_US">
+		<Text>Hyrule</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_KINGDOM_HYRULE_CAPITAL" Language="en_US">
+		<Text>Hyrule Castle</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_DEKU_KINGDOM_LOCATION" Language="en_US">
+		<Text>Termina</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_DEKU_KINGDOM_CAPITAL" Language="en_US">
+		<Text>Deku Palace</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_KINGDOM_IKANA_LOCATION" Language="en_US">
+		<Text>Termina</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_KINGDOM_IKANA_CAPITAL" Language="en_US">
+		<Text>Ikana Castle</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_DEMON_KINGS_LOCATION" Language="en_US">
+		<Text>Hyrule</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_DEMON_KINGS_CAPITAL" Language="en_US">
+		<Text>Various</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_ZORA_KINGDOM_LOCATION" Language="en_US">
+		<Text>Hyrule</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_ZORA_KINGDOM_CAPITAL" Language="en_US">
+		<Text>Zora’s Domain</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_THE_GORON_LOCATION" Language="en_US">
+		<Text>Hyrule</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_THE_GORON_CAPITAL" Language="en_US">
+		<Text>Goron City</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_GERUDO_LOCATION" Language="en_US">
+		<Text>Hyrule</Text>
+	</Row>
+	<Row Tag="LOC_CIVINFO_GERUDO_CAPITAL" Language="en_US">
+		<Text>Gerudo</Text>
+	</Row>
 </GameData>
+
+<!--
+Diplo_:
+"You who bring light into darkness, I am the King of Ikana Kingdom, Igos du Ikana." 
+"I am King Dorephan, ruler of the Zora." 
+"You stand before Lady Riju, chief of the Gerudo! Declare your business, but come no closer!"
+-->

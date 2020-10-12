@@ -205,6 +205,8 @@
 		<Row TraitType="TRAIT_CIVILIZATION_KING_OF_DARKNESS" ModifierId="MYTLOZ_DARK_FORCES"/>
 		<Row TraitType="TRAIT_CIVILIZATION_KING_OF_DARKNESS" ModifierId="MYTLOZ_UNIT_MAINTENANCE_DISCOUNT"/>
 		<Row TraitType="TRAIT_CIVILIZATION_KING_OF_DARKNESS" ModifierId="BONUS_VS_WOUNDED_UNITS"/>
+		<Row TraitType="TRAIT_CIVILIZATION_KING_OF_DARKNESS" ModifierId="TRAIT_MYTLOZ_INCREASED_DESERT_FOOD"/>
+		<Row TraitType="TRAIT_CIVILIZATION_KING_OF_DARKNESS" ModifierId="TRAIT_MYTLOZ_INCREASED_DESERT_HILLS_FOOD"/>
 		<Row TraitType="TRAIT_CIVILIZATION_SEA_ZORA" ModifierId="MYTLOZ_TRAIT_RIVER_FASTER_BUILDTIME_DISTRICT"/>
 		<Row TraitType="TRAIT_CIVILIZATION_SEA_ZORA" ModifierId="TRAIT_RIVER_FASTER_BUILDTIME_WONDER"/>
 		<Row TraitType="TRAIT_CIVILIZATION_SEA_ZORA" ModifierId="TRAIT_GRANT_COASTAL_RAID_ABILITY"/>
@@ -223,6 +225,7 @@
 		<Row TraitType="TRAIT_CIVILIZATION_ROCK_EATERS" ModifierId="TRAIT_MYTLOZ_INDUSTRIAL_ADJACENCY_MOUNTAIN_TUNDRA_MOUNTAIN"/>
 		<Row TraitType="TRAIT_CIVILIZATION_ROCK_EATERS" ModifierId="TRAIT_MYTLOZ_INDUSTRIAL_ADJACENCY_MOUNTAIN_SNOW_MOUNTAIN"/>
 		<Row TraitType="TRAIT_CIVILIZATION_ROCK_EATERS" ModifierId="TRAIT_MYTLOZ_ADD_FOOD_TO_ALL_MINES"/>
+		<Row TraitType="TRAIT_CIVILIZATION_ROCK_EATERS" ModifierId="TRAIT_MYTLOZ_INCREASED_DESERT_HILLS_FOOD"/>
 		<Row TraitType="TRAIT_CIVILIZATION_GERUDO_CHIEFTAINS" ModifierId="TRAIT_MYTLOZ_COMMERCIALHUB_ADJACENCY_DESERT_GOLD"/>
 		<Row TraitType="TRAIT_CIVILIZATION_GERUDO_CHIEFTAINS" ModifierId="TRAIT_MYTLOZ_COMMERCIALHUB_ADJACENCY_DESERT_HILLS_GOLD"/>
 		<Row TraitType="TRAIT_CIVILIZATION_GERUDO_CHIEFTAINS" ModifierId="TRAIT_MYTLOZ_COMMERCIALHUB_ADJACENCY_DESERT_FOOD"/>
@@ -388,6 +391,16 @@
 		<Row>
 			<ModifierId>TRAIT_MYTLOZ_OASIS_CITY_CENTER_ADJACENCY_CULTURE</ModifierId>
 			<ModifierType>MODIFIER_PLAYER_CITIES_FEATURE_ADJACENCY</ModifierType>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYTLOZ_DESERT_FOOD_BONUS_REQUIREMENTS</SubjectRequirementSetId>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_HILLS_FOOD</ModifierId>
+			<ModifierType>MODIFIER_PLAYER_ADJUST_PLOT_YIELD</ModifierType>
+			<SubjectRequirementSetId>MYTLOZ_DESERT_HILLS_FOOD_BONUS_REQUIREMENTS</SubjectRequirementSetId>
 		</Row>
 	</Modifiers>
 
@@ -879,6 +892,26 @@
 			<Name>Description</Name>
 			<Value>LOC_MYTLOZ_CITYCENTER_OASIS_CULTURE</Value>
 		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>2</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_HILLS_FOOD</ModifierId>
+			<Name>YieldType</Name>
+			<Value>YIELD_FOOD</Value>
+		</Row>
+		<Row>
+			<ModifierId>TRAIT_MYTLOZ_INCREASED_DESERT_HILLS_FOOD</ModifierId>
+			<Name>Amount</Name>
+			<Value>1</Value>
+		</Row>
 	</ModifierArguments>
 	
 	<ModifierStrings>
@@ -892,6 +925,14 @@
 			<RequirementSetId>MYTLOZ_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
 			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
 		</Row>
+		<Row>
+			<RequirementSetId>MYTLOZ_DESERT_FOOD_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
+		<Row>
+			<RequirementSetId>MYTLOZ_DESERT_HILLS_FOOD_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementSetType>REQUIREMENTSET_TEST_ANY</RequirementSetType>
+		</Row>
 	</RequirementSets>
 
 	<RequirementSetRequirements>
@@ -902,6 +943,16 @@
 		</Row>
 		<Row>
 			<RequirementSetId>MYTLOZ_DESERT_COMBAT_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_DESERT_HILLS</RequirementId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYTLOZ_DESERT_FOOD_BONUS_REQUIREMENTS</RequirementSetId>
+			<RequirementId>REQUIRES_PLOT_HAS_DESERT</RequirementId>
+			<!-- Implemented In Vanilla-->
+		</Row>
+		<Row>
+			<RequirementSetId>MYTLOZ_DESERT_HILLS_FOOD_BONUS_REQUIREMENTS</RequirementSetId>
 			<RequirementId>REQUIRES_PLOT_HAS_DESERT_HILLS</RequirementId>
 			<!-- Implemented In Vanilla-->
 		</Row>

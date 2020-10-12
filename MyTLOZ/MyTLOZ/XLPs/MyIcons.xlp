@@ -201,6 +201,34 @@
 			<m_EntryID text="MyTLOZeligionIcon_22"/>
 			<m_ObjectName text="MyTLOZeligionIcon_22"/>
 		</Element>
+		<Element>
+			<m_EntryID text="Religion_DekuTree"/>
+			<m_ObjectName text="Religion_DekuTree"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_Demise"/>
+			<m_ObjectName text="Religion_Demise"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_FireMountain"/>
+			<m_ObjectName text="Religion_FireMountain"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_Goddesses"/>
+			<m_ObjectName text="Religion_Goddesses"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_GoddessSand"/>
+			<m_ObjectName text="Religion_GoddessSand"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_JabuJabu"/>
+			<m_ObjectName text="Religion_JabuJabu"/>
+		</Element>
+		<Element>
+			<m_EntryID text="Religion_Majora"/>
+			<m_ObjectName text="Religion_Majora"/>
+		</Element>
 	</m_Entries>
 	<m_AllowedPlatforms>
 		<Element>WINDOWS</Element>
