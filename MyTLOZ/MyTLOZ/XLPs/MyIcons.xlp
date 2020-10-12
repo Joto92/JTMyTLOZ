@@ -194,12 +194,12 @@
 			<m_ObjectName text="MyTLOZReligionIcon_100"/>
 		</Element>
 		<Element>
-			<m_EntryID text="MyTLOZeligionIcon_50"/>
-			<m_ObjectName text="MyTLOZeligionIcon_50"/>
+			<m_EntryID text="MyTLOZReligionIcon_50"/>
+			<m_ObjectName text="MyTLOZReligionIcon_50"/>
 		</Element>
 		<Element>
-			<m_EntryID text="MyTLOZeligionIcon_22"/>
-			<m_ObjectName text="MyTLOZeligionIcon_22"/>
+			<m_EntryID text="MyTLOZReligionIcon_22"/>
+			<m_ObjectName text="MyTLOZReligionIcon_22"/>
 		</Element>
 		<Element>
 			<m_EntryID text="Religion_DekuTree"/>
